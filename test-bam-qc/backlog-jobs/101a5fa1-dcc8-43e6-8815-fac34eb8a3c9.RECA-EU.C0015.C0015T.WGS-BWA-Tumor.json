@@ -1,0 +1,21 @@
+{
+  "object_id": "c255b8ff-267a-5c7c-9262-80647fa064f9",
+  "file_name": "8a4e304e7b2742d2214aad519ba2f00f.bam",
+  "file_size": 111511575598,
+  "file_md5sum": "8a4e304e7b2742d2214aad519ba2f00f",
+
+  "gnos_id": "001a5fa1-dcc8-43e6-8815-fac34eb8a3c9",
+  "index_object_id": "b9787ed5-6fb6-573f-94ce-4cb36d3e5c07",
+
+  "project_code": "RECA-EU",
+  "submitter_donor_id": "C0015",
+  "submitter_specimen_id": "C0015T",
+  "submitter_sample_id": "C0015T",
+  "aliquot_id": "04db8bef-8777-48ac-bc2e-3c9acb103f48",
+  "specimen_type": "Primary tumour - solid tissue",
+
+  "slice_regions": [
+    "1:31353-343143",
+    "5:123456-123556"
+  ]
+}
