@@ -12,5 +12,10 @@
   "submitter_specimen_id": "C0015T",
   "submitter_sample_id": "C0015T",
   "aliquot_id": "04db8bef-8777-48ac-bc2e-3c9acb103f48",
-  "specimen_type": "Primary tumour - solid tissue"
+  "specimen_type": "Primary tumour - solid tissue",
+
+  "slice_regions": [
+    "1:31353-343143",
+    "5:123456-123556"
+  ]
 }
