@@ -1,0 +1,11 @@
+
+- hosts: ec2_worker
+  sudo: True
+  vars:
+      single_node_lvm: True
+      shared_storage_system: lvm
+      vendor_data: /datastore
+      lvm_device_whitelist: /dev/xvdb,/dev/xvdc,/dev/xvdd,/dev/xvde
+  include: roles/storage/common/tasks/play_deploy_lvm_storage.yml
+
+
