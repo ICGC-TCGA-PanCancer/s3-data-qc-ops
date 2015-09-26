@@ -1,4 +1,12 @@
 {
+    "_runs_": {
+        "worker_1443245857_a979a410-a8ae-4468-92d6-129257018622": {
+            "downloading": {
+                "start": 1443267778, 
+                "stop": 1443267779
+            }
+        }
+    }, 
     "aliquot_id": "1a319682-f55e-4e0b-8476-48a0bea6c265", 
     "available_repos": [
         {
@@ -37,7 +45,7 @@
     ], 
     "gnos_id": "668956b6-49a2-4188-92a7-2602d46ea9e2", 
     "gnos_repo": [
-            "https://gtrepo-osdc-icgc.annailabs.com/"
+        "https://gtrepo-osdc-icgc.annailabs.com/"
     ], 
     "is_santa_cruz": false, 
     "project_code": "PRAD-CA", 
