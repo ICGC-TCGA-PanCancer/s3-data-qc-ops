@@ -1,4 +1,16 @@
 {
+    "_runs_": {
+        "worker_1443245857_a979a410-a8ae-4468-92d6-129257018622": {
+            "downloading": {
+                "s3_bai_md5": "09d1be974d39b4a169cf1df259df83e5", 
+                "s3_bai_size": 9082160, 
+                "s3_bam_md5": "926650e035d8de362aef48060b77ed10", 
+                "s3_bam_size": 82090979592, 
+                "start": 1443271557, 
+                "stop": 1443271558
+            }
+        }
+    }, 
     "aliquot_id": "413df96e-c622-11e3-bf01-24c6515278c0", 
     "available_repos": [
         {
