@@ -1,4 +1,12 @@
 {
+    "_runs_": {
+        "worker_1443245857_a979a410-a8ae-4468-92d6-129257018622": {
+            "downloading": {
+                "start": 1443258774, 
+                "stop": 1443258775
+            }
+        }
+    }, 
     "aliquot_id": "fc97c1c5-9f47-be90-e040-11ac0c480992", 
     "available_repos": [
         "https://gtrepo-bsc.annailabs.com/"
