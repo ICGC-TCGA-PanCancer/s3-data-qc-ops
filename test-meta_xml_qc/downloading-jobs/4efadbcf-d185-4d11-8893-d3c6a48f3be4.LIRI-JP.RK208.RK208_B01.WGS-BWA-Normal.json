@@ -1,4 +1,12 @@
 {
+    "_runs_": {
+        "worker_1443304937_e4104a1d-b846-4e0b-951f-cf578a73aaab": {
+            "downloading": {
+                "start": 1443304947, 
+                "stop": 1443304948
+            }
+        }
+    }, 
     "aliquot_id": "252c43ce-c623-11e3-bf01-24c6515278c0", 
     "available_repos": [
         {
