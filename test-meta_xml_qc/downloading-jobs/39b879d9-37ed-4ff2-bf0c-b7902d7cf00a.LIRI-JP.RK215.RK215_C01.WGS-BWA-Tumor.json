@@ -9,6 +9,16 @@
                 "start": 1443244357, 
                 "stop": 1443244358
             }
+        }, 
+        "worker_1443283144_46d38720-d5dd-400c-abcf-316e6fb2b079": {
+            "downloading": {
+                "s3_bai_md5": "6d403ae22e1714ab179a71b0d0575b02", 
+                "s3_bai_size": 8977784, 
+                "s3_bam_md5": "6d608368c05c6a9034443250ee9c5de7", 
+                "s3_bam_size": 127028002309, 
+                "start": 1443283164, 
+                "stop": 1443283168
+            }
         }
     }, 
     "aliquot_id": "2e0bbaf6-c623-11e3-bf01-24c6515278c0", 
