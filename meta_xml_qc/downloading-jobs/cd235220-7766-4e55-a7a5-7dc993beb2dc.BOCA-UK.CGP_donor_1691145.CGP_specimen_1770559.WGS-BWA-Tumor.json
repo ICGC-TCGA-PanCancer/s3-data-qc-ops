@@ -1,4 +1,12 @@
 {
+    "_runs_": {
+        "worker_1443305290_3e6403df-294d-4b4d-828c-33e612ed9006": {
+            "downloading": {
+                "start": 1443309389, 
+                "stop": 1443309390
+            }
+        }
+    }, 
     "aliquot_id": "fc99832e-a4ae-8259-e040-11ac0c48131c", 
     "available_repos": [
         "https://gtrepo-ebi.annailabs.com/", 
