@@ -9,6 +9,16 @@
             "s3_bai_size": 8959168, 
             "s3_bam_md5": "79c44e1cf358962186c89119feced802", 
             "s3_bam_size": 95821544139
+        }, 
+        "worker_1443371940_b0c9bdc3-adb7-4a2f-aa1f-ada9fac050d9": {
+            "downloading": {
+                "s3_bai_md5": "b6896c482b3f866d4df8b3b0bb76303f", 
+                "s3_bai_size": 8959168, 
+                "s3_bam_md5": "79c44e1cf358962186c89119feced802", 
+                "s3_bam_size": 95821544139, 
+                "start": 1443371947, 
+                "stop": 1443371948
+            }
         }
     }, 
     "aliquot_id": "507a2596-c623-11e3-bf01-24c6515278c0", 
