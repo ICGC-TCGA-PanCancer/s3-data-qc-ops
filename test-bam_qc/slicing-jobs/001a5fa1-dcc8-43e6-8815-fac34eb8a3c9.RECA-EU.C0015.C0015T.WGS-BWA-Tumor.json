@@ -1,0 +1,38 @@
+{
+    "_runs_": {
+        "worker_1443365158_b6b797da-55a8-46e6-8148-95d9d269e3a4": {
+            "downloading": {
+                "start": 1443365166, 
+                "stop": 1443365166
+            }
+        }, 
+        "worker_1443367481_9460b3a8-9f78-4cfd-b896-cc6f4f09ebd4": {
+            "downloading": {
+                "start": 1443367489, 
+                "stop": 1443367489
+            }
+        }, 
+        "worker_1443368025_2562a236-1c54-43b9-afdc-46b7739509c0": {
+            "downloading": {
+                "start": 1443368035, 
+                "stop": 1443368035
+            }
+        }
+    }, 
+    "aliquot_id": "04db8bef-8777-48ac-bc2e-3c9acb103f48", 
+    "file_md5sum": "8a4e304e7b2742d2214aad519ba2f00f", 
+    "file_name": "8a4e304e7b2742d2214aad519ba2f00f.bam", 
+    "file_size": 111511575598, 
+    "gnos_id": "001a5fa1-dcc8-43e6-8815-fac34eb8a3c9", 
+    "index_object_id": "b9787ed5-6fb6-573f-94ce-4cb36d3e5c07", 
+    "object_id": "c255b8ff-267a-5c7c-9262-80647fa064f9", 
+    "project_code": "RECA-EU", 
+    "slice_regions": [
+        "1:31353-343143", 
+        "5:123456-123556"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "C0015", 
+    "submitter_sample_id": "C0015T", 
+    "submitter_specimen_id": "C0015T"
+}
