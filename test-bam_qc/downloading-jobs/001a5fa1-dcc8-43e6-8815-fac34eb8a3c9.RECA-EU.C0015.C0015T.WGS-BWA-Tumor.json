@@ -5,6 +5,12 @@
                 "start": 1443365166, 
                 "stop": 1443365166
             }
+        }, 
+        "worker_1443367481_9460b3a8-9f78-4cfd-b896-cc6f4f09ebd4": {
+            "downloading": {
+                "start": 1443367489, 
+                "stop": 1443367489
+            }
         }
     }, 
     "aliquot_id": "04db8bef-8777-48ac-bc2e-3c9acb103f48", 
