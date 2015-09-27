@@ -4,6 +4,10 @@
             "downloading": {
                 "start": 1443383299, 
                 "stop": 1443383299
+            }, 
+            "slicing": {
+                "start": 1443383302, 
+                "stop": 1443383302
             }
         }, 
         "worker_1443371349_0ee01f48-b0f5-49cd-80d5-d58fc179cad7": {
