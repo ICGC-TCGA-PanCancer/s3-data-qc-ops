@@ -1,5 +1,15 @@
 {
     "_runs_": {
+        "run_1443382803_ae154cc3-e884-4b2a-8d2a-c10460c2500c": {
+            "downloading": {
+                "s3_bai_md5": "82989db39c81e29f049772c7f136b812", 
+                "s3_bai_size": 9019296, 
+                "s3_bam_md5": "8cda31ca72200c5c616baa74570c12ee", 
+                "s3_bam_size": 106863424870, 
+                "start": 1443382816, 
+                "stop": 1443382818
+            }
+        }, 
         "worker_1443379668_229f1a22-312d-4d3c-ab45-e4aca1250cfa": {
             "downloading": {
                 "s3_bai_md5": "82989db39c81e29f049772c7f136b812", 
