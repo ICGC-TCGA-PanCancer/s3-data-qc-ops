@@ -14,6 +14,48 @@
             "downloading": {
                 "start": 1443397924, 
                 "stop": 1443397932
+            }, 
+            "slicing": {
+                "slice_stats": {
+                    "1:20036033-20037139": {
+                        "dcctool_md5sum": "", 
+                        "dcctool_time": 0, 
+                        "samtools_md5sum": "", 
+                        "samtools_time": 0
+                    }, 
+                    "1:3036031-3037138": {
+                        "dcctool_md5sum": "", 
+                        "dcctool_time": 0, 
+                        "samtools_md5sum": "", 
+                        "samtools_time": 0
+                    }, 
+                    "1:336030-337137": {
+                        "dcctool_md5sum": "", 
+                        "dcctool_time": 0, 
+                        "samtools_md5sum": "", 
+                        "samtools_time": 0
+                    }, 
+                    "1:4036033-4037139": {
+                        "dcctool_md5sum": "", 
+                        "dcctool_time": 0, 
+                        "samtools_md5sum": "", 
+                        "samtools_time": 0
+                    }, 
+                    "1:43036033-43037139": {
+                        "dcctool_md5sum": "", 
+                        "dcctool_time": 0, 
+                        "samtools_md5sum": "", 
+                        "samtools_time": 0
+                    }, 
+                    "1:73036033-73037139": {
+                        "dcctool_md5sum": "", 
+                        "dcctool_time": 0, 
+                        "samtools_md5sum": "", 
+                        "samtools_time": 0
+                    }
+                }, 
+                "start": 1443397933, 
+                "stop": 1443397933
             }
         }
     }, 
