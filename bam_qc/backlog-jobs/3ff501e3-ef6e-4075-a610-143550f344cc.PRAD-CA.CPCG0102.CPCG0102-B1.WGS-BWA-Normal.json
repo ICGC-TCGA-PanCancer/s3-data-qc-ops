@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "cc360821-c36e-42f2-924c-1b92c997eba7", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "7d4bc91f6a313f5eb9219ec87e2b6081", 
+                "file_size": 31072
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "979cbb384f4a76bf42218922919c9bc7", 
+                "file_size": 30961
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "4cf7f6d8f26218e98bcb84c574ec3e10", 
+        "file_name": "ce58f6f643557c144d02b720d56c4547.bam.bai", 
+        "file_size": 16979960, 
+        "object_id": "4b617fef-49ce-5463-b930-9e8307f42119"
+    }, 
+    "bam_file": {
+        "file_md5sum": "ce58f6f643557c144d02b720d56c4547", 
+        "file_name": "ce58f6f643557c144d02b720d56c4547.bam", 
+        "file_size": 188532073601, 
+        "object_id": "d6bed6fa-199b-5924-9771-79b9567c6c76"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "3ff501e3-ef6e-4075-a610-143550f344cc", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-CA", 
+    "slice_regions": [
+        "21:28346255-28346355", 
+        "17:70597860-70597960", 
+        "5:88388193-88388293", 
+        "10:14727346-14727446", 
+        "16:52129434-52129534", 
+        "8:1976026-1976126", 
+        "12:124402683-124402783", 
+        "11:129563109-129563209", 
+        "13:84358326-84358426", 
+        "21:11719457-11719557", 
+        "20:51229865-51229965", 
+        "13:63361021-63361121", 
+        "7:76549019-76549119", 
+        "11:51380051-51380151", 
+        "22:40914839-40914939", 
+        "19:43927280-43927380", 
+        "3:115726812-115726912", 
+        "16:17677726-17677826", 
+        "17:68532016-68532116", 
+        "12:122599312-122599412"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "CPCG0102", 
+    "submitter_sample_id": "CPCG0102-B1", 
+    "submitter_specimen_id": "CPCG0102-B1", 
+    "xml_file": {
+        "file_md5sum": "7d4bc91f6a313f5eb9219ec87e2b6081", 
+        "file_name": "3ff501e3-ef6e-4075-a610-143550f344cc.xml", 
+        "file_size": 31072, 
+        "object_id": "93b391d1-2ae0-5b8a-93b2-41f4efea83ab"
+    }
+}

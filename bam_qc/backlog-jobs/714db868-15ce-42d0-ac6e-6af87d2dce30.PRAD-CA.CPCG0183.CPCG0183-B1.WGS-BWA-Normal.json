@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "38afad3a-cf0c-4c48-bfe4-f5ea10e352c0", 
+    "available_repos": [
+        {
+            "https://gtrepo-etri.annailabs.com/": {
+                "file_md5sum": "5bbf9cabbefcb455ddcbee335b37d747", 
+                "file_size": 31066
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "4145928d5d95eb4a684243bfe16e45a3", 
+                "file_size": 31064
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "0e806daf09948449245d5333883b049b", 
+                "file_size": 30955
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "5a858bace3bbee4e75345900e8f3943e", 
+        "file_name": "38c5b3136d1fd289e28b5a42449e3576.bam.bai", 
+        "file_size": 37485072, 
+        "object_id": "400b91b4-2079-51b1-a93c-ac75ca854bcd"
+    }, 
+    "bam_file": {
+        "file_md5sum": "38c5b3136d1fd289e28b5a42449e3576", 
+        "file_name": "38c5b3136d1fd289e28b5a42449e3576.bam", 
+        "file_size": 171979358465, 
+        "object_id": "b0b30c4d-47b7-5c09-bf81-ab37fa04c484"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "714db868-15ce-42d0-ac6e-6af87d2dce30", 
+    "gnos_repo": [
+        "https://gtrepo-etri.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-CA", 
+    "slice_regions": [
+        "10:103767732-103767832", 
+        "20:22904812-22904912", 
+        "14:34758784-34758884", 
+        "16:86775243-86775343", 
+        "5:104491320-104491420", 
+        "16:78536871-78536971", 
+        "20:40477556-40477656", 
+        "4:86572552-86572652", 
+        "2:23935114-23935214", 
+        "14:100932931-100933031", 
+        "5:28249839-28249939", 
+        "11:17285667-17285767", 
+        "6:20750943-20751043", 
+        "18:19524273-19524373", 
+        "9:54479504-54479604", 
+        "21:23998047-23998147", 
+        "6:100582028-100582128", 
+        "16:78135140-78135240", 
+        "7:119457855-119457955", 
+        "13:99755216-99755316"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "CPCG0183", 
+    "submitter_sample_id": "CPCG0183-B1", 
+    "submitter_specimen_id": "CPCG0183-B1", 
+    "xml_file": {
+        "file_md5sum": "5bbf9cabbefcb455ddcbee335b37d747", 
+        "file_name": "714db868-15ce-42d0-ac6e-6af87d2dce30.xml", 
+        "file_size": 31066, 
+        "object_id": "c81e92f2-35bb-5d8a-b2d2-ce4d44673441"
+    }
+}

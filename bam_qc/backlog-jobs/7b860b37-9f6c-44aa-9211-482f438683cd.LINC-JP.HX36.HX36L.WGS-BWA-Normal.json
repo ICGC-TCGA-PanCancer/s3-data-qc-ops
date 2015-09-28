@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "59408c15-e0d3-460c-846f-38251538216e", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "93e7c9b3ada64238b05a9aa655fdd1c7", 
+                "file_size": 30829
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "84d6659cf2de37fcd02d0bb4b18c64b6", 
+                "file_size": 35588
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "f99654aea5b529b01305c4b9cb54b438", 
+        "file_name": "f2b88b64dc372ab4b1370b7eb1ba8b56.bam.bai", 
+        "file_size": 29336504, 
+        "object_id": "2be86c57-b129-5c39-8146-7c2fa5c9627d"
+    }, 
+    "bam_file": {
+        "file_md5sum": "f2b88b64dc372ab4b1370b7eb1ba8b56", 
+        "file_name": "f2b88b64dc372ab4b1370b7eb1ba8b56.bam", 
+        "file_size": 144128837353, 
+        "object_id": "09967086-ddf8-5879-81c0-cc2181876483"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "7b860b37-9f6c-44aa-9211-482f438683cd", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "LINC-JP", 
+    "slice_regions": [
+        "4:48237461-48237561", 
+        "2:132382516-132382616", 
+        "18:48087272-48087372", 
+        "16:16938758-16938858", 
+        "6:27224580-27224680", 
+        "20:48235486-48235586", 
+        "6:60703718-60703818", 
+        "8:31527906-31528006", 
+        "7:66806553-66806653", 
+        "15:98689523-98689623", 
+        "14:57406240-57406340", 
+        "6:85623871-85623971", 
+        "3:124864030-124864130", 
+        "20:366408-366508", 
+        "11:81230841-81230941", 
+        "14:69663576-69663676", 
+        "14:54118649-54118749", 
+        "12:1652833-1652933", 
+        "16:38548554-38548654", 
+        "8:117333290-117333390"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "HX36", 
+    "submitter_sample_id": "HX36L", 
+    "submitter_specimen_id": "HX36L", 
+    "xml_file": {
+        "file_md5sum": "84d6659cf2de37fcd02d0bb4b18c64b6", 
+        "file_name": "7b860b37-9f6c-44aa-9211-482f438683cd.xml", 
+        "file_size": 35588, 
+        "object_id": "c693ac39-a72b-5177-8715-8602539f3247"
+    }
+}

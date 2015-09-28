@@ -1,0 +1,62 @@
+{
+    "aliquot_id": "9d905665-22fc-43ae-8182-7edf074937dc", 
+    "available_repos": [
+        {
+            "https://gtrepo-etri.annailabs.com/": {
+                "file_md5sum": "5b8c65f7767e339469b2a15b7f50c8c3", 
+                "file_size": 34845
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "9fe89cc4f76991890a9e45e41b384f04", 
+        "file_name": "4b5498e0bae21ad3b869d874c6e3630e.bam.bai", 
+        "file_size": 17697976, 
+        "object_id": "9ca9c8a8-b412-599e-b5b1-ef20ffea9b24"
+    }, 
+    "bam_file": {
+        "file_md5sum": "4b5498e0bae21ad3b869d874c6e3630e", 
+        "file_name": "4b5498e0bae21ad3b869d874c6e3630e.bam", 
+        "file_size": 141481144492, 
+        "object_id": "5dc15497-9c1d-5b77-b652-74d2f539ae18"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "9e3acb19-cbee-4574-a5c8-4dd82e8c2040", 
+    "gnos_repo": [
+        "https://gtrepo-etri.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PACA-CA", 
+    "slice_regions": [
+        "14:89783792-89783892", 
+        "13:37608428-37608528", 
+        "6:86539853-86539953", 
+        "5:55149041-55149141", 
+        "1:138010597-138010697", 
+        "16:55932783-55932883", 
+        "12:94807104-94807204", 
+        "7:149920113-149920213", 
+        "4:117649585-117649685", 
+        "20:60624135-60624235", 
+        "11:95420284-95420384", 
+        "1:171973983-171974083", 
+        "1:105264931-105265031", 
+        "10:48241357-48241457", 
+        "22:20214250-20214350", 
+        "6:101903341-101903441", 
+        "12:112350094-112350194", 
+        "5:31584956-31585056", 
+        "5:87018508-87018608", 
+        "14:13769856-13769956"
+    ], 
+    "specimen_type": "Normal - solid tissue", 
+    "submitter_donor_id": "PCSI_0083", 
+    "submitter_sample_id": "PCSI_0083_Du_R", 
+    "submitter_specimen_id": "PCSI_0083_Du_R", 
+    "xml_file": {
+        "file_md5sum": "5b8c65f7767e339469b2a15b7f50c8c3", 
+        "file_name": "9e3acb19-cbee-4574-a5c8-4dd82e8c2040.xml", 
+        "file_size": 34845, 
+        "object_id": "c3b52ce3-9e7e-5bd0-9fc1-5cd2e0b7b9ea"
+    }
+}

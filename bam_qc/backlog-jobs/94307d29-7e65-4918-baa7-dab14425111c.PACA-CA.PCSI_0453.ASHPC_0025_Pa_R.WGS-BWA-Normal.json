@@ -1,0 +1,62 @@
+{
+    "aliquot_id": "5abf4c6b-8142-4e47-b30d-e4af37c1ed55", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "394bc50cfda5d328c165f4c4b282ac19", 
+                "file_size": 37168
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "9a25700761dbd3462229766a3cffc810", 
+        "file_name": "fe3ff1455f0da9ae0e51dded160ba0b4.bam.bai", 
+        "file_size": 16564712, 
+        "object_id": "34f7b150-1e9e-56e0-9a62-e086d48e67a0"
+    }, 
+    "bam_file": {
+        "file_md5sum": "fe3ff1455f0da9ae0e51dded160ba0b4", 
+        "file_name": "fe3ff1455f0da9ae0e51dded160ba0b4.bam", 
+        "file_size": 222160434839, 
+        "object_id": "18c89ee5-a5c4-5883-8739-1b50ee5937d5"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "94307d29-7e65-4918-baa7-dab14425111c", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PACA-CA", 
+    "slice_regions": [
+        "12:82201158-82201258", 
+        "4:168209194-168209294", 
+        "11:105581694-105581794", 
+        "8:103618051-103618151", 
+        "3:123406596-123406696", 
+        "19:2890690-2890790", 
+        "12:91733976-91734076", 
+        "4:156724306-156724406", 
+        "14:37085670-37085770", 
+        "18:3525595-3525695", 
+        "19:283035-283135", 
+        "20:28154705-28154805", 
+        "3:136137369-136137469", 
+        "7:44776065-44776165", 
+        "7:35628345-35628445", 
+        "5:116222977-116223077", 
+        "22:1912655-1912755", 
+        "19:144953-145053", 
+        "16:62722924-62723024", 
+        "17:69159076-69159176"
+    ], 
+    "specimen_type": "Normal - other", 
+    "submitter_donor_id": "PCSI_0453", 
+    "submitter_sample_id": "ASHPC_0025_Pa_R", 
+    "submitter_specimen_id": "ASHPC_0025_Pa_R", 
+    "xml_file": {
+        "file_md5sum": "394bc50cfda5d328c165f4c4b282ac19", 
+        "file_name": "94307d29-7e65-4918-baa7-dab14425111c.xml", 
+        "file_size": 37168, 
+        "object_id": "f51042e3-da4a-56f0-b0ae-4ff68c2feb37"
+    }
+}

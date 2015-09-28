@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "84ae4dd8-f661-46aa-9892-69742e2f3542", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "ce9f1766cad8b3141447fc9b6593d49b", 
+                "file_size": 41365
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "57aaf2d71348b96625993e9ccc9eaf1c", 
+                "file_size": 41366
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "597e7b9231c868a54d911fdd9f5e9f2d", 
+        "file_name": "7b32ba8e4ee40a02572d78a63a105a56.bam.bai", 
+        "file_size": 16214888, 
+        "object_id": "aa288baa-fc0d-5af9-bb52-c07e7aa53748"
+    }, 
+    "bam_file": {
+        "file_md5sum": "7b32ba8e4ee40a02572d78a63a105a56", 
+        "file_name": "7b32ba8e4ee40a02572d78a63a105a56.bam", 
+        "file_size": 191278132520, 
+        "object_id": "1af15027-de25-597a-b45c-dbb840337b31"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "afa93977-5dd2-4ba4-9140-35c80340628f", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-CA", 
+    "slice_regions": [
+        "11:116738285-116738385", 
+        "15:61916078-61916178", 
+        "3:101156350-101156450", 
+        "14:24133309-24133409", 
+        "14:40174091-40174191", 
+        "4:105603242-105603342", 
+        "8:99521148-99521248", 
+        "3:182901924-182902024", 
+        "4:148507103-148507203", 
+        "21:18603893-18603993", 
+        "13:81143552-81143652", 
+        "21:8901726-8901826", 
+        "18:5279248-5279348", 
+        "9:49629493-49629593", 
+        "11:20857861-20857961", 
+        "17:22795759-22795859", 
+        "11:86320774-86320874", 
+        "15:89579052-89579152", 
+        "4:57451811-57451911", 
+        "17:60680154-60680254"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "CPCG0380", 
+    "submitter_sample_id": "CPCG0380-F1", 
+    "submitter_specimen_id": "CPCG0380-F1", 
+    "xml_file": {
+        "file_md5sum": "ce9f1766cad8b3141447fc9b6593d49b", 
+        "file_name": "afa93977-5dd2-4ba4-9140-35c80340628f.xml", 
+        "file_size": 41365, 
+        "object_id": "2acd2b75-81f3-51b6-833f-9da171d7763c"
+    }
+}

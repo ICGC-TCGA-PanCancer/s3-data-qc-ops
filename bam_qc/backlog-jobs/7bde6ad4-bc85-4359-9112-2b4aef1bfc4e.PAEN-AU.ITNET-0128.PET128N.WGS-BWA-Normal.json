@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "7a9f932c-ea11-4dd1-946c-a2f7d9620442", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "1ccb65d90a0ab35ed4e240347b505b1d", 
+                "file_size": 31158
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "51219988d2ba839cfb4e8b91f11f07ff", 
+                "file_size": 31176
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "273112be0d8a6275f4108becc472e3d3", 
+        "file_name": "a62fd94098adec84ed01d07a73407b1e.bam.bai", 
+        "file_size": 14396168, 
+        "object_id": "4e97a166-5fe8-56f0-a161-285330468eb2"
+    }, 
+    "bam_file": {
+        "file_md5sum": "a62fd94098adec84ed01d07a73407b1e", 
+        "file_name": "a62fd94098adec84ed01d07a73407b1e.bam", 
+        "file_size": 93595255056, 
+        "object_id": "09c3f578-5a2c-53bd-9e8c-ac87fc2989e9"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "7bde6ad4-bc85-4359-9112-2b4aef1bfc4e", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PAEN-AU", 
+    "slice_regions": [
+        "13:15714828-15714928", 
+        "3:85234004-85234104", 
+        "6:61349902-61350002", 
+        "9:140153183-140153283", 
+        "20:61451151-61451251", 
+        "5:101808967-101809067", 
+        "17:65417151-65417251", 
+        "1:217598247-217598347", 
+        "17:31958018-31958118", 
+        "11:94500692-94500792", 
+        "10:101028319-101028419", 
+        "9:134808345-134808445", 
+        "1:191301299-191301399", 
+        "11:126664239-126664339", 
+        "16:27264555-27264655", 
+        "2:130521279-130521379", 
+        "3:36981065-36981165", 
+        "16:81523277-81523377", 
+        "14:4145140-4145240", 
+        "1:149928746-149928846"
+    ], 
+    "specimen_type": "Normal - tissue adjacent to primary", 
+    "submitter_donor_id": "ITNET-0128", 
+    "submitter_sample_id": "PET128N", 
+    "submitter_specimen_id": "PET128N", 
+    "xml_file": {
+        "file_md5sum": "1ccb65d90a0ab35ed4e240347b505b1d", 
+        "file_name": "7bde6ad4-bc85-4359-9112-2b4aef1bfc4e.xml", 
+        "file_size": 31158, 
+        "object_id": "b6a2b170-db85-5f79-9f60-8cb1dbeaa1e4"
+    }
+}

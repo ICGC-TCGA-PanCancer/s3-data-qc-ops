@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "1319bfce-ea65-4181-874d-b0f4c4d4a789", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "3595c4b2ef42e7dec794a499d6959256", 
+                "file_size": 28901
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "4be6c7d8574e2ba3b53b43e30fc5e8a9", 
+                "file_size": 28919
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "ae8f618c505339bd0cafaf7bfe48397c", 
+                "file_size": 28795
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "bc7ccc82a925c43007168a114cb19584", 
+        "file_name": "d03caf8cac381ed2d3b3d8f583219624.bam.bai", 
+        "file_size": 11829952, 
+        "object_id": "e07baf17-6979-5d03-bede-1e1770c3d3ec"
+    }, 
+    "bam_file": {
+        "file_md5sum": "d03caf8cac381ed2d3b3d8f583219624", 
+        "file_name": "d03caf8cac381ed2d3b3d8f583219624.bam", 
+        "file_size": 96870270573, 
+        "object_id": "ca8f216b-51c2-5b75-a3cb-5886d06996cb"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "8a4eebe5-6224-46ce-aaa7-062a5f579e7d", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "OV-AU", 
+    "slice_regions": [
+        "19:12173853-12173953", 
+        "15:37791185-37791285", 
+        "19:16486799-16486899", 
+        "7:115405385-115405485", 
+        "15:14607654-14607754", 
+        "21:46874649-46874749", 
+        "8:105545658-105545758", 
+        "20:12503769-12503869", 
+        "14:25537981-25538081", 
+        "5:78394231-78394331", 
+        "22:27154332-27154432", 
+        "16:24179616-24179716", 
+        "7:75458773-75458873", 
+        "7:46164926-46165026", 
+        "17:18265174-18265274", 
+        "1:192397634-192397734", 
+        "22:28728019-28728119", 
+        "9:79887599-79887699", 
+        "11:106355853-106355953", 
+        "14:78732139-78732239"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "AOCS-091", 
+    "submitter_sample_id": "AOCS-091-5-8", 
+    "submitter_specimen_id": "AOCS-091-9", 
+    "xml_file": {
+        "file_md5sum": "ae8f618c505339bd0cafaf7bfe48397c", 
+        "file_name": "8a4eebe5-6224-46ce-aaa7-062a5f579e7d.xml", 
+        "file_size": 28795, 
+        "object_id": "64f8ab42-3fbe-5e33-964e-89d68b56939c"
+    }
+}

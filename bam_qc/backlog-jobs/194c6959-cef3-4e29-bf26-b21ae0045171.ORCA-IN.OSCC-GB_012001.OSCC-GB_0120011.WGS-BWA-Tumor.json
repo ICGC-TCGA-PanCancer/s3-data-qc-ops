@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "469eddf2-6e02-46bf-820f-6296a2b776e2", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "1a2390efa5badbbbe70e246742fab1b0", 
+                "file_size": 78171
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "310f7a97fb5ee3774d85d36fee1cb062", 
+                "file_size": 78165
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "25e227b3ef567921066471b15df6bfc1", 
+                "file_size": 77982
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "05cd29ba64cc694459b7844dd2381fdc", 
+        "file_name": "43c6d87f8be2197903114d966c65a4dd.bam.bai", 
+        "file_size": 16839280, 
+        "object_id": "b2d78333-f2c7-56ee-b875-9859c367b79c"
+    }, 
+    "bam_file": {
+        "file_md5sum": "43c6d87f8be2197903114d966c65a4dd", 
+        "file_name": "43c6d87f8be2197903114d966c65a4dd.bam", 
+        "file_size": 172465027870, 
+        "object_id": "9bc50cb8-ec67-5222-98a5-809230b7d3ea"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "194c6959-cef3-4e29-bf26-b21ae0045171", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "ORCA-IN", 
+    "slice_regions": [
+        "2:73109199-73109299", 
+        "9:86887112-86887212", 
+        "13:78576939-78577039", 
+        "8:111004707-111004807", 
+        "9:139098320-139098420", 
+        "8:72631055-72631155", 
+        "4:66442411-66442511", 
+        "6:163520853-163520953", 
+        "16:78248643-78248743", 
+        "14:72932877-72932977", 
+        "8:22057502-22057602", 
+        "10:15424615-15424715", 
+        "18:47853653-47853753", 
+        "21:40973711-40973811", 
+        "22:43903038-43903138", 
+        "4:56080263-56080363", 
+        "1:183613706-183613806", 
+        "14:40011890-40011990", 
+        "1:110525022-110525122", 
+        "8:34276019-34276119"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "OSCC-GB_012001", 
+    "submitter_sample_id": "OSCC-GB_01200111", 
+    "submitter_specimen_id": "OSCC-GB_0120011", 
+    "xml_file": {
+        "file_md5sum": "25e227b3ef567921066471b15df6bfc1", 
+        "file_name": "194c6959-cef3-4e29-bf26-b21ae0045171.xml", 
+        "file_size": 77982, 
+        "object_id": "99165182-c6bf-589d-9bd4-ad0fae9560c9"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "fca2d62f-2756-939e-e040-11ac0d4865e6", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "ccd8f1b7a0617b3e45bf93ad81f20e69", 
+                "file_size": 32341
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "24000a4ec71c9138c4f055cc523d61f3", 
+                "file_size": 32342
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "4e621f37ef548cfd1fa598e191756c9c", 
+        "file_name": "50869e429e841842b6d4d1d060a9b411.bam.bai", 
+        "file_size": 15041720, 
+        "object_id": "dc1e1413-ebc9-5160-89ab-9814345d0d56"
+    }, 
+    "bam_file": {
+        "file_md5sum": "50869e429e841842b6d4d1d060a9b411", 
+        "file_name": "50869e429e841842b6d4d1d060a9b411.bam", 
+        "file_size": 169933110474, 
+        "object_id": "474668a4-6f29-5851-a063-2ad4964a6f90"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "abf6c2e0-7bc6-4721-b5ac-adea5617a781", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-UK", 
+    "slice_regions": [
+        "8:71766991-71767091", 
+        "14:72413811-72413911", 
+        "18:18500913-18501013", 
+        "20:30828863-30828963", 
+        "4:138678489-138678589", 
+        "1:4425489-4425589", 
+        "16:20578604-20578704", 
+        "6:59838050-59838150", 
+        "17:41532018-41532118", 
+        "18:62004628-62004728", 
+        "9:51123060-51123160", 
+        "12:56418584-56418684", 
+        "18:55089270-55089370", 
+        "8:130912304-130912404", 
+        "11:16026293-16026393", 
+        "20:54567423-54567523", 
+        "21:25729252-25729352", 
+        "14:40335343-40335443", 
+        "15:51243730-51243830", 
+        "14:45266106-45266206"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "0007_CRUK_PC_0007", 
+    "submitter_sample_id": "0007_CRUK_PC_0007_T5_DNA", 
+    "submitter_specimen_id": "0007_CRUK_PC_0007_T5", 
+    "xml_file": {
+        "file_md5sum": "ccd8f1b7a0617b3e45bf93ad81f20e69", 
+        "file_name": "abf6c2e0-7bc6-4721-b5ac-adea5617a781.xml", 
+        "file_size": 32341, 
+        "object_id": "7b497b7d-7c77-557b-9494-c8a486bda3c7"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "49c3b767-f969-4fc5-8577-76ad455aea1c", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "78dd32fcab4bd638f9bf648b36e541f2", 
+                "file_size": 39150
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "2a526df13326f645e8195c2e3c6efe01", 
+                "file_size": 39151
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "04b6d129b6ef973354aa71f74b62e82c", 
+        "file_name": "1f563155ba9c41d3af15aaaee0f2ffc2.bam.bai", 
+        "file_size": 18862112, 
+        "object_id": "1c4cd6d4-5c72-5bd4-9e0c-7b168bf54df5"
+    }, 
+    "bam_file": {
+        "file_md5sum": "1f563155ba9c41d3af15aaaee0f2ffc2", 
+        "file_name": "1f563155ba9c41d3af15aaaee0f2ffc2.bam", 
+        "file_size": 162504863833, 
+        "object_id": "b869cca8-a720-5a62-8bee-947e19944f43"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "38d22a4a-de6b-4a30-84ad-1e140367d873", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PACA-CA", 
+    "slice_regions": [
+        "4:181682733-181682833", 
+        "22:17488665-17488765", 
+        "1:179125311-179125411", 
+        "2:25826254-25826354", 
+        "20:25230248-25230348", 
+        "22:30131144-30131244", 
+        "11:39293453-39293553", 
+        "15:24024179-24024279", 
+        "5:161194096-161194196", 
+        "16:88130740-88130840", 
+        "2:211867487-211867587", 
+        "2:186636317-186636417", 
+        "22:32281056-32281156", 
+        "16:81197737-81197837", 
+        "18:3501969-3502069", 
+        "11:11550767-11550867", 
+        "7:137901076-137901176", 
+        "17:26334770-26334870", 
+        "17:75271855-75271955", 
+        "2:61466300-61466400"
+    ], 
+    "specimen_type": "Normal - other", 
+    "submitter_donor_id": "PCSI_0458", 
+    "submitter_sample_id": "ASHPC_0031_Pa_R", 
+    "submitter_specimen_id": "ASHPC_0031_Pa_R", 
+    "xml_file": {
+        "file_md5sum": "78dd32fcab4bd638f9bf648b36e541f2", 
+        "file_name": "38d22a4a-de6b-4a30-84ad-1e140367d873.xml", 
+        "file_size": 39150, 
+        "object_id": "4deefa57-105f-5d7b-85c2-c413c9bb3a3a"
+    }
+}

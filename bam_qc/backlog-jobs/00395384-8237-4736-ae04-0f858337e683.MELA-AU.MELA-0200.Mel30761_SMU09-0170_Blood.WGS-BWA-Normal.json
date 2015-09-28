@@ -1,0 +1,62 @@
+{
+    "aliquot_id": "f89b9287-64cd-4c62-a817-346c49aade9a", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "2c089f14949516af42f1b91a353fa63f", 
+                "file_size": 38056
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "46c7bc351f4248a84dbb73b56bba1e94", 
+        "file_name": "8f6960ad4851edab46b670d8820a6f87.bam.bai", 
+        "file_size": 11470224, 
+        "object_id": "12236082-4362-5028-bafc-fff36da2fd1b"
+    }, 
+    "bam_file": {
+        "file_md5sum": "8f6960ad4851edab46b670d8820a6f87", 
+        "file_name": "8f6960ad4851edab46b670d8820a6f87.bam", 
+        "file_size": 101870792471, 
+        "object_id": "770c2ce2-c84d-5483-a8ee-2e8379e1aaf0"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "00395384-8237-4736-ae04-0f858337e683", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MELA-AU", 
+    "slice_regions": [
+        "11:89225335-89225435", 
+        "14:50829390-50829490", 
+        "22:6773439-6773539", 
+        "1:135978405-135978505", 
+        "15:62646785-62646885", 
+        "16:85329595-85329695", 
+        "22:23917082-23917182", 
+        "21:46131245-46131345", 
+        "18:40416671-40416771", 
+        "22:23875702-23875802", 
+        "7:55316031-55316131", 
+        "1:30038010-30038110", 
+        "22:26886910-26887010", 
+        "4:48917950-48918050", 
+        "15:63567610-63567710", 
+        "20:15794782-15794882", 
+        "16:77664539-77664639", 
+        "19:16435656-16435756", 
+        "16:12304099-12304199", 
+        "17:9342465-9342565"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "MELA-0200", 
+    "submitter_sample_id": "EXTERN-MELA-20140526-098", 
+    "submitter_specimen_id": "Mel30761_SMU09-0170_Blood", 
+    "xml_file": {
+        "file_md5sum": "2c089f14949516af42f1b91a353fa63f", 
+        "file_name": "00395384-8237-4736-ae04-0f858337e683.xml", 
+        "file_size": 38056, 
+        "object_id": "6f248f75-cded-5d8e-8c45-d1fca5a3fb39"
+    }
+}

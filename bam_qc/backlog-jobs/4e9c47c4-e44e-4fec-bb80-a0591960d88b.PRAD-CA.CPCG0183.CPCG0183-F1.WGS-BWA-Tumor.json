@@ -1,0 +1,62 @@
+{
+    "aliquot_id": "8689b53c-8883-479c-85f6-d13b86272b5d", 
+    "available_repos": [
+        {
+            "https://gtrepo-etri.annailabs.com/": {
+                "file_md5sum": "e0f4e883a6b7bd2dd65c82c00baa4eb0", 
+                "file_size": 35428
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "f2aee7e27056ef5e9f600fadeaa9ac3d", 
+        "file_name": "38b1b5e10b19c2d9ba3e2306d4b415f1.bam.bai", 
+        "file_size": 22130408, 
+        "object_id": "2f557866-4eaf-5588-8e46-6514e9ff9bd4"
+    }, 
+    "bam_file": {
+        "file_md5sum": "38b1b5e10b19c2d9ba3e2306d4b415f1", 
+        "file_name": "38b1b5e10b19c2d9ba3e2306d4b415f1.bam", 
+        "file_size": 245681323599, 
+        "object_id": "349cd0b4-0ab9-5786-bac4-cb95ea6052b1"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "4e9c47c4-e44e-4fec-bb80-a0591960d88b", 
+    "gnos_repo": [
+        "https://gtrepo-etri.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-CA", 
+    "slice_regions": [
+        "9:107429166-107429266", 
+        "10:131774171-131774271", 
+        "9:79857534-79857634", 
+        "7:83712090-83712190", 
+        "9:84822724-84822824", 
+        "10:26925566-26925666", 
+        "22:385453-385553", 
+        "14:94295101-94295201", 
+        "2:115144837-115144937", 
+        "13:98125318-98125418", 
+        "14:1533473-1533573", 
+        "18:10339433-10339533", 
+        "21:3147715-3147815", 
+        "14:76258863-76258963", 
+        "18:52378849-52378949", 
+        "8:63912535-63912635", 
+        "16:9135208-9135308", 
+        "3:119927090-119927190", 
+        "14:84284643-84284743", 
+        "9:140125592-140125692"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "CPCG0183", 
+    "submitter_sample_id": "CPCG0183-F1", 
+    "submitter_specimen_id": "CPCG0183-F1", 
+    "xml_file": {
+        "file_md5sum": "e0f4e883a6b7bd2dd65c82c00baa4eb0", 
+        "file_name": "4e9c47c4-e44e-4fec-bb80-a0591960d88b.xml", 
+        "file_size": 35428, 
+        "object_id": "df56540d-be70-532b-a325-181fb786081a"
+    }
+}
