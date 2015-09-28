@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "cb573c96-f6d4-4897-8919-9827f623b6a7", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "4473dff991a1e55db7e7d70e83dc9fe4", 
+                "file_size": 31554
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "91f36f75b64a9e54cbf482ed90545df2", 
+                "file_size": 31555
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "40b5e871cfb324c86e7db74682929717", 
+        "file_name": "f28662d5d3374bcc14157c24dc59d322.bam.bai", 
+        "file_size": 11996464, 
+        "object_id": "68095669-5f54-53b9-9302-05ae287c97f3"
+    }, 
+    "bam_file": {
+        "file_md5sum": "f28662d5d3374bcc14157c24dc59d322", 
+        "file_name": "f28662d5d3374bcc14157c24dc59d322.bam", 
+        "file_size": 109835323587, 
+        "object_id": "b48315bb-922e-5cd8-936d-f8f5111ac578"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "6eeb430a-726f-4db2-a600-2ac2d78e37fd", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "LICA-FR", 
+    "slice_regions": [
+        "14:51687437-51687537", 
+        "17:59306322-59306422", 
+        "22:18116210-18116310", 
+        "13:74499099-74499199", 
+        "11:121047676-121047776", 
+        "14:81162016-81162116", 
+        "4:171240011-171240111", 
+        "18:16685930-16686030", 
+        "12:127452417-127452517", 
+        "3:41547521-41547621", 
+        "14:92783237-92783337", 
+        "17:58261062-58261162", 
+        "15:82280764-82280864", 
+        "6:67809907-67810007", 
+        "10:80009363-80009463", 
+        "11:40485831-40485931", 
+        "13:73213158-73213258", 
+        "22:38687864-38687964", 
+        "9:98649910-98650010", 
+        "3:35282138-35282238"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "CHC322", 
+    "submitter_sample_id": "CHC322T", 
+    "submitter_specimen_id": "CHC322T", 
+    "xml_file": {
+        "file_md5sum": "91f36f75b64a9e54cbf482ed90545df2", 
+        "file_name": "6eeb430a-726f-4db2-a600-2ac2d78e37fd.xml", 
+        "file_size": 31555, 
+        "object_id": "ef43d940-20e5-5a8b-a0eb-8639c38c5480"
+    }
+}

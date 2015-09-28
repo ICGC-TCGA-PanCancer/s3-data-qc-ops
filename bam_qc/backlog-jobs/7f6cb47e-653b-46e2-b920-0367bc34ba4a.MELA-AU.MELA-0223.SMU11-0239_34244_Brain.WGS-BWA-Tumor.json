@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "25103371-28ac-4f43-b0e2-2d376d0dcb84", 
+    "available_repos": [
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "d3f6de26b03a5cb0824d87f77e63a97b", 
+                "file_size": 44582
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "467d428a310c8975cea2d1e0ae3aa8c2", 
+                "file_size": 44557
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "9360cbfc592db7e4b7904e410cb3cd79", 
+        "file_name": "889e90a0c9e995b24c79ea26aa389235.bam.bai", 
+        "file_size": 18665184, 
+        "object_id": "1e06e95d-cec0-5cd2-b73d-efb0717b5f06"
+    }, 
+    "bam_file": {
+        "file_md5sum": "889e90a0c9e995b24c79ea26aa389235", 
+        "file_name": "889e90a0c9e995b24c79ea26aa389235.bam", 
+        "file_size": 308220881936, 
+        "object_id": "a5dfd14f-2f9f-5e48-83c6-7bf15542b131"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "7f6cb47e-653b-46e2-b920-0367bc34ba4a", 
+    "gnos_repo": [
+        "https://gtrepo-osdc-icgc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MELA-AU", 
+    "slice_regions": [
+        "8:135611178-135611278", 
+        "19:31603588-31603688", 
+        "9:59412914-59413014", 
+        "10:9306703-9306803", 
+        "14:73764258-73764358", 
+        "12:8117831-8117931", 
+        "10:6532135-6532235", 
+        "14:83776558-83776658", 
+        "21:2243358-2243458", 
+        "20:35756664-35756764", 
+        "18:58437295-58437395", 
+        "20:55411303-55411403", 
+        "4:190530017-190530117", 
+        "1:24464064-24464164", 
+        "17:45858635-45858735", 
+        "22:48746435-48746535", 
+        "2:43637286-43637386", 
+        "18:33682056-33682156", 
+        "10:39905055-39905155", 
+        "6:85748767-85748867"
+    ], 
+    "specimen_type": "Metastatic tumour - metastasis to distant location", 
+    "submitter_donor_id": "MELA-0223", 
+    "submitter_sample_id": "EXTERN-MELA-20140924-019", 
+    "submitter_specimen_id": "SMU11-0239_34244_Brain", 
+    "xml_file": {
+        "file_md5sum": "d3f6de26b03a5cb0824d87f77e63a97b", 
+        "file_name": "7f6cb47e-653b-46e2-b920-0367bc34ba4a.xml", 
+        "file_size": 44582, 
+        "object_id": "46eec7e8-2d03-54ed-a997-f5c3c65ae268"
+    }
+}

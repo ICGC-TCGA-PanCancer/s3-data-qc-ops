@@ -1,0 +1,62 @@
+{
+    "aliquot_id": "f9c07ba7-152a-f624-e040-11ac0c484cd5", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "54bd621dda7922aa866884b291c70a11", 
+                "file_size": 28801
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "be64018b30b8725f34d48ad37d6bb325", 
+        "file_name": "57189645719297dc5bd42329c4e70448.bam.bai", 
+        "file_size": 15408720, 
+        "object_id": "096b486a-6004-549f-abd1-0a9a3791b7de"
+    }, 
+    "bam_file": {
+        "file_md5sum": "57189645719297dc5bd42329c4e70448", 
+        "file_name": "57189645719297dc5bd42329c4e70448.bam", 
+        "file_size": 181831250753, 
+        "object_id": "061690bc-ae22-5f1a-9c7d-89db8349133e"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "50e9322e-1054-425f-ad01-4008cbf90b5c", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-UK", 
+    "slice_regions": [
+        "15:78295446-78295546", 
+        "13:40865781-40865881", 
+        "22:391949-392049", 
+        "17:39272588-39272688", 
+        "6:156697634-156697734", 
+        "2:167036437-167036537", 
+        "22:8069383-8069483", 
+        "14:18503956-18504056", 
+        "3:157020464-157020564", 
+        "13:58205980-58206080", 
+        "21:10098706-10098806", 
+        "16:5409222-5409322", 
+        "22:20839474-20839574", 
+        "14:4591890-4591990", 
+        "10:125049618-125049718", 
+        "18:1851829-1851929", 
+        "5:108134461-108134561", 
+        "4:135920460-135920560", 
+        "7:105651255-105651355", 
+        "1:233223127-233223227"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "0056_CRUK_PC_0056", 
+    "submitter_sample_id": "0056_CRUK_PC_0056_T1_DNA", 
+    "submitter_specimen_id": "0056_CRUK_PC_0056_T1", 
+    "xml_file": {
+        "file_md5sum": "54bd621dda7922aa866884b291c70a11", 
+        "file_name": "50e9322e-1054-425f-ad01-4008cbf90b5c.xml", 
+        "file_size": 28801, 
+        "object_id": "4bbdc1a8-1eb6-5343-92fe-fab75bde68d3"
+    }
+}

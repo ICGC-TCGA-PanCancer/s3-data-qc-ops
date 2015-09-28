@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "4c6d5765-f6e2-42ca-b673-32ca03523035", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "24d57fbffb1c0723e7a37caca23215f9", 
+                "file_size": 34262
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "1d98eeb4e0817fb540c081ad67f5a921", 
+                "file_size": 34280
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "d8a4205aa708680a443eaedfb7f83fff", 
+        "file_name": "eea4804c3d9da13a16a9c0ef433ae428.bam.bai", 
+        "file_size": 13475456, 
+        "object_id": "be6f4835-948b-532b-b28c-42093c2e240e"
+    }, 
+    "bam_file": {
+        "file_md5sum": "eea4804c3d9da13a16a9c0ef433ae428", 
+        "file_name": "eea4804c3d9da13a16a9c0ef433ae428.bam", 
+        "file_size": 99585047898, 
+        "object_id": "fb1b4c20-4056-5810-8304-ab4f295b5942"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "826f2a7c-e425-499f-9b6d-4cdb4d09e981", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PAEN-AU", 
+    "slice_regions": [
+        "22:49064808-49064908", 
+        "14:66721063-66721163", 
+        "15:49661139-49661239", 
+        "6:3509448-3509548", 
+        "8:112126158-112126258", 
+        "10:80244187-80244287", 
+        "16:66824205-66824305", 
+        "12:30231999-30232099", 
+        "20:22811707-22811807", 
+        "14:9163650-9163750", 
+        "13:92803904-92804004", 
+        "17:42191097-42191197", 
+        "1:206873594-206873694", 
+        "8:54935456-54935556", 
+        "5:43283178-43283278", 
+        "1:29636998-29637098", 
+        "15:64196716-64196816", 
+        "14:40644438-40644538", 
+        "11:33314295-33314395", 
+        "7:94684581-94684681"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "NE-0032", 
+    "submitter_sample_id": "NE 32-T", 
+    "submitter_specimen_id": "NE 32-T", 
+    "xml_file": {
+        "file_md5sum": "24d57fbffb1c0723e7a37caca23215f9", 
+        "file_name": "826f2a7c-e425-499f-9b6d-4cdb4d09e981.xml", 
+        "file_size": 34262, 
+        "object_id": "7de29b1a-bd45-5c5d-8d99-c05dbc08cbb4"
+    }
+}

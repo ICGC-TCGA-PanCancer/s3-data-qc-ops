@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "f0768c67-f38c-40a8-8f27-81a927fb5dca", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "47cc011cdb8a753daf06987d23798ef4", 
+                "file_size": 30915
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "56936bc1c1023cc300e3eee657989fe5", 
+                "file_size": 30916
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "7b540028fbc21731e372076131521992", 
+        "file_name": "7bc9a7b77ee0dbd40310c486adae4b1a.bam.bai", 
+        "file_size": 23436808, 
+        "object_id": "761a9151-336e-5b03-b221-036ea644e2bc"
+    }, 
+    "bam_file": {
+        "file_md5sum": "7bc9a7b77ee0dbd40310c486adae4b1a", 
+        "file_name": "7bc9a7b77ee0dbd40310c486adae4b1a.bam", 
+        "file_size": 132167473041, 
+        "object_id": "73e0b583-b22d-5c8b-ae9a-ad1a54a9b0ce"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "bd033e47-092c-4a88-8808-ff2e664babde", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "LINC-JP", 
+    "slice_regions": [
+        "12:4795690-4795790", 
+        "22:39098531-39098631", 
+        "13:31896287-31896387", 
+        "17:41528694-41528794", 
+        "5:86859696-86859796", 
+        "14:48839781-48839881", 
+        "7:141196675-141196775", 
+        "11:279321-279421", 
+        "11:90370696-90370796", 
+        "2:147004025-147004125", 
+        "10:130002471-130002571", 
+        "1:141770274-141770374", 
+        "9:96773755-96773855", 
+        "3:125545591-125545691", 
+        "9:28641015-28641115", 
+        "13:15854919-15855019", 
+        "9:55979032-55979132", 
+        "13:94367140-94367240", 
+        "6:134964904-134965004", 
+        "21:18088507-18088607"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "HX33", 
+    "submitter_sample_id": "HX33T", 
+    "submitter_specimen_id": "HX33T", 
+    "xml_file": {
+        "file_md5sum": "47cc011cdb8a753daf06987d23798ef4", 
+        "file_name": "bd033e47-092c-4a88-8808-ff2e664babde.xml", 
+        "file_size": 30915, 
+        "object_id": "56874b56-cda8-5abf-9d31-18e5e2daa96d"
+    }
+}

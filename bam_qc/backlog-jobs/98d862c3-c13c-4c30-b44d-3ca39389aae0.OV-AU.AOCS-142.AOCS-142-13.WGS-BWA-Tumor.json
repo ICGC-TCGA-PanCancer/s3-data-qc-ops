@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "f858d813-f3c5-4ad9-8c20-9f231d6624d8", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "de0390311f44294948883e3d78fe315c", 
+                "file_size": 35410
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "9c8feb24f7951abb6d8d1d31d29348bd", 
+                "file_size": 35428
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "8356170b9a8be3cc84d5172aff128b58", 
+        "file_name": "8850cd29bfa64ea6a624739e7c93a1b4.bam.bai", 
+        "file_size": 11871472, 
+        "object_id": "5a5bdc2f-21a2-5346-a609-f291f0360c43"
+    }, 
+    "bam_file": {
+        "file_md5sum": "8850cd29bfa64ea6a624739e7c93a1b4", 
+        "file_name": "8850cd29bfa64ea6a624739e7c93a1b4.bam", 
+        "file_size": 127042379097, 
+        "object_id": "eba4cb9a-45c1-54d8-940a-6c6be10ee76e"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "98d862c3-c13c-4c30-b44d-3ca39389aae0", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "OV-AU", 
+    "slice_regions": [
+        "7:13796475-13796575", 
+        "16:20616630-20616730", 
+        "13:18048789-18048889", 
+        "15:65962718-65962818", 
+        "21:30685616-30685716", 
+        "12:80390105-80390205", 
+        "9:131190067-131190167", 
+        "20:28297252-28297352", 
+        "11:109352618-109352718", 
+        "21:23486388-23486488", 
+        "3:1627273-1627373", 
+        "20:51146179-51146279", 
+        "17:63917222-63917322", 
+        "19:17700516-17700616", 
+        "22:33400956-33401056", 
+        "16:35791350-35791450", 
+        "17:48454561-48454661", 
+        "17:41501739-41501839", 
+        "8:83862360-83862460", 
+        "10:1994616-1994716"
+    ], 
+    "specimen_type": "Recurrent tumour - other", 
+    "submitter_donor_id": "AOCS-142", 
+    "submitter_sample_id": "AOCS-142-3-5", 
+    "submitter_specimen_id": "AOCS-142-13", 
+    "xml_file": {
+        "file_md5sum": "de0390311f44294948883e3d78fe315c", 
+        "file_name": "98d862c3-c13c-4c30-b44d-3ca39389aae0.xml", 
+        "file_size": 35410, 
+        "object_id": "7c6f547e-92cd-57ba-8d7b-3f056876eba6"
+    }
+}

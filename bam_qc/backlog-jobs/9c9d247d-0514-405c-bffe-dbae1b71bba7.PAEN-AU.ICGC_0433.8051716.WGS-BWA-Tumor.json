@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "559c30f2-8ae7-43c8-819c-800261065e06", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "6f8b28c8dd03f0351e5c4c0a6434b6fa", 
+                "file_size": 33320
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "291a40e4f2f29df2f6e6bb33753411bd", 
+                "file_size": 33338
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "0b2fef29a7eb7dd3887c3d03c44f8411", 
+        "file_name": "3532db908848d54122beeffc5587b1be.bam.bai", 
+        "file_size": 16525656, 
+        "object_id": "3c3bfc49-14d5-5117-8c51-94e7162e8f10"
+    }, 
+    "bam_file": {
+        "file_md5sum": "3532db908848d54122beeffc5587b1be", 
+        "file_name": "3532db908848d54122beeffc5587b1be.bam", 
+        "file_size": 165586008045, 
+        "object_id": "480da5da-a30e-5fa5-aac8-775317e64c6e"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "9c9d247d-0514-405c-bffe-dbae1b71bba7", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PAEN-AU", 
+    "slice_regions": [
+        "6:114007567-114007667", 
+        "11:10471366-10471466", 
+        "2:14534283-14534383", 
+        "3:131225363-131225463", 
+        "18:59307786-59307886", 
+        "7:108799659-108799759", 
+        "5:88842652-88842752", 
+        "21:18015763-18015863", 
+        "20:40332861-40332961", 
+        "3:157327801-157327901", 
+        "20:34934681-34934781", 
+        "17:72384371-72384471", 
+        "8:95213689-95213789", 
+        "1:118065937-118066037", 
+        "19:36028885-36028985", 
+        "13:111443401-111443501", 
+        "18:71803272-71803372", 
+        "2:123469427-123469527", 
+        "18:44833274-44833374", 
+        "18:2356708-2356808"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "ICGC_0433", 
+    "submitter_sample_id": "8051716", 
+    "submitter_specimen_id": "8051716", 
+    "xml_file": {
+        "file_md5sum": "6f8b28c8dd03f0351e5c4c0a6434b6fa", 
+        "file_name": "9c9d247d-0514-405c-bffe-dbae1b71bba7.xml", 
+        "file_size": 33320, 
+        "object_id": "f67a1830-986b-5e6f-acef-ebe20a123aad"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "5a5fff67-fd20-4278-b8eb-a97dedd6e878", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "dc84ae99f24fa856d1db44f1ce55e237", 
+                "file_size": 29780
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "efb2837856a7814bf09d6059ef5efc6b", 
+                "file_size": 29804
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "00f5d370cb79d372ed604a85cc09c499", 
+        "file_name": "51546e66a0fa5258cb27014b6c563aef.bam.bai", 
+        "file_size": 11916672, 
+        "object_id": "3ac171db-0f59-5054-85e1-6fce36565c0c"
+    }, 
+    "bam_file": {
+        "file_md5sum": "51546e66a0fa5258cb27014b6c563aef", 
+        "file_name": "51546e66a0fa5258cb27014b6c563aef.bam", 
+        "file_size": 74619003252, 
+        "object_id": "f47238a0-58f7-502f-ab5e-e12c429c1eb5"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "85532093-e9c7-486e-aa68-2e620c066fcf", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PAEN-AU", 
+    "slice_regions": [
+        "22:8060699-8060799", 
+        "6:43126644-43126744", 
+        "17:14626220-14626320", 
+        "15:1116636-1116736", 
+        "13:47117448-47117548", 
+        "5:147721410-147721510", 
+        "8:24707538-24707638", 
+        "6:72900117-72900217", 
+        "11:61522165-61522265", 
+        "9:79416860-79416960", 
+        "14:39326682-39326782", 
+        "8:119054316-119054416", 
+        "12:106385121-106385221", 
+        "7:501857-501957", 
+        "3:54249874-54249974", 
+        "14:88924107-88924207", 
+        "12:784647-784747", 
+        "12:72906079-72906179", 
+        "2:31042081-31042181", 
+        "21:6273993-6274093"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "NE-0017", 
+    "submitter_sample_id": "NE 17-N", 
+    "submitter_specimen_id": "NE 17-N", 
+    "xml_file": {
+        "file_md5sum": "dc84ae99f24fa856d1db44f1ce55e237", 
+        "file_name": "85532093-e9c7-486e-aa68-2e620c066fcf.xml", 
+        "file_size": 29780, 
+        "object_id": "5223b8f5-0d65-5ae0-a327-16dd773e3d8b"
+    }
+}

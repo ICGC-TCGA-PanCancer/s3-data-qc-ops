@@ -1,0 +1,62 @@
+{
+    "aliquot_id": "8a05726e-aaa0-4ad5-9978-3d3df915917c", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "591a33d1f58c9354a88851d4581b11cf", 
+                "file_size": 34569
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "c926a623fd4a69f0965e6a6c07920000", 
+        "file_name": "9a7199c8a4f3e7b8a162f3ccd7169ba5.bam.bai", 
+        "file_size": 13096048, 
+        "object_id": "0befda12-d2bf-5246-9705-6991c589f962"
+    }, 
+    "bam_file": {
+        "file_md5sum": "9a7199c8a4f3e7b8a162f3ccd7169ba5", 
+        "file_name": "9a7199c8a4f3e7b8a162f3ccd7169ba5.bam", 
+        "file_size": 137656402218, 
+        "object_id": "ef9c8e14-8ca3-5949-89f1-6af6d6ab0cc6"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "00c48f6d-9f5b-4638-aeb3-f542b659c963", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "RECA-EU", 
+    "slice_regions": [
+        "22:31397146-31397246", 
+        "18:14860657-14860757", 
+        "15:56456315-56456415", 
+        "14:98703343-98703443", 
+        "18:6731630-6731730", 
+        "8:2611324-2611424", 
+        "15:3076626-3076726", 
+        "8:96419221-96419321", 
+        "2:241818111-241818211", 
+        "10:15961537-15961637", 
+        "11:63167038-63167138", 
+        "10:13651901-13652001", 
+        "6:143058998-143059098", 
+        "21:34624726-34624826", 
+        "1:99939746-99939846", 
+        "20:29462732-29462832", 
+        "3:132802395-132802495", 
+        "11:46865157-46865257", 
+        "12:113682857-113682957", 
+        "17:37490205-37490305"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "C0059", 
+    "submitter_sample_id": "C0059N", 
+    "submitter_specimen_id": "C0059N", 
+    "xml_file": {
+        "file_md5sum": "591a33d1f58c9354a88851d4581b11cf", 
+        "file_name": "00c48f6d-9f5b-4638-aeb3-f542b659c963.xml", 
+        "file_size": 34569, 
+        "object_id": "143eddbf-0f76-55d4-b4d1-d92abf26372f"
+    }
+}

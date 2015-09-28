@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "a3135834-3af0-4e98-bc6f-ad8ddf33db80", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "30f938c4435910446a75ffe98977285f", 
+                "file_size": 31215
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "558792fd49b37b83e1af6b136016232c", 
+                "file_size": 31233
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "dfdaa4bf8f5069cc6d1663f437a98d70", 
+        "file_name": "2d97dc0ce20a80d27b549feb6e5d131c.bam.bai", 
+        "file_size": 14538256, 
+        "object_id": "2d4cb54b-aa24-59c4-9aac-6e3abf89c68c"
+    }, 
+    "bam_file": {
+        "file_md5sum": "2d97dc0ce20a80d27b549feb6e5d131c", 
+        "file_name": "2d97dc0ce20a80d27b549feb6e5d131c.bam", 
+        "file_size": 144050870251, 
+        "object_id": "5b19d4a2-fb8e-582c-94a0-10128a441bd0"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "7d8449fd-3267-4933-b53f-672d18b74972", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "OV-AU", 
+    "slice_regions": [
+        "10:27971364-27971464", 
+        "2:223041447-223041547", 
+        "21:767189-767289", 
+        "7:59955403-59955503", 
+        "7:117738080-117738180", 
+        "17:69874720-69874820", 
+        "15:100003517-100003617", 
+        "1:80504348-80504448", 
+        "20:2689451-2689551", 
+        "16:77307839-77307939", 
+        "12:103723044-103723144", 
+        "19:7672332-7672432", 
+        "16:84591940-84592040", 
+        "8:49100391-49100491", 
+        "20:47327459-47327559", 
+        "18:9879753-9879853", 
+        "22:6894642-6894742", 
+        "3:103565083-103565183", 
+        "15:95756590-95756690", 
+        "8:1239375-1239475"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "AOCS-064", 
+    "submitter_sample_id": "AOCS-064-1-6", 
+    "submitter_specimen_id": "AOCS-064-1", 
+    "xml_file": {
+        "file_md5sum": "30f938c4435910446a75ffe98977285f", 
+        "file_name": "7d8449fd-3267-4933-b53f-672d18b74972.xml", 
+        "file_size": 31215, 
+        "object_id": "bc4f75be-d0a3-5606-82c3-45bc0c25b237"
+    }
+}

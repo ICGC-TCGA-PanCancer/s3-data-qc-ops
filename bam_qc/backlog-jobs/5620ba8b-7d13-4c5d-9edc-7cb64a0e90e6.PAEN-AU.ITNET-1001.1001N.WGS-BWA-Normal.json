@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "dce996f3-473c-4d61-bf3e-e82a97011eba", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "79319cea2a369bde10b6d87c4e7e50f8", 
+                "file_size": 35024
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "adb20d59f970c99ecf5be0a596049fc6", 
+                "file_size": 35042
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "43ff2c45a2d48e69d0ca27634de79a38", 
+                "file_size": 34909
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "ccc763020e3301b951896b0394e3a63b", 
+        "file_name": "d681303b0c3cf5ad84270fa16bdeeb4f.bam.bai", 
+        "file_size": 26949384, 
+        "object_id": "9098976c-9829-598c-8b12-23382b9a68d9"
+    }, 
+    "bam_file": {
+        "file_md5sum": "d681303b0c3cf5ad84270fa16bdeeb4f", 
+        "file_name": "d681303b0c3cf5ad84270fa16bdeeb4f.bam", 
+        "file_size": 153314325305, 
+        "object_id": "8be0c58b-0067-5591-8cf0-defb144055f5"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "5620ba8b-7d13-4c5d-9edc-7cb64a0e90e6", 
+    "gnos_repo": [
+        "https://gtrepo-osdc-icgc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PAEN-AU", 
+    "slice_regions": [
+        "11:38886335-38886435", 
+        "13:69102844-69102944", 
+        "18:11591035-11591135", 
+        "3:80709062-80709162", 
+        "19:5479514-5479614", 
+        "8:115182472-115182572", 
+        "5:65105049-65105149", 
+        "20:9881109-9881209", 
+        "7:125940114-125940214", 
+        "4:105503455-105503555", 
+        "4:133155414-133155514", 
+        "15:30989706-30989806", 
+        "3:156790031-156790131", 
+        "17:52510775-52510875", 
+        "1:107472100-107472200", 
+        "4:164615625-164615725", 
+        "17:30258259-30258359", 
+        "22:15083983-15084083", 
+        "1:69469477-69469577", 
+        "21:2481924-2482024"
+    ], 
+    "specimen_type": "Normal - tissue adjacent to primary", 
+    "submitter_donor_id": "ITNET-1001", 
+    "submitter_sample_id": "1001N", 
+    "submitter_specimen_id": "1001N", 
+    "xml_file": {
+        "file_md5sum": "adb20d59f970c99ecf5be0a596049fc6", 
+        "file_name": "5620ba8b-7d13-4c5d-9edc-7cb64a0e90e6.xml", 
+        "file_size": 35042, 
+        "object_id": "15d51494-7b35-511a-922b-3e7e97db80c9"
+    }
+}
