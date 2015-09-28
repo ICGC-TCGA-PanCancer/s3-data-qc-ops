@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "d58ceba0-6be6-4292-8f38-40dffea6c937", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "74b0d4061ab342c98dcf320282d0d9f9", 
+                "file_size": 29678
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "a1523b14a57084431dcf3904dc37b98c", 
+                "file_size": 29568
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "1f85080572eea1af782e2facfe492b85", 
+        "file_name": "798dec9ce0d88daf3fd22d31c9e98158.bam.bai", 
+        "file_size": 14107088, 
+        "object_id": "f0f5630b-2b6a-536c-933d-9379b25fc521"
+    }, 
+    "bam_file": {
+        "file_md5sum": "798dec9ce0d88daf3fd22d31c9e98158", 
+        "file_name": "798dec9ce0d88daf3fd22d31c9e98158.bam", 
+        "file_size": 116370877679, 
+        "object_id": "c5c619e0-2043-596e-9397-03c0087b8d91"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "6538d257-8671-43e1-bf1c-c0b49464fcf0", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MELA-AU", 
+    "slice_regions": [
+        "14:49113879-49113979", 
+        "20:35426731-35426831", 
+        "1:152788994-152789094", 
+        "12:42398737-42398837", 
+        "6:76919025-76919125", 
+        "11:74717358-74717458", 
+        "17:39451881-39451981", 
+        "6:1372691-1372791", 
+        "7:97827497-97827597", 
+        "18:17214844-17214944", 
+        "1:96144112-96144212", 
+        "2:88415597-88415697", 
+        "5:46292609-46292709", 
+        "16:35762080-35762180", 
+        "14:88871302-88871402", 
+        "17:54822282-54822382", 
+        "3:43247845-43247945", 
+        "5:13373119-13373219", 
+        "6:73636821-73636921", 
+        "4:107908434-107908534"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "MELA-0205", 
+    "submitter_sample_id": "EXTERN-MELA-20140528-007", 
+    "submitter_specimen_id": "Mel_29882_SMU08-0293_blood", 
+    "xml_file": {
+        "file_md5sum": "74b0d4061ab342c98dcf320282d0d9f9", 
+        "file_name": "6538d257-8671-43e1-bf1c-c0b49464fcf0.xml", 
+        "file_size": 29678, 
+        "object_id": "08581d6b-b071-5a41-99e3-fff9dc9f48cf"
+    }
+}

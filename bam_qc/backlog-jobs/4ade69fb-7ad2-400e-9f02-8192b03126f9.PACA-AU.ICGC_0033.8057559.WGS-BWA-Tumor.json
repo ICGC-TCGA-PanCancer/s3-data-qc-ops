@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "8454fe53-869d-41c8-b0c8-a7929d00eec3", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "13d9284e4e1021f243897b66a2a10f2e", 
+                "file_size": 33539
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "3e128a9656954a9dd8c4b8021022895a", 
+                "file_size": 33557
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "bb6cac0a357a6bd8ac6bde02dde233a6", 
+                "file_size": 33427
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "b9955a5e3a4f86fb67d3fd70cbf64671", 
+        "file_name": "05d3181acf4c6e2cff7a5efd5198be7b.bam.bai", 
+        "file_size": 19923144, 
+        "object_id": "31803ed3-941e-5551-9cbb-56f723a51b82"
+    }, 
+    "bam_file": {
+        "file_md5sum": "05d3181acf4c6e2cff7a5efd5198be7b", 
+        "file_name": "05d3181acf4c6e2cff7a5efd5198be7b.bam", 
+        "file_size": 158528006081, 
+        "object_id": "d8f4acde-321f-54eb-b7ee-57856149063b"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "4ade69fb-7ad2-400e-9f02-8192b03126f9", 
+    "gnos_repo": [
+        "https://gtrepo-osdc-icgc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PACA-AU", 
+    "slice_regions": [
+        "9:79848481-79848581", 
+        "20:9079344-9079444", 
+        "12:286722-286822", 
+        "21:25789210-25789310", 
+        "10:104841290-104841390", 
+        "4:125466631-125466731", 
+        "3:52209833-52209933", 
+        "12:57977208-57977308", 
+        "17:60596176-60596276", 
+        "14:27586057-27586157", 
+        "17:3057686-3057786", 
+        "5:146819669-146819769", 
+        "20:45535040-45535140", 
+        "19:14140912-14141012", 
+        "20:18563386-18563486", 
+        "8:101058930-101059030", 
+        "6:6035062-6035162", 
+        "2:80821823-80821923", 
+        "6:35329058-35329158", 
+        "15:87774538-87774638"
+    ], 
+    "specimen_type": "Cell line - derived from tumour", 
+    "submitter_donor_id": "ICGC_0033", 
+    "submitter_sample_id": "8057559", 
+    "submitter_specimen_id": "8057559", 
+    "xml_file": {
+        "file_md5sum": "3e128a9656954a9dd8c4b8021022895a", 
+        "file_name": "4ade69fb-7ad2-400e-9f02-8192b03126f9.xml", 
+        "file_size": 33557, 
+        "object_id": "d1058d09-643c-5402-a3bb-d89ebcf99b1b"
+    }
+}

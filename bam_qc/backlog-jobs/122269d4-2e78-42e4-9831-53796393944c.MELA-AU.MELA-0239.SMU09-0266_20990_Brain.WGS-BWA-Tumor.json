@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "7117854b-6f0a-4a43-b66c-506a3e29377d", 
+    "available_repos": [
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "3615490b838fc659a58ad8cbf492d5d3", 
+                "file_size": 60270
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "51730ae0e59522b86835e5bc1e3bbf1c", 
+                "file_size": 60245
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "7d7f9388b97b87ea97f8be3369f767ee", 
+                "file_size": 60101
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "08bafca5bbbd3ef020a640d60e489a96", 
+        "file_name": "fdbfb9f1116fbba610f9a3918beab3cf.bam.bai", 
+        "file_size": 17374096, 
+        "object_id": "5923f13a-c705-5a2a-b894-c48925f6dcb5"
+    }, 
+    "bam_file": {
+        "file_md5sum": "fdbfb9f1116fbba610f9a3918beab3cf", 
+        "file_name": "fdbfb9f1116fbba610f9a3918beab3cf.bam", 
+        "file_size": 262096121344, 
+        "object_id": "bcc3f627-333f-507c-b708-1be4f6baef73"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "122269d4-2e78-42e4-9831-53796393944c", 
+    "gnos_repo": [
+        "https://gtrepo-osdc-icgc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MELA-AU", 
+    "slice_regions": [
+        "21:6598824-6598924", 
+        "1:3517007-3517107", 
+        "21:46479978-46480078", 
+        "22:26530033-26530133", 
+        "3:190390131-190390231", 
+        "15:59271032-59271132", 
+        "19:11879301-11879401", 
+        "19:4940140-4940240", 
+        "5:38400512-38400612", 
+        "12:106577851-106577951", 
+        "21:28523088-28523188", 
+        "3:119617341-119617441", 
+        "9:52580273-52580373", 
+        "10:38553771-38553871", 
+        "17:42202915-42203015", 
+        "10:69050729-69050829", 
+        "3:135176179-135176279", 
+        "12:112121862-112121962", 
+        "15:78467660-78467760", 
+        "20:7593838-7593938"
+    ], 
+    "specimen_type": "Metastatic tumour - metastasis to distant location", 
+    "submitter_donor_id": "MELA-0239", 
+    "submitter_sample_id": "EXTERN-MELA-20140924-053", 
+    "submitter_specimen_id": "SMU09-0266_20990_Brain", 
+    "xml_file": {
+        "file_md5sum": "3615490b838fc659a58ad8cbf492d5d3", 
+        "file_name": "122269d4-2e78-42e4-9831-53796393944c.xml", 
+        "file_size": 60270, 
+        "object_id": "de4aa1ca-6dce-52b0-a5c5-787d88f59984"
+    }
+}

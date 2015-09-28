@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "e4b409af-3250-464c-b6d6-6d00a594357f", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "bb6257aef3283b076110e3ce38c294f2", 
+                "file_size": 36471
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "600d2e903062adf7f9e9bfd4ca541c24", 
+                "file_size": 36472
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "713de4471ded520b75f464557c8feb26", 
+        "file_name": "c43a7a3c9e028b1ef501a6aa77950281.bam.bai", 
+        "file_size": 17464608, 
+        "object_id": "42c2aa12-a252-561d-be35-0f8ee034b34a"
+    }, 
+    "bam_file": {
+        "file_md5sum": "c43a7a3c9e028b1ef501a6aa77950281", 
+        "file_name": "c43a7a3c9e028b1ef501a6aa77950281.bam", 
+        "file_size": 157509223936, 
+        "object_id": "37980d63-edf1-5002-b189-017e4009bb0e"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "8d0196a7-04e4-4edd-adcc-2fa32b8541c0", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "RECA-EU", 
+    "slice_regions": [
+        "19:34063085-34063185", 
+        "11:35145254-35145354", 
+        "13:87141397-87141497", 
+        "1:18507939-18508039", 
+        "9:136979578-136979678", 
+        "14:103396707-103396807", 
+        "10:115208190-115208290", 
+        "17:69781740-69781840", 
+        "8:71625657-71625757", 
+        "14:75241068-75241168", 
+        "10:32450404-32450504", 
+        "22:7666644-7666744", 
+        "21:34226954-34227054", 
+        "9:77722660-77722760", 
+        "14:17385461-17385561", 
+        "12:66960028-66960128", 
+        "14:99294150-99294250", 
+        "2:222571877-222571977", 
+        "8:125174529-125174629", 
+        "5:101475447-101475547"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "C0063", 
+    "submitter_sample_id": "C0063N", 
+    "submitter_specimen_id": "C0063N", 
+    "xml_file": {
+        "file_md5sum": "bb6257aef3283b076110e3ce38c294f2", 
+        "file_name": "8d0196a7-04e4-4edd-adcc-2fa32b8541c0.xml", 
+        "file_size": 36471, 
+        "object_id": "f46a0cb4-eae0-5b39-9cdd-0ec5cbc006a6"
+    }
+}

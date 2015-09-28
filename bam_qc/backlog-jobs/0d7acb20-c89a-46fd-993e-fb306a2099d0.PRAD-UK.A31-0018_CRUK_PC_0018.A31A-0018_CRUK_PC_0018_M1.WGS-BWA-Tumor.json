@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "0bfd1043-7346-fdd0-e050-11ac0c484cab", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "3cac4d1e9060a2f3b449c993379cec07", 
+                "file_size": 33532
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "d1586b81f31ace18754469686aeb03c1", 
+                "file_size": 33414
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "f0674ace9800f2b2f1181ff02d724038", 
+        "file_name": "982c58336a424582f71932a5c5bdf87e.bam.bai", 
+        "file_size": 14179728, 
+        "object_id": "c1b258bb-3604-51c2-a849-6a3d943abdad"
+    }, 
+    "bam_file": {
+        "file_md5sum": "982c58336a424582f71932a5c5bdf87e", 
+        "file_name": "982c58336a424582f71932a5c5bdf87e.bam", 
+        "file_size": 146187086514, 
+        "object_id": "c9476a45-6c52-5abe-a959-7713f1f1126b"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "0d7acb20-c89a-46fd-993e-fb306a2099d0", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-UK", 
+    "slice_regions": [
+        "1:219533258-219533358", 
+        "16:50981335-50981435", 
+        "20:59003389-59003489", 
+        "1:207740896-207740996", 
+        "14:8747204-8747304", 
+        "7:111945070-111945170", 
+        "9:93435208-93435308", 
+        "13:28519370-28519470", 
+        "22:14516333-14516433", 
+        "20:48713892-48713992", 
+        "7:58708867-58708967", 
+        "2:228119090-228119190", 
+        "1:45048688-45048788", 
+        "10:82445208-82445308", 
+        "13:34189920-34190020", 
+        "6:165517574-165517674", 
+        "6:138740696-138740796", 
+        "4:187045834-187045934", 
+        "10:25963086-25963186", 
+        "3:38721166-38721266"
+    ], 
+    "specimen_type": "Metastatic tumour - metastasis to distant location", 
+    "submitter_donor_id": "A31-0018_CRUK_PC_0018", 
+    "submitter_sample_id": "A31A-0018_CRUK_PC_0018_M1_DNA", 
+    "submitter_specimen_id": "A31A-0018_CRUK_PC_0018_M1", 
+    "xml_file": {
+        "file_md5sum": "3cac4d1e9060a2f3b449c993379cec07", 
+        "file_name": "0d7acb20-c89a-46fd-993e-fb306a2099d0.xml", 
+        "file_size": 33532, 
+        "object_id": "989a4ac7-f5a5-5d7d-8940-158ba3ec4c94"
+    }
+}

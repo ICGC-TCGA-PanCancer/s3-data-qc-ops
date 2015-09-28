@@ -1,0 +1,62 @@
+{
+    "aliquot_id": "0bfd1068-3fe4-a95b-e050-11ac0c4860c3", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "eb7978fd522065f1e9badb6bbe9a4fbf", 
+                "file_size": 32508
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "05c270ac8888bb9865511055ce465250", 
+        "file_name": "7590b19bb8d7c8c455b89bc8e66e0773.bam.bai", 
+        "file_size": 17574528, 
+        "object_id": "edbaf401-721a-5e21-8e04-31df9732a4f3"
+    }, 
+    "bam_file": {
+        "file_md5sum": "7590b19bb8d7c8c455b89bc8e66e0773", 
+        "file_name": "7590b19bb8d7c8c455b89bc8e66e0773.bam", 
+        "file_size": 208136549383, 
+        "object_id": "f04bdf29-33d3-583a-8d94-54f552fbf4a9"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "bd29e78e-2953-4ba6-835c-d0c06e1c3c70", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-UK", 
+    "slice_regions": [
+        "12:43675346-43675446", 
+        "13:100464400-100464500", 
+        "5:25614233-25614333", 
+        "16:6250334-6250434", 
+        "2:212706965-212707065", 
+        "6:139639930-139640030", 
+        "7:105206539-105206639", 
+        "20:53896009-53896109", 
+        "16:27635982-27636082", 
+        "2:155333332-155333432", 
+        "2:119255147-119255247", 
+        "12:100118369-100118469", 
+        "18:71934838-71934938", 
+        "19:32517183-32517283", 
+        "18:6151908-6152008", 
+        "18:16588135-16588235", 
+        "12:62384629-62384729", 
+        "12:120223289-120223389", 
+        "8:45572144-45572244", 
+        "22:17610298-17610398"
+    ], 
+    "specimen_type": "Metastatic tumour - lymph node", 
+    "submitter_donor_id": "A22-0016_CRUK_PC_0016", 
+    "submitter_sample_id": "A22K-0016_CRUK_PC_0016_M9_DNA", 
+    "submitter_specimen_id": "A22K-0016_CRUK_PC_0016_M9", 
+    "xml_file": {
+        "file_md5sum": "eb7978fd522065f1e9badb6bbe9a4fbf", 
+        "file_name": "bd29e78e-2953-4ba6-835c-d0c06e1c3c70.xml", 
+        "file_size": 32508, 
+        "object_id": "7045fd24-64e5-5330-bb21-17c42357a08f"
+    }
+}

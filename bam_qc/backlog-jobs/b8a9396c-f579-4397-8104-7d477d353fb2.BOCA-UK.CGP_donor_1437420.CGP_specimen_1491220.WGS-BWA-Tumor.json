@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "fc9500f3-e7d0-9820-e040-11ac0c48617e", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "a8e90043e2e73c53b7459ea19dc17688", 
+                "file_size": 56256
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "3293882785cad1f423c64e3f37151539", 
+                "file_size": 56257
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "ebe75f4415c12939880c1b24081f30a4", 
+        "file_name": "da63f508497e0e28f0eda0c2d9af8770.bam.bai", 
+        "file_size": 15609408, 
+        "object_id": "c15eb692-114f-5f4a-a9ce-9ce2caaccd91"
+    }, 
+    "bam_file": {
+        "file_md5sum": "da63f508497e0e28f0eda0c2d9af8770", 
+        "file_name": "da63f508497e0e28f0eda0c2d9af8770.bam", 
+        "file_size": 136652380928, 
+        "object_id": "6f1d6379-87f5-59fb-ad6a-e2f8105fe3ec"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "b8a9396c-f579-4397-8104-7d477d353fb2", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "BOCA-UK", 
+    "slice_regions": [
+        "11:17709670-17709770", 
+        "18:62772411-62772511", 
+        "16:9945693-9945793", 
+        "8:26278556-26278656", 
+        "16:11245916-11246016", 
+        "11:109002426-109002526", 
+        "15:62726801-62726901", 
+        "18:41992851-41992951", 
+        "6:105629265-105629365", 
+        "15:796107-796207", 
+        "11:36538651-36538751", 
+        "13:3022561-3022661", 
+        "17:5502678-5502778", 
+        "12:25009753-25009853", 
+        "9:69505585-69505685", 
+        "14:15638711-15638811", 
+        "10:81604998-81605098", 
+        "11:8374016-8374116", 
+        "13:23916251-23916351", 
+        "21:42092355-42092455"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "CGP_donor_1437420", 
+    "submitter_sample_id": "PD7524a", 
+    "submitter_specimen_id": "CGP_specimen_1491220", 
+    "xml_file": {
+        "file_md5sum": "3293882785cad1f423c64e3f37151539", 
+        "file_name": "b8a9396c-f579-4397-8104-7d477d353fb2.xml", 
+        "file_size": 56257, 
+        "object_id": "0818139f-1798-5497-b571-9f2cf1eed926"
+    }
+}

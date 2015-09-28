@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "1ad4b77f-216b-44dc-bd55-8ddc7c06414a", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "75ee696eead7ccbe31c4affa863c280f", 
+                "file_size": 30084
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "13bdecd5577b5d285b673d2875dfb452", 
+                "file_size": 30102
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "cb993706d5a5c03bd2ccea755252edb8", 
+        "file_name": "1b92696e4bcd2513f080b8fcc6072897.bam.bai", 
+        "file_size": 15303784, 
+        "object_id": "065ed6b2-9456-5f90-8b4a-6a6607c2fd3c"
+    }, 
+    "bam_file": {
+        "file_md5sum": "1b92696e4bcd2513f080b8fcc6072897", 
+        "file_name": "1b92696e4bcd2513f080b8fcc6072897.bam", 
+        "file_size": 105578577932, 
+        "object_id": "ab13b410-d988-5db3-85ec-3e6f1e1a3eaa"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "4ddf72c1-95e6-454a-bbc5-37d429534fab", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PAEN-AU", 
+    "slice_regions": [
+        "11:15427805-15427905", 
+        "13:37242256-37242356", 
+        "9:89309034-89309134", 
+        "17:25322647-25322747", 
+        "18:10607748-10607848", 
+        "5:146403892-146403992", 
+        "13:390120-390220", 
+        "1:237514509-237514609", 
+        "8:81829754-81829854", 
+        "13:39401787-39401887", 
+        "3:81156098-81156198", 
+        "7:123369353-123369453", 
+        "18:23668694-23668794", 
+        "8:66766912-66767012", 
+        "16:38261113-38261213", 
+        "5:84535147-84535247", 
+        "20:13049032-13049132", 
+        "11:95166594-95166694", 
+        "7:84693340-84693440", 
+        "6:122269096-122269196"
+    ], 
+    "specimen_type": "Normal - solid tissue", 
+    "submitter_donor_id": "ITNET-0797", 
+    "submitter_sample_id": "797N", 
+    "submitter_specimen_id": "797N", 
+    "xml_file": {
+        "file_md5sum": "75ee696eead7ccbe31c4affa863c280f", 
+        "file_name": "4ddf72c1-95e6-454a-bbc5-37d429534fab.xml", 
+        "file_size": 30084, 
+        "object_id": "388240dd-56dd-5788-a87b-3d6bccd0e0f1"
+    }
+}

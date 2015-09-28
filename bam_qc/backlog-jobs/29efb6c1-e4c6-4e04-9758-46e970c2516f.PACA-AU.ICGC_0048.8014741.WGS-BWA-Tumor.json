@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "b37d6283-6f95-4975-a794-f3d5c4bbc7b3", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "23781b00e969aa4d7674535e476eaa10", 
+                "file_size": 39752
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "bd007b6758157958a4f1089fdb47596b", 
+                "file_size": 39770
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "a5b30ce7faf54c0719d93c06ed8c9b53", 
+                "file_size": 39630
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "aba7e88ffa986f318930ae75ae49b703", 
+        "file_name": "b50d59c22701e98ed39d4c778b5fa12d.bam.bai", 
+        "file_size": 42389744, 
+        "object_id": "27ff09c3-5a95-5b1b-9928-adf0ed9ff917"
+    }, 
+    "bam_file": {
+        "file_md5sum": "b50d59c22701e98ed39d4c778b5fa12d", 
+        "file_name": "b50d59c22701e98ed39d4c778b5fa12d.bam", 
+        "file_size": 262305687188, 
+        "object_id": "801dcc66-92e6-5575-a2a5-d478e5bf6773"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "29efb6c1-e4c6-4e04-9758-46e970c2516f", 
+    "gnos_repo": [
+        "https://gtrepo-osdc-icgc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PACA-AU", 
+    "slice_regions": [
+        "12:121268985-121269085", 
+        "16:70763725-70763825", 
+        "21:2855243-2855343", 
+        "6:148331589-148331689", 
+        "10:44442366-44442466", 
+        "13:93908972-93909072", 
+        "19:59612190-59612290", 
+        "9:50196052-50196152", 
+        "15:87425468-87425568", 
+        "8:40103110-40103210", 
+        "12:8705503-8705603", 
+        "1:8694312-8694412", 
+        "21:24855719-24855819", 
+        "9:48328052-48328152", 
+        "11:3957410-3957510", 
+        "22:14373656-14373756", 
+        "3:116660571-116660671", 
+        "18:69266960-69267060", 
+        "21:2137838-2137938", 
+        "21:22383732-22383832"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "ICGC_0048", 
+    "submitter_sample_id": "8014741", 
+    "submitter_specimen_id": "8014741", 
+    "xml_file": {
+        "file_md5sum": "bd007b6758157958a4f1089fdb47596b", 
+        "file_name": "29efb6c1-e4c6-4e04-9758-46e970c2516f.xml", 
+        "file_size": 39770, 
+        "object_id": "15de9659-c2ab-5a79-8991-5e0060ad6fa3"
+    }
+}

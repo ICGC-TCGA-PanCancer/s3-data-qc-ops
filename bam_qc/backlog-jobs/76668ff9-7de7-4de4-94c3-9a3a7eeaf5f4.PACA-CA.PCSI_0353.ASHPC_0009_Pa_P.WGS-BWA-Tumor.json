@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "2564a262-03e8-467b-9ea2-f3ab38d75ae1", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "9b414bac217e3d1b127c200bbf1a78aa", 
+                "file_size": 34853
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "e8b687157d68c4bf55bedc79e2f08729", 
+                "file_size": 34852
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "0b2efaad9c89f34e9d0ee3700dd39f9a", 
+        "file_name": "31a690ed4338464c3e57f0312ee3670b.bam.bai", 
+        "file_size": 16537320, 
+        "object_id": "38ec29d0-e118-5ce9-8a96-047131d92b32"
+    }, 
+    "bam_file": {
+        "file_md5sum": "31a690ed4338464c3e57f0312ee3670b", 
+        "file_name": "31a690ed4338464c3e57f0312ee3670b.bam", 
+        "file_size": 110217669417, 
+        "object_id": "bf9ceb71-521c-553c-b47b-b7a695eb9e48"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "76668ff9-7de7-4de4-94c3-9a3a7eeaf5f4", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PACA-CA", 
+    "slice_regions": [
+        "13:85859214-85859314", 
+        "1:158225205-158225305", 
+        "2:208676412-208676512", 
+        "13:95905663-95905763", 
+        "18:64178006-64178106", 
+        "18:1507976-1508076", 
+        "1:155934159-155934259", 
+        "10:18709341-18709441", 
+        "17:53731636-53731736", 
+        "14:64838885-64838985", 
+        "16:54939593-54939693", 
+        "18:42529718-42529818", 
+        "14:14046477-14046577", 
+        "21:22603779-22603879", 
+        "5:141038822-141038922", 
+        "18:53767827-53767927", 
+        "9:59999097-59999197", 
+        "21:1128708-1128808", 
+        "2:29345395-29345495", 
+        "9:75125205-75125305"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "PCSI_0353", 
+    "submitter_sample_id": "ASHPC_0009_Pa_P", 
+    "submitter_specimen_id": "ASHPC_0009_Pa_P", 
+    "xml_file": {
+        "file_md5sum": "e8b687157d68c4bf55bedc79e2f08729", 
+        "file_name": "76668ff9-7de7-4de4-94c3-9a3a7eeaf5f4.xml", 
+        "file_size": 34852, 
+        "object_id": "91f839bd-34bf-5da2-ad1f-fb985e5f5a1e"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "aliquot_id": "fc447d56-0d50-e0c3-e040-11ac0c4846a8", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "4f102641ccd48c928c00bb8f379c6b5e", 
+                "file_size": 32242
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "574ca4f59ee763409e66ea537f0d6aa7", 
+        "file_name": "02f09c901488d56acef72a53a2b40bb5.bam.bai", 
+        "file_size": 22189344, 
+        "object_id": "46d88b06-9034-5dd9-b79f-ef84c03bcc6c"
+    }, 
+    "bam_file": {
+        "file_md5sum": "02f09c901488d56acef72a53a2b40bb5", 
+        "file_name": "02f09c901488d56acef72a53a2b40bb5.bam", 
+        "file_size": 212917254561, 
+        "object_id": "0c6b0e5f-80ec-533f-b3ad-d43e9f08519f"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "4318b574-235a-4cdc-8692-21496c8d9636", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "BRCA-UK", 
+    "slice_regions": [
+        "1:154886111-154886211", 
+        "2:91435910-91436010", 
+        "21:35127076-35127176", 
+        "10:128667726-128667826", 
+        "4:147435356-147435456", 
+        "20:57485882-57485982", 
+        "17:49005996-49006096", 
+        "19:51319731-51319831", 
+        "10:61034982-61035082", 
+        "11:89005226-89005326", 
+        "9:32600379-32600479", 
+        "11:78665387-78665487", 
+        "7:48068949-48069049", 
+        "4:75729082-75729182", 
+        "10:82495925-82496025", 
+        "12:79492234-79492334", 
+        "5:169269454-169269554", 
+        "15:70622229-70622329", 
+        "21:39200756-39200856", 
+        "15:10723182-10723282"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "CGP_donor_1374619", 
+    "submitter_sample_id": "PD6722b", 
+    "submitter_specimen_id": "CGP_specimen_1425870", 
+    "xml_file": {
+        "file_md5sum": "4f102641ccd48c928c00bb8f379c6b5e", 
+        "file_name": "4318b574-235a-4cdc-8692-21496c8d9636.xml", 
+        "file_size": 32242, 
+        "object_id": "24f4b492-485f-57c8-8aad-0998977e4b11"
+    }
+}

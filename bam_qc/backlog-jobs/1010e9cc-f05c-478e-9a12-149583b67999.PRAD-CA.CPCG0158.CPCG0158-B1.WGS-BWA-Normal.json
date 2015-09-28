@@ -1,0 +1,62 @@
+{
+    "aliquot_id": "11c266a0-5d66-4cc1-88ff-7d0ddb90c66b", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "5c851cd874fc806c11ee61058196bfdf", 
+                "file_size": 34515
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "cb8166de93a03c2cb5a56e8cdd221581", 
+        "file_name": "d931138465ed729daac2997b69195a2c.bam.bai", 
+        "file_size": 14214736, 
+        "object_id": "9e996857-18a2-5702-8d67-59337a185db5"
+    }, 
+    "bam_file": {
+        "file_md5sum": "d931138465ed729daac2997b69195a2c", 
+        "file_name": "d931138465ed729daac2997b69195a2c.bam", 
+        "file_size": 99102216205, 
+        "object_id": "4a7a9dd7-b459-5251-b717-37619d5cce86"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "1010e9cc-f05c-478e-9a12-149583b67999", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-CA", 
+    "slice_regions": [
+        "11:71148726-71148826", 
+        "8:30260112-30260212", 
+        "1:121955659-121955759", 
+        "10:116986188-116986288", 
+        "16:62037610-62037710", 
+        "10:13148272-13148372", 
+        "6:150092586-150092686", 
+        "8:1665474-1665574", 
+        "8:121561565-121561665", 
+        "12:18151428-18151528", 
+        "17:40221390-40221490", 
+        "19:38261462-38261562", 
+        "9:18253997-18254097", 
+        "9:65135353-65135453", 
+        "9:21310467-21310567", 
+        "6:53884487-53884587", 
+        "2:92086610-92086710", 
+        "16:54186705-54186805", 
+        "1:185147049-185147149", 
+        "11:93997539-93997639"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "CPCG0158", 
+    "submitter_sample_id": "CPCG0158-B1", 
+    "submitter_specimen_id": "CPCG0158-B1", 
+    "xml_file": {
+        "file_md5sum": "5c851cd874fc806c11ee61058196bfdf", 
+        "file_name": "1010e9cc-f05c-478e-9a12-149583b67999.xml", 
+        "file_size": 34515, 
+        "object_id": "a52a42c8-6adc-5af1-80bf-793e1c816136"
+    }
+}

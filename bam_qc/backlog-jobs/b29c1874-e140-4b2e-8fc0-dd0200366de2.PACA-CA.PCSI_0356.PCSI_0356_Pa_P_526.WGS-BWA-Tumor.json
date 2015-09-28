@@ -1,0 +1,62 @@
+{
+    "aliquot_id": "fe96d91c-3686-4125-af71-b8703a011ad4", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "2ca55bcb2990956b084591e98288ea04", 
+                "file_size": 44293
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "c7f8ff60983d2d36743ba3d967f465b7", 
+        "file_name": "6f5a7899ca449d7fe0bf9466b9d4460e.bam.bai", 
+        "file_size": 44145904, 
+        "object_id": "8080ff3e-2995-52d7-83d9-be33c8c42513"
+    }, 
+    "bam_file": {
+        "file_md5sum": "6f5a7899ca449d7fe0bf9466b9d4460e", 
+        "file_name": "6f5a7899ca449d7fe0bf9466b9d4460e.bam", 
+        "file_size": 312305988866, 
+        "object_id": "90f81491-c85b-563e-af23-476852361cf4"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "b29c1874-e140-4b2e-8fc0-dd0200366de2", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PACA-CA", 
+    "slice_regions": [
+        "22:3323334-3323434", 
+        "5:29426593-29426693", 
+        "8:3216821-3216921", 
+        "19:35370122-35370222", 
+        "4:83828805-83828905", 
+        "22:4449553-4449653", 
+        "22:32360274-32360374", 
+        "14:79140468-79140568", 
+        "22:14703201-14703301", 
+        "13:31158390-31158490", 
+        "13:56694512-56694612", 
+        "5:175981648-175981748", 
+        "8:25647147-25647247", 
+        "17:30570764-30570864", 
+        "9:13723833-13723933", 
+        "20:12644625-12644725", 
+        "1:179914121-179914221", 
+        "16:78143424-78143524", 
+        "12:51306906-51307006", 
+        "11:27228084-27228184"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "PCSI_0356", 
+    "submitter_sample_id": "PCSI_0356_Pa_P_526", 
+    "submitter_specimen_id": "PCSI_0356_Pa_P_526", 
+    "xml_file": {
+        "file_md5sum": "2ca55bcb2990956b084591e98288ea04", 
+        "file_name": "b29c1874-e140-4b2e-8fc0-dd0200366de2.xml", 
+        "file_size": 44293, 
+        "object_id": "81837446-a322-5bb1-975f-ffab56dda289"
+    }
+}

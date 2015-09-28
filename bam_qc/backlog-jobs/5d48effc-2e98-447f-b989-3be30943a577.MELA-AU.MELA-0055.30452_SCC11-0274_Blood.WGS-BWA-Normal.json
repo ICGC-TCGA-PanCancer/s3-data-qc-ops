@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "8199748c-d8a9-4ce5-9dc4-9d52241969f3", 
+    "available_repos": [
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "b526e3eb5aa4c31f23ed61b391afc2a1", 
+                "file_size": 41141
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "9a4d7c3cdd4525e9680ad67c7b48819d", 
+                "file_size": 41124
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "4ed661e5bdb4e11ef1ee70e61d971cab", 
+                "file_size": 40998
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "5c98e79ab2f5ab8df7381bc99bf8d4f7", 
+        "file_name": "77089c8c133d3d5d2bce80e6d36bd8a3.bam.bai", 
+        "file_size": 13722648, 
+        "object_id": "74d2a591-c18e-5883-b1ee-02698bb03f76"
+    }, 
+    "bam_file": {
+        "file_md5sum": "77089c8c133d3d5d2bce80e6d36bd8a3", 
+        "file_name": "77089c8c133d3d5d2bce80e6d36bd8a3.bam", 
+        "file_size": 112451098895, 
+        "object_id": "f8ea680f-b112-5967-84fe-6ac6b3afa83a"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "5d48effc-2e98-447f-b989-3be30943a577", 
+    "gnos_repo": [
+        "https://gtrepo-osdc-icgc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MELA-AU", 
+    "slice_regions": [
+        "13:86084698-86084798", 
+        "19:4794639-4794739", 
+        "17:27395959-27396059", 
+        "14:804411-804511", 
+        "15:70734901-70735001", 
+        "18:7813439-7813539", 
+        "14:7009838-7009938", 
+        "22:1293309-1293409", 
+        "17:74911484-74911584", 
+        "1:145959124-145959224", 
+        "10:30526349-30526449", 
+        "12:87830202-87830302", 
+        "6:1240135-1240235", 
+        "4:146175419-146175519", 
+        "21:2173887-2173987", 
+        "19:10315713-10315813", 
+        "22:3181650-3181750", 
+        "11:25908833-25908933", 
+        "14:63912880-63912980", 
+        "18:16388862-16388962"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "MELA-0055", 
+    "submitter_sample_id": "EXTERN-MELA-20140514-023", 
+    "submitter_specimen_id": "30452_SCC11-0274_Blood", 
+    "xml_file": {
+        "file_md5sum": "b526e3eb5aa4c31f23ed61b391afc2a1", 
+        "file_name": "5d48effc-2e98-447f-b989-3be30943a577.xml", 
+        "file_size": 41141, 
+        "object_id": "0cc557de-bc9f-556e-8a62-e90dcb7685f7"
+    }
+}

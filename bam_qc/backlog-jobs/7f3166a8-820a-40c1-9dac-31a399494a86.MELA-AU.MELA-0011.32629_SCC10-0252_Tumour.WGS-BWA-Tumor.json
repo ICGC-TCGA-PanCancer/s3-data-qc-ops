@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "7f031d71-3cb7-4744-86bd-a3beecfe166e", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "d750a1f80868ba9f431d2250846beaab", 
+                "file_size": 40216
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "01c7f74a324387326ba87b01d5953799", 
+                "file_size": 40089
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "3fcb28ecc43f868963e666c1b2499095", 
+        "file_name": "f11def95cf99822cda60ed259dabf435.bam.bai", 
+        "file_size": 14542192, 
+        "object_id": "c0714e1e-7e4d-534b-98cf-5098cb65e15f"
+    }, 
+    "bam_file": {
+        "file_md5sum": "f11def95cf99822cda60ed259dabf435", 
+        "file_name": "f11def95cf99822cda60ed259dabf435.bam", 
+        "file_size": 171065020431, 
+        "object_id": "3a33ef20-dfd0-50b0-afc2-38de9a5baa32"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "7f3166a8-820a-40c1-9dac-31a399494a86", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MELA-AU", 
+    "slice_regions": [
+        "8:106421997-106422097", 
+        "19:15030633-15030733", 
+        "7:18450073-18450173", 
+        "18:64254353-64254453", 
+        "7:81888811-81888911", 
+        "19:30495545-30495645", 
+        "1:222014371-222014471", 
+        "4:172898610-172898710", 
+        "11:30236620-30236720", 
+        "16:44628691-44628791", 
+        "8:134047726-134047826", 
+        "8:54732638-54732738", 
+        "13:62089626-62089726", 
+        "5:33301302-33301402", 
+        "8:56948756-56948856", 
+        "10:47660545-47660645", 
+        "16:27833989-27834089", 
+        "15:19146203-19146303", 
+        "22:37602634-37602734", 
+        "2:96938777-96938877"
+    ], 
+    "specimen_type": "Metastatic tumour - metastasis local to lymph node", 
+    "submitter_donor_id": "MELA-0011", 
+    "submitter_sample_id": "EXTERN-MELA-20140505-020", 
+    "submitter_specimen_id": "32629_SCC10-0252_Tumour", 
+    "xml_file": {
+        "file_md5sum": "d750a1f80868ba9f431d2250846beaab", 
+        "file_name": "7f3166a8-820a-40c1-9dac-31a399494a86.xml", 
+        "file_size": 40216, 
+        "object_id": "3807d65c-6b43-5a5e-a52d-92c89bc95fcd"
+    }
+}

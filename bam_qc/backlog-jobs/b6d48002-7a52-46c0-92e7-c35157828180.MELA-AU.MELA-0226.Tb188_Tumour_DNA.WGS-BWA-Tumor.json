@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "28839c75-90a8-493f-b658-8c63e0ebd324", 
+    "available_repos": [
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "48b628a855119ef57c948bb63a39698e", 
+                "file_size": 60196
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "78b9f86982ae5e7ccb6c02e1f75b0304", 
+                "file_size": 60171
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "86a65b68b04b4912501046058d407c97", 
+                "file_size": 60025
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "f5bf7f4b8c6697d0d2ad618ce212f193", 
+        "file_name": "528ff42699c53a2fd2131fb4eb55344f.bam.bai", 
+        "file_size": 22843272, 
+        "object_id": "b737c39c-098d-5112-a803-7450ec456f15"
+    }, 
+    "bam_file": {
+        "file_md5sum": "528ff42699c53a2fd2131fb4eb55344f", 
+        "file_name": "528ff42699c53a2fd2131fb4eb55344f.bam", 
+        "file_size": 414101573639, 
+        "object_id": "d6a510ba-663e-5c79-a953-04e0ea1303bd"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "b6d48002-7a52-46c0-92e7-c35157828180", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MELA-AU", 
+    "slice_regions": [
+        "1:126139701-126139801", 
+        "13:16779792-16779892", 
+        "16:22736155-22736255", 
+        "14:91226960-91227060", 
+        "6:56745774-56745874", 
+        "9:128191206-128191306", 
+        "20:31378194-31378294", 
+        "7:116899363-116899463", 
+        "7:63976657-63976757", 
+        "21:13030839-13030939", 
+        "7:7369301-7369401", 
+        "15:99260815-99260915", 
+        "12:27870204-27870304", 
+        "1:53343308-53343408", 
+        "14:87023391-87023491", 
+        "7:941621-941721", 
+        "5:27887563-27887663", 
+        "7:75172492-75172592", 
+        "14:76922565-76922665", 
+        "10:86820466-86820566"
+    ], 
+    "specimen_type": "Metastatic tumour - metastasis local to lymph node", 
+    "submitter_donor_id": "MELA-0226", 
+    "submitter_sample_id": "EXTERN-MELA-20140924-027", 
+    "submitter_specimen_id": "Tb188_Tumour_DNA", 
+    "xml_file": {
+        "file_md5sum": "86a65b68b04b4912501046058d407c97", 
+        "file_name": "b6d48002-7a52-46c0-92e7-c35157828180.xml", 
+        "file_size": 60025, 
+        "object_id": "7858c499-b583-5224-af9a-9579167c48d9"
+    }
+}
