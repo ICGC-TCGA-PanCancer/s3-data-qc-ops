@@ -1,0 +1,62 @@
+{
+    "aliquot_id": "9f298806-77b6-4c76-bd38-3343e1a3c6f0", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "5605c65d3e1bd7313a95b3bf97f3e0db", 
+                "file_size": 30171
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "6c21ff6bdf7e5b5966f2936a7ffb4391", 
+        "file_name": "f1791b5dd73bc0eefcde7f80d530b877.bam.bai", 
+        "file_size": 14868936, 
+        "object_id": "1341fb5c-2e38-53d8-883b-aff182e7f0e6"
+    }, 
+    "bam_file": {
+        "file_md5sum": "f1791b5dd73bc0eefcde7f80d530b877", 
+        "file_name": "f1791b5dd73bc0eefcde7f80d530b877.bam", 
+        "file_size": 93237815472, 
+        "object_id": "6f885033-289f-5126-9183-fcd38871dc38"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "209db60c-f2fd-4d24-bcb3-22e32de90dc5", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "LAML-KR", 
+    "slice_regions": [
+        "9:83651599-83651699", 
+        "18:35212810-35212910", 
+        "22:42131449-42131549", 
+        "17:29758866-29758966", 
+        "19:48505089-48505189", 
+        "19:20477918-20478018", 
+        "14:17123774-17123874", 
+        "10:68049809-68049909", 
+        "13:76684612-76684712", 
+        "17:14960630-14960730", 
+        "19:25891462-25891562", 
+        "22:5911317-5911417", 
+        "12:116974350-116974450", 
+        "2:197044230-197044330", 
+        "15:80676985-80677085", 
+        "4:164137660-164137760", 
+        "7:11471887-11471987", 
+        "10:100553304-100553404", 
+        "17:17032919-17033019", 
+        "12:62820912-62821012"
+    ], 
+    "specimen_type": "Primary tumour - blood derived (bone marrow)", 
+    "submitter_donor_id": "SNU_WGS_12", 
+    "submitter_sample_id": "SNU_WGS_12_S1", 
+    "submitter_specimen_id": "SNU_WGS_12_S1_sp", 
+    "xml_file": {
+        "file_md5sum": "5605c65d3e1bd7313a95b3bf97f3e0db", 
+        "file_name": "209db60c-f2fd-4d24-bcb3-22e32de90dc5.xml", 
+        "file_size": 30171, 
+        "object_id": "40265fdd-8bc8-5e21-8527-e0a893eac5ba"
+    }
+}
