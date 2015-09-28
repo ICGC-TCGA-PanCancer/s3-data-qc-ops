@@ -14,6 +14,48 @@
             "downloading": {
                 "start": 1443407439, 
                 "stop": 1443407447
+            }, 
+            "slicing": {
+                "slice_stats": {
+                    "1:20036033-20037139": {
+                        "dcctool_md5sum": "unable_to_slice", 
+                        "dcctool_time": 7, 
+                        "samtools_md5sum": "ffd4e26cb68cb1e10a051ea3fb0453fa", 
+                        "samtools_time": 0
+                    }, 
+                    "1:3036031-3037138": {
+                        "dcctool_md5sum": "unable_to_slice", 
+                        "dcctool_time": 7, 
+                        "samtools_md5sum": "81ddf1722e28d57c84c490fcc5754115", 
+                        "samtools_time": 0
+                    }, 
+                    "1:336030-337137": {
+                        "dcctool_md5sum": "unable_to_slice", 
+                        "dcctool_time": 8, 
+                        "samtools_md5sum": "1bc92466dee160b7689df67f524f30dd", 
+                        "samtools_time": 0
+                    }, 
+                    "1:4036033-4037139": {
+                        "dcctool_md5sum": "unable_to_slice", 
+                        "dcctool_time": 7, 
+                        "samtools_md5sum": "7dec4f560ad8f40b40cbfca89bf37cf3", 
+                        "samtools_time": 0
+                    }, 
+                    "1:43036033-43037139": {
+                        "dcctool_md5sum": "unable_to_slice", 
+                        "dcctool_time": 8, 
+                        "samtools_md5sum": "97dbc0b0dd36a455aa8a3a98be0253cd", 
+                        "samtools_time": 0
+                    }, 
+                    "1:73036033-73037139": {
+                        "dcctool_md5sum": "unable_to_slice", 
+                        "dcctool_time": 7, 
+                        "samtools_md5sum": "9506acc78a56456ef68b3782c1a2998a", 
+                        "samtools_time": 0
+                    }
+                }, 
+                "start": 1443407449, 
+                "stop": 1443407493
             }
         }
     }, 
