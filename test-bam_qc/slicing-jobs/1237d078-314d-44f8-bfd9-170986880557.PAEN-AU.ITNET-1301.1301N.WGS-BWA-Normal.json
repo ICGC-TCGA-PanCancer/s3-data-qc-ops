@@ -14,6 +14,48 @@
             "downloading": {
                 "start": 1443448822, 
                 "stop": 1443448841
+            }, 
+            "slicing": {
+                "slice_stats": {
+                    "1:20036033-20037139": {
+                        "dcctool_md5sum": "863904e5383bfe85e1b40a9ee3fe097d", 
+                        "dcctool_time": 11, 
+                        "samtools_md5sum": "ffd4e26cb68cb1e10a051ea3fb0453fa", 
+                        "samtools_time": 0
+                    }, 
+                    "1:3036031-3037138": {
+                        "dcctool_md5sum": "b83ac067d22175111f3b8840cfc5b8b0", 
+                        "dcctool_time": 12, 
+                        "samtools_md5sum": "81ddf1722e28d57c84c490fcc5754115", 
+                        "samtools_time": 0
+                    }, 
+                    "1:336030-337137": {
+                        "dcctool_md5sum": "c15588f617259322f2312b779e9e7468", 
+                        "dcctool_time": 14, 
+                        "samtools_md5sum": "1bc92466dee160b7689df67f524f30dd", 
+                        "samtools_time": 0
+                    }, 
+                    "1:4036033-4037139": {
+                        "dcctool_md5sum": "1618c6339e9144b09e5544d2cee64f79", 
+                        "dcctool_time": 10, 
+                        "samtools_md5sum": "7dec4f560ad8f40b40cbfca89bf37cf3", 
+                        "samtools_time": 0
+                    }, 
+                    "1:43036033-43037139": {
+                        "dcctool_md5sum": "5815879612b6e16420b8c6dd9aba75d8", 
+                        "dcctool_time": 10, 
+                        "samtools_md5sum": "97dbc0b0dd36a455aa8a3a98be0253cd", 
+                        "samtools_time": 0
+                    }, 
+                    "1:73036033-73037139": {
+                        "dcctool_md5sum": "9103346e7af92679aeafb169155dce7a", 
+                        "dcctool_time": 12, 
+                        "samtools_md5sum": "9506acc78a56456ef68b3782c1a2998a", 
+                        "samtools_time": 0
+                    }
+                }, 
+                "start": 1443448843, 
+                "stop": 1443448912
             }
         }
     }, 
