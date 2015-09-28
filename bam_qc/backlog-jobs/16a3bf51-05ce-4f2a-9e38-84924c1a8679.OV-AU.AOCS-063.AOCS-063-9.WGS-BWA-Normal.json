@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "a89371b5-f608-494b-b7a9-a85b38b5aa42", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "2f665bdbcffbf56660cf327d8f53990c", 
+                "file_size": 28907
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "8515ab43d27a9139967b126eb5ffe71b", 
+                "file_size": 28925
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "d48ea34ea53f40b157b6a9661ba7ef1e", 
+        "file_name": "c48f15bb591573766036c305e63f49cb.bam.bai", 
+        "file_size": 13226520, 
+        "object_id": "4a5ff021-2a78-5159-be68-613159333552"
+    }, 
+    "bam_file": {
+        "file_md5sum": "c48f15bb591573766036c305e63f49cb", 
+        "file_name": "c48f15bb591573766036c305e63f49cb.bam", 
+        "file_size": 117482997531, 
+        "object_id": "b8458d14-a2e3-5ec5-b128-078239795e3b"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "16a3bf51-05ce-4f2a-9e38-84924c1a8679", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "OV-AU", 
+    "slice_regions": [
+        "16:79902279-79902379", 
+        "19:56675899-56675999", 
+        "2:58469528-58469628", 
+        "4:53553157-53553257", 
+        "3:117054362-117054462", 
+        "22:17160659-17160759", 
+        "14:10842875-10842975", 
+        "3:65774997-65775097", 
+        "14:25055286-25055386", 
+        "20:17788614-17788714", 
+        "7:33713072-33713172", 
+        "7:3143113-3143213", 
+        "4:49926277-49926377", 
+        "15:61782197-61782297", 
+        "21:15523973-15524073", 
+        "3:145242216-145242316", 
+        "4:190744020-190744120", 
+        "4:60388066-60388166", 
+        "16:76722231-76722331", 
+        "22:14297295-14297395"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "AOCS-063", 
+    "submitter_sample_id": "AOCS-063-5-8", 
+    "submitter_specimen_id": "AOCS-063-9", 
+    "xml_file": {
+        "file_md5sum": "2f665bdbcffbf56660cf327d8f53990c", 
+        "file_name": "16a3bf51-05ce-4f2a-9e38-84924c1a8679.xml", 
+        "file_size": 28907, 
+        "object_id": "d35bc1d5-df08-5b4d-b1fb-1f635ece760a"
+    }
+}

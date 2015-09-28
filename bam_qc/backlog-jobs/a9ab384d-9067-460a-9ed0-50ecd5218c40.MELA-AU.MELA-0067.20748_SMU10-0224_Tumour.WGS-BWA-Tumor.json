@@ -1,0 +1,62 @@
+{
+    "aliquot_id": "351db483-a70e-496d-b70a-7449875121ee", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "01d012c7ff37fe6c7a14d3a0d4f93011", 
+                "file_size": 37077
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "11d8c62cee30105059f517e9da8bdfab", 
+        "file_name": "14445a5ca01d0a8592b6cfd1cf0e5a6e.bam.bai", 
+        "file_size": 15553536, 
+        "object_id": "af856800-cf57-53e8-bf88-e5aa83bcf9f7"
+    }, 
+    "bam_file": {
+        "file_md5sum": "14445a5ca01d0a8592b6cfd1cf0e5a6e", 
+        "file_name": "14445a5ca01d0a8592b6cfd1cf0e5a6e.bam", 
+        "file_size": 179245507348, 
+        "object_id": "132a9a0b-6a9c-5c24-a2d0-a0e9f71149a5"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "a9ab384d-9067-460a-9ed0-50ecd5218c40", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MELA-AU", 
+    "slice_regions": [
+        "22:38792209-38792309", 
+        "2:173188354-173188454", 
+        "11:80723990-80724090", 
+        "10:78938169-78938269", 
+        "18:10024619-10024719", 
+        "2:18306137-18306237", 
+        "19:50556512-50556612", 
+        "10:9337425-9337525", 
+        "1:66258208-66258308", 
+        "10:103769965-103770065", 
+        "6:15655283-15655383", 
+        "7:115245281-115245381", 
+        "5:108591148-108591248", 
+        "7:122916553-122916653", 
+        "16:28082350-28082450", 
+        "15:41203137-41203237", 
+        "16:19113998-19114098", 
+        "17:66945136-66945236", 
+        "18:5734050-5734150", 
+        "5:75110059-75110159"
+    ], 
+    "specimen_type": "Recurrent tumour - solid tissue", 
+    "submitter_donor_id": "MELA-0067", 
+    "submitter_sample_id": "EXTERN-MELA-20140514-049", 
+    "submitter_specimen_id": "20748_SMU10-0224_Tumour", 
+    "xml_file": {
+        "file_md5sum": "01d012c7ff37fe6c7a14d3a0d4f93011", 
+        "file_name": "a9ab384d-9067-460a-9ed0-50ecd5218c40.xml", 
+        "file_size": 37077, 
+        "object_id": "a377067c-86e1-509a-937b-c30227947352"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "b3c503df-a479-4a19-92ce-57b37343fd4c", 
+    "available_repos": [
+        {
+            "https://gtrepo-etri.annailabs.com/": {
+                "file_md5sum": "6185d086f2eb523d2f0c937f02be8a54", 
+                "file_size": 36105
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "a6300bff4285c382d94d997937bbc618", 
+                "file_size": 36101
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "46c3a097b4631e9634be42fcf7cb3060", 
+                "file_size": 36094
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "bbf14f40acc93c334a7622fd1064af2c", 
+        "file_name": "88e84ec2d79206beda0ad0b8f25131a7.bam.bai", 
+        "file_size": 31453544, 
+        "object_id": "1644c827-6f82-5330-8842-3b3d04486323"
+    }, 
+    "bam_file": {
+        "file_md5sum": "88e84ec2d79206beda0ad0b8f25131a7", 
+        "file_name": "88e84ec2d79206beda0ad0b8f25131a7.bam", 
+        "file_size": 171574263650, 
+        "object_id": "bec88d6e-1d63-51e6-844d-355181eb4f0e"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "4868d247-26e0-4d2d-a3d2-bc3ae970ad8a", 
+    "gnos_repo": [
+        "https://gtrepo-etri.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PACA-CA", 
+    "slice_regions": [
+        "4:76921195-76921295", 
+        "12:18800381-18800481", 
+        "19:26356063-26356163", 
+        "7:21469980-21470080", 
+        "6:156971296-156971396", 
+        "1:216195218-216195318", 
+        "1:221703293-221703393", 
+        "8:14269048-14269148", 
+        "10:110125611-110125711", 
+        "15:65718727-65718827", 
+        "13:50904282-50904382", 
+        "13:99389430-99389530", 
+        "17:55958412-55958512", 
+        "20:32739021-32739121", 
+        "14:24580655-24580755", 
+        "18:25963980-25964080", 
+        "3:53236168-53236268", 
+        "11:127125086-127125186", 
+        "4:19400202-19400302", 
+        "1:84680840-84680940"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "PCSI_0101", 
+    "submitter_sample_id": "PCSI_0101_Ly_R", 
+    "submitter_specimen_id": "PCSI_0101_Ly_R", 
+    "xml_file": {
+        "file_md5sum": "6185d086f2eb523d2f0c937f02be8a54", 
+        "file_name": "4868d247-26e0-4d2d-a3d2-bc3ae970ad8a.xml", 
+        "file_size": 36105, 
+        "object_id": "ef3ce018-7c87-5e24-ab31-c5a1f1b6ab04"
+    }
+}

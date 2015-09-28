@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "5ee1dda9-2e84-4617-af09-2ae02873b44d", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "0c84f95d83a7d8af43b85430ad68592c", 
+                "file_size": 33773
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "377a08517e73ae997d278020dadf3f83", 
+                "file_size": 33774
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "d5d194fa65f1ff9df01eec15b615a84a", 
+        "file_name": "cdd62293bbcdfa30a0890d944317de79.bam.bai", 
+        "file_size": 52525488, 
+        "object_id": "33596a6c-dcb5-5be1-8d6f-71ecdbce9448"
+    }, 
+    "bam_file": {
+        "file_md5sum": "cdd62293bbcdfa30a0890d944317de79", 
+        "file_name": "cdd62293bbcdfa30a0890d944317de79.bam", 
+        "file_size": 210459366072, 
+        "object_id": "e978b87e-2a71-5ed0-9ccc-738926610a3f"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "121faea3-eb4a-4f1a-b1e5-021884380141", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "LINC-JP", 
+    "slice_regions": [
+        "9:128949398-128949498", 
+        "11:82264426-82264526", 
+        "2:11764100-11764200", 
+        "16:47199781-47199881", 
+        "20:54111779-54111879", 
+        "14:11353821-11353921", 
+        "13:62845303-62845403", 
+        "7:89464108-89464208", 
+        "13:78465719-78465819", 
+        "20:50409164-50409264", 
+        "11:112168531-112168631", 
+        "18:41271136-41271236", 
+        "12:10797000-10797100", 
+        "4:175640527-175640627", 
+        "10:78367465-78367565", 
+        "18:49790675-49790775", 
+        "7:68186256-68186356", 
+        "1:175129031-175129131", 
+        "16:82213594-82213694", 
+        "18:13540359-13540459"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "HX27", 
+    "submitter_sample_id": "HX27T", 
+    "submitter_specimen_id": "HX27T", 
+    "xml_file": {
+        "file_md5sum": "0c84f95d83a7d8af43b85430ad68592c", 
+        "file_name": "121faea3-eb4a-4f1a-b1e5-021884380141.xml", 
+        "file_size": 33773, 
+        "object_id": "c9acfa7f-0162-5e74-8007-943b18ee5f73"
+    }
+}

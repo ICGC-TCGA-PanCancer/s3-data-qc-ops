@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "ce36fc94-93ba-4a40-9c6b-196a9f92654a", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "93cb1522b5cc4e4cedea71a83f2e24d6", 
+                "file_size": 31571
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "c4a75ccd4f51d8d090a795c92b00b958", 
+                "file_size": 31572
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "f8cff20e27b92da0d8fbbd8fe4987825", 
+        "file_name": "046e68bffbef050e5c463c0c3aa5e7e9.bam.bai", 
+        "file_size": 15027848, 
+        "object_id": "f6423feb-4cab-5f16-bf40-054adcb95c51"
+    }, 
+    "bam_file": {
+        "file_md5sum": "046e68bffbef050e5c463c0c3aa5e7e9", 
+        "file_name": "046e68bffbef050e5c463c0c3aa5e7e9.bam", 
+        "file_size": 127421691507, 
+        "object_id": "12e2fa95-f16c-593d-a8b9-5a9b98a40adc"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "9eb1b0e6-642a-4123-8259-71f392035c06", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PACA-CA", 
+    "slice_regions": [
+        "1:150424017-150424117", 
+        "3:7831719-7831819", 
+        "5:135567471-135567571", 
+        "14:61327542-61327642", 
+        "11:27486008-27486108", 
+        "3:91116200-91116300", 
+        "10:55828361-55828461", 
+        "8:111082776-111082876", 
+        "7:16807183-16807283", 
+        "11:37808001-37808101", 
+        "15:40447899-40447999", 
+        "20:39849594-39849694", 
+        "9:64104569-64104669", 
+        "15:69010847-69010947", 
+        "2:217587631-217587731", 
+        "17:78557190-78557290", 
+        "2:197285182-197285282", 
+        "20:41586348-41586448", 
+        "6:140084201-140084301", 
+        "9:74641569-74641669"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "PCSI_0506", 
+    "submitter_sample_id": "PCSI_0506_Ly_R", 
+    "submitter_specimen_id": "PCSI_0506_Ly_R", 
+    "xml_file": {
+        "file_md5sum": "93cb1522b5cc4e4cedea71a83f2e24d6", 
+        "file_name": "9eb1b0e6-642a-4123-8259-71f392035c06.xml", 
+        "file_size": 31571, 
+        "object_id": "4356a466-5853-52dc-abe8-f9731a43f64e"
+    }
+}

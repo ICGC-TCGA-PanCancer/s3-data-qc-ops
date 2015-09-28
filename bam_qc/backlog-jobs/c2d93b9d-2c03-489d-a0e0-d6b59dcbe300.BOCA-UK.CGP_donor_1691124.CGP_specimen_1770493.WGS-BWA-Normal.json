@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "fc96f0df-ef01-411e-e040-11ac0d484291", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "8744257758551a50b38d4b783a7fc1f9", 
+                "file_size": 82432
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "64e99f5d3a8021e7f0d15cec016b99ef", 
+                "file_size": 82433
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "34946d508df68959eb773926186a0b31", 
+        "file_name": "73f825482719b1f8069820746de863ef.bam.bai", 
+        "file_size": 13383384, 
+        "object_id": "8d712b83-bdda-51b1-a086-ae1a3c67880b"
+    }, 
+    "bam_file": {
+        "file_md5sum": "73f825482719b1f8069820746de863ef", 
+        "file_name": "73f825482719b1f8069820746de863ef.bam", 
+        "file_size": 111976936941, 
+        "object_id": "c6338f6b-2b58-5fdc-9c9d-95604c4f084e"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "c2d93b9d-2c03-489d-a0e0-d6b59dcbe300", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "BOCA-UK", 
+    "slice_regions": [
+        "6:59706927-59707027", 
+        "1:139171580-139171680", 
+        "5:97375937-97376037", 
+        "7:12192521-12192621", 
+        "1:25381686-25381786", 
+        "5:112686890-112686990", 
+        "12:63255970-63256070", 
+        "4:132954933-132955033", 
+        "8:84126220-84126320", 
+        "1:184423737-184423837", 
+        "8:65517601-65517701", 
+        "21:7071910-7072010", 
+        "4:97944756-97944856", 
+        "14:40249378-40249478", 
+        "14:89018509-89018609", 
+        "14:40056315-40056415", 
+        "1:154342597-154342697", 
+        "2:68603624-68603724", 
+        "14:28823878-28823978", 
+        "8:133245209-133245309"
+    ], 
+    "specimen_type": "Normal - solid tissue", 
+    "submitter_donor_id": "CGP_donor_1691124", 
+    "submitter_sample_id": "PD13453b", 
+    "submitter_specimen_id": "CGP_specimen_1770493", 
+    "xml_file": {
+        "file_md5sum": "8744257758551a50b38d4b783a7fc1f9", 
+        "file_name": "c2d93b9d-2c03-489d-a0e0-d6b59dcbe300.xml", 
+        "file_size": 82432, 
+        "object_id": "1ac9c5cc-3d8e-5ed4-b60a-82b15585a305"
+    }
+}

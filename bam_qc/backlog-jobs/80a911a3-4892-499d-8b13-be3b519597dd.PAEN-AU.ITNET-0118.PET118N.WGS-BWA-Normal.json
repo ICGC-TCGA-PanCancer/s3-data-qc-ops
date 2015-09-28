@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "b092e200-56a4-4910-b0ab-88593f6fcf7e", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "fa1170351d184bdb653fa6f809a33fba", 
+                "file_size": 31124
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "fbd455bd0b0d5ca0c2f674e0952ad769", 
+                "file_size": 31142
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "eac78c554c80cc66d1a57b807a6b0d1e", 
+                "file_size": 31014
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "1ac2d364e4767f2a2776fce77a583130", 
+        "file_name": "dacc6ab51f3a76f89bd3a49656ad3103.bam.bai", 
+        "file_size": 27259416, 
+        "object_id": "2c7a5134-ff2a-5b84-ae10-c1fe39e9680b"
+    }, 
+    "bam_file": {
+        "file_md5sum": "dacc6ab51f3a76f89bd3a49656ad3103", 
+        "file_name": "dacc6ab51f3a76f89bd3a49656ad3103.bam", 
+        "file_size": 144817240131, 
+        "object_id": "6aeb68c7-ee90-5adb-82a2-bcdee1a9ce24"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "80a911a3-4892-499d-8b13-be3b519597dd", 
+    "gnos_repo": [
+        "https://gtrepo-osdc-icgc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PAEN-AU", 
+    "slice_regions": [
+        "13:1642000-1642100", 
+        "4:171129826-171129926", 
+        "17:41748423-41748523", 
+        "5:144949118-144949218", 
+        "17:5069158-5069258", 
+        "5:96653107-96653207", 
+        "8:55011714-55011814", 
+        "14:48397288-48397388", 
+        "22:11778160-11778260", 
+        "9:1191483-1191583", 
+        "5:169075514-169075614", 
+        "4:122133760-122133860", 
+        "1:128515476-128515576", 
+        "2:74964400-74964500", 
+        "5:152912979-152913079", 
+        "12:104255627-104255727", 
+        "19:755213-755313", 
+        "12:106879896-106879996", 
+        "7:106599381-106599481", 
+        "5:448292-448392"
+    ], 
+    "specimen_type": "Normal - solid tissue", 
+    "submitter_donor_id": "ITNET-0118", 
+    "submitter_sample_id": "PET118N", 
+    "submitter_specimen_id": "PET118N", 
+    "xml_file": {
+        "file_md5sum": "fbd455bd0b0d5ca0c2f674e0952ad769", 
+        "file_name": "80a911a3-4892-499d-8b13-be3b519597dd.xml", 
+        "file_size": 31142, 
+        "object_id": "07c474ad-04f2-5af3-9e20-1de8bdf0fbd6"
+    }
+}

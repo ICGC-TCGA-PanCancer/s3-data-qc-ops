@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "e56fe777-166b-42cf-8e8a-9ef71012e18d", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "59f94faae2792802dcf90129bf4e424b", 
+                "file_size": 28892
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "e22f7777f38c68750f3a20bbdf1e1acb", 
+                "file_size": 28910
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "88652119d640dc917670040f85b7b981", 
+        "file_name": "dde347148556b6fc8d5250064095d4ee.bam.bai", 
+        "file_size": 12549920, 
+        "object_id": "cee970f3-6954-51e4-ab4b-9820bb7b26fa"
+    }, 
+    "bam_file": {
+        "file_md5sum": "dde347148556b6fc8d5250064095d4ee", 
+        "file_name": "dde347148556b6fc8d5250064095d4ee.bam", 
+        "file_size": 80984140561, 
+        "object_id": "dd25a9b4-4971-5320-a8e0-84b938d1b383"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "41c1ea55-e4f3-4b01-8df5-fcf4367c5d41", 
+    "gnos_repo": [
+        "https://gtrepo-osdc-icgc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PACA-AU", 
+    "slice_regions": [
+        "5:110320899-110320999", 
+        "15:27536619-27536719", 
+        "15:50352619-50352719", 
+        "13:13480772-13480872", 
+        "3:79405704-79405804", 
+        "19:21400292-21400392", 
+        "6:5562626-5562726", 
+        "20:32637849-32637949", 
+        "16:59181789-59181889", 
+        "16:1196303-1196403", 
+        "22:18347179-18347279", 
+        "8:118180494-118180594", 
+        "1:102589309-102589409", 
+        "19:50598320-50598420", 
+        "9:4870239-4870339", 
+        "13:58474046-58474146", 
+        "13:88912694-88912794", 
+        "6:156099932-156100032", 
+        "8:1883487-1883587", 
+        "7:39542893-39542993"
+    ], 
+    "specimen_type": "Normal - solid tissue", 
+    "submitter_donor_id": "ICGC_0419", 
+    "submitter_sample_id": "8067243", 
+    "submitter_specimen_id": "8067243", 
+    "xml_file": {
+        "file_md5sum": "e22f7777f38c68750f3a20bbdf1e1acb", 
+        "file_name": "41c1ea55-e4f3-4b01-8df5-fcf4367c5d41.xml", 
+        "file_size": 28910, 
+        "object_id": "4769c950-0aad-589d-b2a8-eb3555a65f74"
+    }
+}

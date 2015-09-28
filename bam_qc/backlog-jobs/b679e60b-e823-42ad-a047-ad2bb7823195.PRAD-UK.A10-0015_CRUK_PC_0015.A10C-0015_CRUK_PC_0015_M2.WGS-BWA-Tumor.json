@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "0bfd1043-816e-e3e4-e050-11ac0c4860c5", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "f87c71809d8237498485d50e3fb7f3c8", 
+                "file_size": 32511
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "de9f26a9e008758ed4e021a888533b4f", 
+                "file_size": 32395
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "68b4febb1d3a3fac7d20972f1ac0d59c", 
+        "file_name": "b84ea165212637cdc6046402cc645436.bam.bai", 
+        "file_size": 16440472, 
+        "object_id": "1f09b88f-47d6-52ed-94aa-81e5347ff7a2"
+    }, 
+    "bam_file": {
+        "file_md5sum": "b84ea165212637cdc6046402cc645436", 
+        "file_name": "b84ea165212637cdc6046402cc645436.bam", 
+        "file_size": 190360834112, 
+        "object_id": "271b5675-ae82-595d-ad19-35d8e0c0e6ae"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "b679e60b-e823-42ad-a047-ad2bb7823195", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-UK", 
+    "slice_regions": [
+        "1:161959175-161959275", 
+        "15:44789726-44789826", 
+        "11:5337301-5337401", 
+        "21:8753199-8753299", 
+        "18:51226811-51226911", 
+        "7:147180174-147180274", 
+        "13:16131841-16131941", 
+        "12:113846077-113846177", 
+        "20:34402907-34403007", 
+        "12:116900885-116900985", 
+        "18:4942631-4942731", 
+        "9:102773263-102773363", 
+        "5:143583040-143583140", 
+        "6:44654623-44654723", 
+        "16:65422079-65422179", 
+        "13:54804814-54804914", 
+        "5:78053203-78053303", 
+        "9:56151051-56151151", 
+        "7:115024812-115024912", 
+        "13:99037438-99037538"
+    ], 
+    "specimen_type": "Metastatic tumour - lymph node", 
+    "submitter_donor_id": "A10-0015_CRUK_PC_0015", 
+    "submitter_sample_id": "A10C-0015_CRUK_PC_0015_M2_DNA", 
+    "submitter_specimen_id": "A10C-0015_CRUK_PC_0015_M2", 
+    "xml_file": {
+        "file_md5sum": "f87c71809d8237498485d50e3fb7f3c8", 
+        "file_name": "b679e60b-e823-42ad-a047-ad2bb7823195.xml", 
+        "file_size": 32511, 
+        "object_id": "e41ff905-218f-5741-8152-a504a723f40b"
+    }
+}

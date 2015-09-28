@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "d2ab7fd4-d1c7-48ae-ba9a-78c5d811465e", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "c76c13e90be793d0511a20cf322231e0", 
+                "file_size": 58541
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "e09180de137891a6a8ed742145d3a750", 
+                "file_size": 58542
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "9e57e019bb942e8506fa1ffc88b09e02", 
+        "file_name": "267ef973f15ab8e56836861a74b07925.bam.bai", 
+        "file_size": 25056488, 
+        "object_id": "6d61ecba-818c-5e47-8749-75e734b83b8c"
+    }, 
+    "bam_file": {
+        "file_md5sum": "267ef973f15ab8e56836861a74b07925", 
+        "file_name": "267ef973f15ab8e56836861a74b07925.bam", 
+        "file_size": 158443452185, 
+        "object_id": "6f77aabb-dead-523f-8c8b-5d7a1e640870"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "736fd193-5d53-4b14-a797-c5f937a975b1", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "RECA-EU", 
+    "slice_regions": [
+        "5:177824153-177824253", 
+        "4:49381554-49381654", 
+        "1:73284841-73284941", 
+        "9:3661222-3661322", 
+        "16:62415452-62415552", 
+        "13:105520758-105520858", 
+        "14:47743916-47744016", 
+        "17:41798764-41798864", 
+        "14:43611226-43611326", 
+        "18:11699654-11699754", 
+        "20:31116370-31116470", 
+        "22:48691361-48691461", 
+        "13:104064697-104064797", 
+        "18:55693838-55693938", 
+        "22:45179039-45179139", 
+        "3:189833400-189833500", 
+        "1:161317215-161317315", 
+        "4:82979127-82979227", 
+        "6:112588206-112588306", 
+        "7:95139225-95139325"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "C0030", 
+    "submitter_sample_id": "C0030T", 
+    "submitter_specimen_id": "C0030T", 
+    "xml_file": {
+        "file_md5sum": "e09180de137891a6a8ed742145d3a750", 
+        "file_name": "736fd193-5d53-4b14-a797-c5f937a975b1.xml", 
+        "file_size": 58542, 
+        "object_id": "81a7e58d-3e32-5325-8c1a-04b77a58377c"
+    }
+}

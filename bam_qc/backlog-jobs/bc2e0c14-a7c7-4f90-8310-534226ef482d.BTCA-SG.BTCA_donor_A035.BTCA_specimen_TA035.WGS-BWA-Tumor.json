@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "4ef20a13-f107-4654-adca-fc60b8f5be47", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "ab7ffa1c9e02c11327c88aa8c3c942cb", 
+                "file_size": 29532
+            }
+        }, 
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "ac2fe0f6aa24a9ef305712ea49dd38c4", 
+                "file_size": 29529
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "90ccf9d9378dae15d83bfa41a2771174", 
+                "file_size": 29526
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "c485a4e0d86a11b8eecd5f8f4b646f07", 
+        "file_name": "8f310909eaf51636057f672899a95031.bam.bai", 
+        "file_size": 26670600, 
+        "object_id": "c9994f0a-83c8-53d6-8845-df6ff410ad40"
+    }, 
+    "bam_file": {
+        "file_md5sum": "8f310909eaf51636057f672899a95031", 
+        "file_name": "8f310909eaf51636057f672899a95031.bam", 
+        "file_size": 166531366967, 
+        "object_id": "f0ebf95f-db0a-5478-a31b-132bfbf55a43"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "bc2e0c14-a7c7-4f90-8310-534226ef482d", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "BTCA-SG", 
+    "slice_regions": [
+        "12:15191548-15191648", 
+        "18:33925678-33925778", 
+        "3:189341171-189341271", 
+        "12:19225881-19225981", 
+        "5:178933640-178933740", 
+        "20:58669438-58669538", 
+        "15:6581337-6581437", 
+        "14:37686465-37686565", 
+        "22:31179008-31179108", 
+        "7:16950043-16950143", 
+        "14:105532453-105532553", 
+        "18:31990990-31991090", 
+        "13:78184908-78185008", 
+        "21:11704474-11704574", 
+        "20:38408025-38408125", 
+        "12:130710558-130710658", 
+        "18:63724053-63724153", 
+        "9:95304057-95304157", 
+        "17:59029777-59029877", 
+        "3:73626302-73626402"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "BTCA_donor_A035", 
+    "submitter_sample_id": "TA035", 
+    "submitter_specimen_id": "BTCA_specimen_TA035", 
+    "xml_file": {
+        "file_md5sum": "ac2fe0f6aa24a9ef305712ea49dd38c4", 
+        "file_name": "bc2e0c14-a7c7-4f90-8310-534226ef482d.xml", 
+        "file_size": 29529, 
+        "object_id": "e65eace3-47ac-5ad0-a85f-68fa612ad72d"
+    }
+}

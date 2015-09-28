@@ -1,0 +1,62 @@
+{
+    "aliquot_id": "53a41b70-eea0-4c08-b0a7-e02940d873bf", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "f1c375618abe2b12317aff5a9a5ac1b0", 
+                "file_size": 34968
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "a802f89179e1258d2734757f67d463b0", 
+        "file_name": "5236cde43d666111b61c8439c0344cf6.bam.bai", 
+        "file_size": 25947544, 
+        "object_id": "a2dd0b52-5955-5fc7-8979-1fb7e63f9597"
+    }, 
+    "bam_file": {
+        "file_md5sum": "5236cde43d666111b61c8439c0344cf6", 
+        "file_name": "5236cde43d666111b61c8439c0344cf6.bam", 
+        "file_size": 167304491600, 
+        "object_id": "9f7f957e-4012-5bda-babd-d5717917c9cf"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "4319b389-3731-44ed-97ba-50d9375567d0", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PACA-CA", 
+    "slice_regions": [
+        "12:45090440-45090540", 
+        "8:2294603-2294703", 
+        "4:108599178-108599278", 
+        "11:119620218-119620318", 
+        "5:141592399-141592499", 
+        "14:86768059-86768159", 
+        "16:25584071-25584171", 
+        "4:79829273-79829373", 
+        "10:102664036-102664136", 
+        "8:130912372-130912472", 
+        "11:68966338-68966438", 
+        "12:54885233-54885333", 
+        "17:41762902-41763002", 
+        "5:146647655-146647755", 
+        "20:37545349-37545449", 
+        "3:77518350-77518450", 
+        "4:90166132-90166232", 
+        "9:85369352-85369452", 
+        "21:16976289-16976389", 
+        "4:110043540-110043640"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "PCSI_0311", 
+    "submitter_sample_id": "PCSI_0311_Ly_R", 
+    "submitter_specimen_id": "PCSI_0311_Ly_R", 
+    "xml_file": {
+        "file_md5sum": "f1c375618abe2b12317aff5a9a5ac1b0", 
+        "file_name": "4319b389-3731-44ed-97ba-50d9375567d0.xml", 
+        "file_size": 34968, 
+        "object_id": "1892dff7-23be-5023-85d6-a824e18ea2a5"
+    }
+}

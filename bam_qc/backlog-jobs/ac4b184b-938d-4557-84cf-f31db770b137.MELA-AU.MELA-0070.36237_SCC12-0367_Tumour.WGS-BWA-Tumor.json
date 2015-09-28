@@ -1,0 +1,62 @@
+{
+    "aliquot_id": "7edc42d3-d08e-4360-a3e1-aeb57cfc6640", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "dd46110a7adbfb07908cd8de31b4d324", 
+                "file_size": 41309
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "bee1d64af81c1c8f43caf19b8a522bff", 
+        "file_name": "5f3cd12aafcc73b605a84e62bce7ac3a.bam.bai", 
+        "file_size": 13728136, 
+        "object_id": "532a3ae5-846d-597c-bc69-2ab080123899"
+    }, 
+    "bam_file": {
+        "file_md5sum": "5f3cd12aafcc73b605a84e62bce7ac3a", 
+        "file_name": "5f3cd12aafcc73b605a84e62bce7ac3a.bam", 
+        "file_size": 173777462479, 
+        "object_id": "4fe894a7-0103-5b82-8da0-74edef059b8f"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "ac4b184b-938d-4557-84cf-f31db770b137", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MELA-AU", 
+    "slice_regions": [
+        "1:88413915-88414015", 
+        "1:73261704-73261804", 
+        "5:80591391-80591491", 
+        "15:15310044-15310144", 
+        "10:95448026-95448126", 
+        "5:13963839-13963939", 
+        "14:39285239-39285339", 
+        "3:48048011-48048111", 
+        "17:36412547-36412647", 
+        "21:37477474-37477574", 
+        "19:61226995-61227095", 
+        "2:5949288-5949388", 
+        "12:129497758-129497858", 
+        "5:172403184-172403284", 
+        "15:56302321-56302421", 
+        "9:63101755-63101855", 
+        "1:157179543-157179643", 
+        "4:23074752-23074852", 
+        "21:17300817-17300917", 
+        "4:57956886-57956986"
+    ], 
+    "specimen_type": "Metastatic tumour - metastasis local to lymph node", 
+    "submitter_donor_id": "MELA-0070", 
+    "submitter_sample_id": "EXTERN-MELA-20140514-056", 
+    "submitter_specimen_id": "36237_SCC12-0367_Tumour", 
+    "xml_file": {
+        "file_md5sum": "dd46110a7adbfb07908cd8de31b4d324", 
+        "file_name": "ac4b184b-938d-4557-84cf-f31db770b137.xml", 
+        "file_size": 41309, 
+        "object_id": "fbca5b57-db4b-506e-9315-49908b7858c5"
+    }
+}

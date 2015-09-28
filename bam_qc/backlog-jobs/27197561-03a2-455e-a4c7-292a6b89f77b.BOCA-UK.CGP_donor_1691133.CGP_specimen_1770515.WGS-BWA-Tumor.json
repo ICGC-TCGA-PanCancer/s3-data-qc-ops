@@ -1,0 +1,58 @@
+{
+    "aliquot_id": "f8407106-8a96-8f85-e040-11ac0d481656", 
+    "available_repos": [
+        "https://gtrepo-bsc.annailabs.com/", 
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "bai_file": {
+        "file_md5sum": "c51bf08629d8e20b97f5a63ebeaf895d", 
+        "file_name": "ce4afaafd87c53846d56bf3148d730c1.bam.bai", 
+        "file_size": 18321536, 
+        "object_id": "f25e03e9-cf83-5f21-9bc1-7d2ac2f06d64"
+    }, 
+    "bam_file": {
+        "file_md5sum": "ce4afaafd87c53846d56bf3148d730c1", 
+        "file_name": "ce4afaafd87c53846d56bf3148d730c1.bam", 
+        "file_size": 191935611155, 
+        "object_id": "2e138d48-969e-5097-8111-bf1ff9104b7b"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "27197561-03a2-455e-a4c7-292a6b89f77b", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "BOCA-UK", 
+    "slice_regions": [
+        "5:118037977-118038077", 
+        "9:10202560-10202660", 
+        "20:40751008-40751108", 
+        "6:27699152-27699252", 
+        "2:91617370-91617470", 
+        "3:149490354-149490454", 
+        "11:82147907-82148007", 
+        "2:171447340-171447440", 
+        "8:96820862-96820962", 
+        "9:133511857-133511957", 
+        "8:113452915-113453015", 
+        "9:49700990-49701090", 
+        "3:134332004-134332104", 
+        "3:83952085-83952185", 
+        "10:53123370-53123470", 
+        "10:80149733-80149833", 
+        "12:56832514-56832614", 
+        "21:21693546-21693646", 
+        "2:214217968-214218068", 
+        "3:121497379-121497479"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "CGP_donor_1691133", 
+    "submitter_sample_id": "PD13462a", 
+    "submitter_specimen_id": "CGP_specimen_1770515", 
+    "xml_file": {
+        "file_md5sum": "ca3b4a025947d50d01e63b97c727c4a1", 
+        "file_name": "27197561-03a2-455e-a4c7-292a6b89f77b.xml", 
+        "file_size": 103706, 
+        "object_id": "011ad22c-d2c4-5e3c-b5b8-388e54846fef"
+    }
+}
