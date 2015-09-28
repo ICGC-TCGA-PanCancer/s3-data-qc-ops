@@ -57,6 +57,14 @@
                 "start": 1443448843, 
                 "stop": 1443448912
             }
+        }, 
+        "run_1443451429_3f1aad79-bb8a-4e5a-96e7-973417526a96": {
+            "downloading": {
+                "bam_file-md5sum-mismatch": "60e68fe38c62f9523127e9f3fbdb05f5", 
+                "bam_file-size-mismatch": 60108717593, 
+                "start": 1443465152, 
+                "stop": 1443465663
+            }
         }
     }, 
     "aliquot_id": "0fe5241f-176c-4146-9c29-bb2523285f62", 
