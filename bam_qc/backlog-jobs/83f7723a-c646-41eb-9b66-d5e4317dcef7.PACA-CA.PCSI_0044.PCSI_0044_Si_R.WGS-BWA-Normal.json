@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "39d748b3-ee76-4878-ac21-ab162719550d", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "02e4fd31ef8703285e38e875bbed012a", 
+                "file_size": 38169
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "ed31330d6cb21aa252688549af0154c7", 
+                "file_size": 38167
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "6ed8013b6c26d3fb88fabdb0de585536", 
+                "file_size": 38167
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "dc16df6b1c4c02f7092a983a321e84ae", 
+        "file_name": "568e33931a29006fb7c2a9b38c47ca1b.bam.bai", 
+        "file_size": 18242152, 
+        "object_id": "ab8740e1-6c8d-517f-975c-4d1e7412db6e"
+    }, 
+    "bam_file": {
+        "file_md5sum": "568e33931a29006fb7c2a9b38c47ca1b", 
+        "file_name": "568e33931a29006fb7c2a9b38c47ca1b.bam", 
+        "file_size": 142350002180, 
+        "object_id": "30a4cc2b-9b3b-5381-b0a8-d92e88c018db"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "83f7723a-c646-41eb-9b66-d5e4317dcef7", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PACA-CA", 
+    "slice_regions": [
+        "15:13334397-13334497", 
+        "13:30901795-30901895", 
+        "15:18995076-18995176", 
+        "11:100159683-100159783", 
+        "3:79076064-79076164", 
+        "15:73082613-73082713", 
+        "21:35450083-35450183", 
+        "15:99776276-99776376", 
+        "13:17729994-17730094", 
+        "15:78668714-78668814", 
+        "16:52100448-52100548", 
+        "1:203287303-203287403", 
+        "17:64003347-64003447", 
+        "14:92457299-92457399", 
+        "14:1148770-1148870", 
+        "16:73745409-73745509", 
+        "12:129693863-129693963", 
+        "10:91291336-91291436", 
+        "9:138002042-138002142", 
+        "1:161812327-161812427"
+    ], 
+    "specimen_type": "Normal - solid tissue", 
+    "submitter_donor_id": "PCSI_0044", 
+    "submitter_sample_id": "PCSI_0044_Si_R", 
+    "submitter_specimen_id": "PCSI_0044_Si_R", 
+    "xml_file": {
+        "file_md5sum": "02e4fd31ef8703285e38e875bbed012a", 
+        "file_name": "83f7723a-c646-41eb-9b66-d5e4317dcef7.xml", 
+        "file_size": 38169, 
+        "object_id": "cf1f5b52-513d-5430-bffc-a52915029009"
+    }
+}

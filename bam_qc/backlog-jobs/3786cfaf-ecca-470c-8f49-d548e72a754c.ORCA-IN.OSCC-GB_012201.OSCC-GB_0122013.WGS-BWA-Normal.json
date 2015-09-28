@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "33860b2a-3fef-4a6b-9ed8-bc7d0030d074", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "0b35f66358c4ec318814bcc233d5ee59", 
+                "file_size": 51346
+            }
+        }, 
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "98d98cb43214c17c5ad0657a85880327", 
+                "file_size": 51343
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "3cbe4ed029e4072428f84abe6af5b747", 
+                "file_size": 51340
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "2f220f590687b622384894c0a7282b7d", 
+        "file_name": "8cb216d7de5a543633b36e05540f021b.bam.bai", 
+        "file_size": 11203856, 
+        "object_id": "94896c02-e293-5345-8cdb-ccd2f4b68b20"
+    }, 
+    "bam_file": {
+        "file_md5sum": "8cb216d7de5a543633b36e05540f021b", 
+        "file_name": "8cb216d7de5a543633b36e05540f021b.bam", 
+        "file_size": 95299828744, 
+        "object_id": "9662b769-5182-5227-9c2e-20779bc19c58"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "3786cfaf-ecca-470c-8f49-d548e72a754c", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "ORCA-IN", 
+    "slice_regions": [
+        "12:82885766-82885866", 
+        "9:94337724-94337824", 
+        "4:124832787-124832887", 
+        "10:18548328-18548428", 
+        "17:11299932-11300032", 
+        "14:23809918-23810018", 
+        "8:44254623-44254723", 
+        "21:27802126-27802226", 
+        "12:131685942-131686042", 
+        "15:39787095-39787195", 
+        "10:96775408-96775508", 
+        "5:156020978-156021078", 
+        "9:78537762-78537862", 
+        "11:106663972-106664072", 
+        "14:4408301-4408401", 
+        "9:88442050-88442150", 
+        "12:89407471-89407571", 
+        "2:138704345-138704445", 
+        "2:102628867-102628967", 
+        "4:179251375-179251475"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "OSCC-GB_012201", 
+    "submitter_sample_id": "OSCC-GB_01220131", 
+    "submitter_specimen_id": "OSCC-GB_0122013", 
+    "xml_file": {
+        "file_md5sum": "98d98cb43214c17c5ad0657a85880327", 
+        "file_name": "3786cfaf-ecca-470c-8f49-d548e72a754c.xml", 
+        "file_size": 51343, 
+        "object_id": "6c340188-7fb1-5c77-bd88-67c34b659cba"
+    }
+}

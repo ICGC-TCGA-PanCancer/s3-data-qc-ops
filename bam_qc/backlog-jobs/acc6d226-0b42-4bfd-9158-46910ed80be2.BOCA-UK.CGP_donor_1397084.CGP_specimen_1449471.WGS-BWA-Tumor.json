@@ -1,0 +1,57 @@
+{
+    "aliquot_id": "f82d213f-9ba5-7b6b-e040-11ac0c486882", 
+    "available_repos": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "bai_file": {
+        "file_md5sum": "b12cd583dac9f03f85786de32ce86966", 
+        "file_name": "e9b2cbc302dbb6ff2c7f1383b84df9f5.bam.bai", 
+        "file_size": 14395864, 
+        "object_id": "a0e99138-5e9d-582e-9329-873930dace78"
+    }, 
+    "bam_file": {
+        "file_md5sum": "e9b2cbc302dbb6ff2c7f1383b84df9f5", 
+        "file_name": "e9b2cbc302dbb6ff2c7f1383b84df9f5.bam", 
+        "file_size": 134841274171, 
+        "object_id": "54c80e6b-987f-5bc5-875e-282cc80b61da"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "acc6d226-0b42-4bfd-9158-46910ed80be2", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "BOCA-UK", 
+    "slice_regions": [
+        "19:15764868-15764968", 
+        "11:89631707-89631807", 
+        "16:24569002-24569102", 
+        "14:66720567-66720667", 
+        "13:15543607-15543707", 
+        "19:63605446-63605546", 
+        "16:71284228-71284328", 
+        "9:130212192-130212292", 
+        "16:53690120-53690220", 
+        "17:33597634-33597734", 
+        "12:162687-162787", 
+        "21:32212530-32212630", 
+        "17:40446756-40446856", 
+        "16:77716728-77716828", 
+        "15:40330775-40330875", 
+        "14:42260519-42260619", 
+        "9:86431275-86431375", 
+        "15:67627159-67627259", 
+        "10:41022105-41022205", 
+        "2:57683061-57683161"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "CGP_donor_1397084", 
+    "submitter_sample_id": "PD7197a", 
+    "submitter_specimen_id": "CGP_specimen_1449471", 
+    "xml_file": {
+        "file_md5sum": "ae0f95afab7bcbbbecf37810df93e63b", 
+        "file_name": "acc6d226-0b42-4bfd-9158-46910ed80be2.xml", 
+        "file_size": 33364, 
+        "object_id": "6715117f-bb84-5568-b7d5-79b7ba36ddda"
+    }
+}

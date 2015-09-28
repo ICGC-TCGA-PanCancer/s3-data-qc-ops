@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "cf6c7066-6611-43ec-aef1-295a976cce5b", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "9683a456f0dcf5f191e09f5010df1573", 
+                "file_size": 32270
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "448cb816e6c147f970972f1135b8c0bb", 
+                "file_size": 32288
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "7ffb770dfffaec22c12549a676268c4d", 
+                "file_size": 32159
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "c0a41abe3df0f64c066500526a9f1b38", 
+        "file_name": "df4f6f947f56c9361a3fa9a6886dba94.bam.bai", 
+        "file_size": 14664568, 
+        "object_id": "5b256252-51f3-521c-a589-f44001d2d19b"
+    }, 
+    "bam_file": {
+        "file_md5sum": "df4f6f947f56c9361a3fa9a6886dba94", 
+        "file_name": "df4f6f947f56c9361a3fa9a6886dba94.bam", 
+        "file_size": 134045563663, 
+        "object_id": "b61d3160-6224-5436-b51d-8ef73c750bd0"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "18a92726-d8ea-4238-ba3e-6fe760a9976d", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "OV-AU", 
+    "slice_regions": [
+        "21:8283226-8283326", 
+        "1:221303169-221303269", 
+        "6:63128604-63128704", 
+        "9:60074639-60074739", 
+        "6:127867075-127867175", 
+        "19:21709441-21709541", 
+        "3:78617194-78617294", 
+        "21:30572176-30572276", 
+        "6:169984767-169984867", 
+        "11:83249989-83250089", 
+        "20:57071717-57071817", 
+        "10:68519822-68519922", 
+        "9:109096847-109096947", 
+        "20:18935293-18935393", 
+        "9:133016065-133016165", 
+        "22:4428995-4429095", 
+        "16:73413879-73413979", 
+        "21:40230046-40230146", 
+        "2:176820399-176820499", 
+        "3:6570593-6570693"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "AOCS-106", 
+    "submitter_sample_id": "AOCS-106-1-1", 
+    "submitter_specimen_id": "AOCS-106-1", 
+    "xml_file": {
+        "file_md5sum": "7ffb770dfffaec22c12549a676268c4d", 
+        "file_name": "18a92726-d8ea-4238-ba3e-6fe760a9976d.xml", 
+        "file_size": 32159, 
+        "object_id": "16049cc8-8914-527a-b397-1f138fe3e683"
+    }
+}

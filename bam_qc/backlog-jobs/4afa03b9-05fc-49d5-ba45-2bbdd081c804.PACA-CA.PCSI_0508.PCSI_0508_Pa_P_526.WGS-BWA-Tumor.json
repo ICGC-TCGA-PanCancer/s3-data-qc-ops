@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "6297aa77-37a0-4f46-987b-32bd8653c0c2", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "93f9b51fc0685754f975b8d3103ffd12", 
+                "file_size": 35058
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "2cf49a051fbc38079801bef6e456ca12", 
+                "file_size": 35059
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "13b79c6f80ab8cf7b7fafd46832494e2", 
+        "file_name": "c1bda9230e13d53e537d0318d8397406.bam.bai", 
+        "file_size": 17401016, 
+        "object_id": "93ee92c0-dd2e-58a4-8563-ba066ddffd72"
+    }, 
+    "bam_file": {
+        "file_md5sum": "c1bda9230e13d53e537d0318d8397406", 
+        "file_name": "c1bda9230e13d53e537d0318d8397406.bam", 
+        "file_size": 164748137321, 
+        "object_id": "fb732684-1372-5230-9dc7-209814d8a7f7"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "4afa03b9-05fc-49d5-ba45-2bbdd081c804", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PACA-CA", 
+    "slice_regions": [
+        "8:14812688-14812788", 
+        "14:52931402-52931502", 
+        "3:118875002-118875102", 
+        "1:206648948-206649048", 
+        "2:70480670-70480770", 
+        "4:57613391-57613491", 
+        "5:25096539-25096639", 
+        "3:33825185-33825285", 
+        "6:47568394-47568494", 
+        "2:186568866-186568966", 
+        "6:55842239-55842339", 
+        "6:65328052-65328152", 
+        "14:42621567-42621667", 
+        "15:57270434-57270534", 
+        "1:150869426-150869526", 
+        "5:80571946-80572046", 
+        "1:109193633-109193733", 
+        "12:120106797-120106897", 
+        "8:119920912-119921012", 
+        "20:59506579-59506679"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "PCSI_0508", 
+    "submitter_sample_id": "PCSI_0508_Pa_P_526", 
+    "submitter_specimen_id": "PCSI_0508_Pa_P_526", 
+    "xml_file": {
+        "file_md5sum": "93f9b51fc0685754f975b8d3103ffd12", 
+        "file_name": "4afa03b9-05fc-49d5-ba45-2bbdd081c804.xml", 
+        "file_size": 35058, 
+        "object_id": "9327553b-c2cf-5f94-b657-fd0add71512a"
+    }
+}

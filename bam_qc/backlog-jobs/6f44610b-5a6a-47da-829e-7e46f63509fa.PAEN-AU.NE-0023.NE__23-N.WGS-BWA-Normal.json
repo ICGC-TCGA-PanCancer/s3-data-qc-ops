@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "5257d973-29bb-4a70-8c7b-d638af6b25f7", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "334cee103df94d2d8195559a4896f721", 
+                "file_size": 28765
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "883f5639e384b724db86e37d56c96f94", 
+                "file_size": 28808
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "f07a7ad006f561f502da34f147cd86f9", 
+                "file_size": 28659
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "07b89e5e123738ecb654e78293202f06", 
+        "file_name": "1176f389adbbf120a0c6d57d1591f24c.bam.bai", 
+        "file_size": 11209016, 
+        "object_id": "5f30f53c-4d0e-5339-8760-16e80b9748b4"
+    }, 
+    "bam_file": {
+        "file_md5sum": "1176f389adbbf120a0c6d57d1591f24c", 
+        "file_name": "1176f389adbbf120a0c6d57d1591f24c.bam", 
+        "file_size": 63325297088, 
+        "object_id": "503df453-3987-5257-9100-7ee832586ad8"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "6f44610b-5a6a-47da-829e-7e46f63509fa", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PAEN-AU", 
+    "slice_regions": [
+        "1:177918229-177918329", 
+        "21:41280202-41280302", 
+        "14:86726212-86726312", 
+        "14:75388400-75388500", 
+        "12:91544121-91544221", 
+        "6:76186002-76186102", 
+        "10:100334568-100334668", 
+        "16:58259388-58259488", 
+        "11:57102548-57102648", 
+        "16:86664147-86664247", 
+        "22:9314992-9315092", 
+        "9:124949382-124949482", 
+        "6:85585119-85585219", 
+        "19:31798779-31798879", 
+        "11:14481974-14482074", 
+        "17:59745674-59745774", 
+        "5:25215364-25215464", 
+        "12:14513625-14513725", 
+        "4:742883-742983", 
+        "8:140494752-140494852"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "NE-0023", 
+    "submitter_sample_id": "NE 23-N", 
+    "submitter_specimen_id": "NE 23-N", 
+    "xml_file": {
+        "file_md5sum": "334cee103df94d2d8195559a4896f721", 
+        "file_name": "6f44610b-5a6a-47da-829e-7e46f63509fa.xml", 
+        "file_size": 28765, 
+        "object_id": "8e5f500f-2ff6-5b1e-a0d0-c61dfcae1bbe"
+    }
+}

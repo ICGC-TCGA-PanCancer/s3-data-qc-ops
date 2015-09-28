@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "e73a63c6-4fb5-4013-853e-bbbccf7d5e37", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "f080dfb318e33c6deb93501899f4fa22", 
+                "file_size": 29446
+            }
+        }, 
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "27b9b09db9c6ef47152f6630dc44c9c4", 
+                "file_size": 29443
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "5cefd3dd5eaf7f516ad7d57818d320f7", 
+                "file_size": 29440
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "62882183d05dbcd5454a73330a63355b", 
+        "file_name": "2ec6b917978ffd7545a56250b6522199.bam.bai", 
+        "file_size": 26545632, 
+        "object_id": "57939c20-5bc9-5288-ab8f-2a8b541da256"
+    }, 
+    "bam_file": {
+        "file_md5sum": "2ec6b917978ffd7545a56250b6522199", 
+        "file_name": "2ec6b917978ffd7545a56250b6522199.bam", 
+        "file_size": 164111236961, 
+        "object_id": "517b183d-897d-5c05-bf87-ec7c2ef3baa6"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "5ed7d292-55d3-4cd7-9210-6a8838da5a34", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "BTCA-SG", 
+    "slice_regions": [
+        "20:8701781-8701881", 
+        "4:86724082-86724182", 
+        "14:51929983-51930083", 
+        "16:3644852-3644952", 
+        "18:39478610-39478710", 
+        "12:65744889-65744989", 
+        "12:58566943-58567043", 
+        "7:93802897-93802997", 
+        "12:96665156-96665256", 
+        "21:37115091-37115191", 
+        "10:113197528-113197628", 
+        "6:62469807-62469907", 
+        "16:48171985-48172085", 
+        "22:33012561-33012661", 
+        "22:38101031-38101131", 
+        "9:81522119-81522219", 
+        "1:64494872-64494972", 
+        "8:41461559-41461659", 
+        "17:23385472-23385572", 
+        "4:65729907-65730007"
+    ], 
+    "specimen_type": "Normal - solid tissue", 
+    "submitter_donor_id": "BTCA_donor_A035", 
+    "submitter_sample_id": "NA035", 
+    "submitter_specimen_id": "BTCA_specimen_NA035", 
+    "xml_file": {
+        "file_md5sum": "27b9b09db9c6ef47152f6630dc44c9c4", 
+        "file_name": "5ed7d292-55d3-4cd7-9210-6a8838da5a34.xml", 
+        "file_size": 29443, 
+        "object_id": "f254a1b6-d8ab-5e5e-ab9e-d0f76104e74e"
+    }
+}

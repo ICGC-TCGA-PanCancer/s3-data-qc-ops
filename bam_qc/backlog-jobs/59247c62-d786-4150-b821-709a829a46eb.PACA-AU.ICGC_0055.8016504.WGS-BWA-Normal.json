@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "d3800e6c-4e2b-43e6-af77-a2b4df78cbea", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "4c2d656ef4c6bbba17dda6191789a485", 
+                "file_size": 28864
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "e1ffbd473d847cf81772e8bd05c9b232", 
+                "file_size": 28882
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "e12f0eaad1a3c541804c69b65fb4e411", 
+                "file_size": 28758
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "a862a4ee42f536c1c5211c27ad294f9d", 
+        "file_name": "217b750957c5894860058faeb0816b31.bam.bai", 
+        "file_size": 14162272, 
+        "object_id": "ca622e33-96e9-5bec-9f55-d00a30c3944c"
+    }, 
+    "bam_file": {
+        "file_md5sum": "217b750957c5894860058faeb0816b31", 
+        "file_name": "217b750957c5894860058faeb0816b31.bam", 
+        "file_size": 99893697329, 
+        "object_id": "110843be-d94c-5d0b-b24c-f2b0f72efaa4"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "59247c62-d786-4150-b821-709a829a46eb", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PACA-AU", 
+    "slice_regions": [
+        "7:155085425-155085525", 
+        "6:65764643-65764743", 
+        "8:14053822-14053922", 
+        "18:20026701-20026801", 
+        "3:114200826-114200926", 
+        "22:27466713-27466813", 
+        "22:23291076-23291176", 
+        "1:228243096-228243196", 
+        "22:32720929-32721029", 
+        "1:153621624-153621724", 
+        "18:36334500-36334600", 
+        "9:57789326-57789426", 
+        "13:32540410-32540510", 
+        "16:63763657-63763757", 
+        "16:33588687-33588787", 
+        "11:91163898-91163998", 
+        "18:51059206-51059306", 
+        "7:27895727-27895827", 
+        "2:121730008-121730108", 
+        "7:143900095-143900195"
+    ], 
+    "specimen_type": "Normal - solid tissue", 
+    "submitter_donor_id": "ICGC_0055", 
+    "submitter_sample_id": "8016504", 
+    "submitter_specimen_id": "8016504", 
+    "xml_file": {
+        "file_md5sum": "e12f0eaad1a3c541804c69b65fb4e411", 
+        "file_name": "59247c62-d786-4150-b821-709a829a46eb.xml", 
+        "file_size": 28758, 
+        "object_id": "d9d02468-a6e4-5c57-9bb4-b0dfd940a8f0"
+    }
+}

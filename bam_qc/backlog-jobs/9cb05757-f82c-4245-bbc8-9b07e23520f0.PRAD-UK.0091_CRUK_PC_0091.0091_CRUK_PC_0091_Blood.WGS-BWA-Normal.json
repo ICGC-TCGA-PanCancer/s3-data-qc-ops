@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "f9c3eaad-a0d6-8bf8-e040-11ac0d481d8e", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "de51a76cfc35daae1c561e504f82e46d", 
+                "file_size": 27718
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "504e0f3dfe0110212d23d5da204b6eba", 
+                "file_size": 27719
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "5b5152efdd390ff009e3e2bc98d775fc", 
+        "file_name": "44730b18e932dc7b60f91151c433ee95.bam.bai", 
+        "file_size": 11926496, 
+        "object_id": "a885754a-ab20-541d-aa1e-b6bc06e70715"
+    }, 
+    "bam_file": {
+        "file_md5sum": "44730b18e932dc7b60f91151c433ee95", 
+        "file_name": "44730b18e932dc7b60f91151c433ee95.bam", 
+        "file_size": 88477320438, 
+        "object_id": "0dd17407-49fc-5b5f-89ba-46e49eed05da"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "9cb05757-f82c-4245-bbc8-9b07e23520f0", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PRAD-UK", 
+    "slice_regions": [
+        "4:22025546-22025646", 
+        "10:1105555-1105655", 
+        "18:75913394-75913494", 
+        "17:12890862-12890962", 
+        "13:41563791-41563891", 
+        "4:39259400-39259500", 
+        "16:48894963-48895063", 
+        "4:16340250-16340350", 
+        "3:163333551-163333651", 
+        "17:5147873-5147973", 
+        "11:40461720-40461820", 
+        "13:24820361-24820461", 
+        "9:76418620-76418720", 
+        "14:2617463-2617563", 
+        "20:53305895-53305995", 
+        "15:11893382-11893482", 
+        "5:100623816-100623916", 
+        "8:136547350-136547450", 
+        "1:31092898-31092998", 
+        "7:63644673-63644773"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "0091_CRUK_PC_0091", 
+    "submitter_sample_id": "0091_CRUK_PC_0091_Blood_DNA", 
+    "submitter_specimen_id": "0091_CRUK_PC_0091_Blood", 
+    "xml_file": {
+        "file_md5sum": "de51a76cfc35daae1c561e504f82e46d", 
+        "file_name": "9cb05757-f82c-4245-bbc8-9b07e23520f0.xml", 
+        "file_size": 27718, 
+        "object_id": "a13578fa-5c7e-505c-8dab-d58231a369ed"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "aliquot_id": "07f16397-71bb-4594-ad4d-caa7d2baeabd", 
+    "available_repos": [
+        {
+            "https://gtrepo-etri.annailabs.com/": {
+                "file_md5sum": "58b03d1b002db8fffb787eafbe96e8b3", 
+                "file_size": 41040
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "de900cdaf762e9b9e284b4a242ed892e", 
+        "file_name": "8af8bce39ec001fb05aea97959671ac3.bam.bai", 
+        "file_size": 17035704, 
+        "object_id": "370cafad-c803-5d53-bfa9-5b3415e7e2d3"
+    }, 
+    "bam_file": {
+        "file_md5sum": "8af8bce39ec001fb05aea97959671ac3", 
+        "file_name": "8af8bce39ec001fb05aea97959671ac3.bam", 
+        "file_size": 163888507752, 
+        "object_id": "20ac8d6c-9b38-5bc7-a7f3-6c597e764456"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "1c0eca7f-dc91-4992-b3ef-64e9c6d7bdc3", 
+    "gnos_repo": [
+        "https://gtrepo-etri.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-CA", 
+    "slice_regions": [
+        "5:44043157-44043257", 
+        "22:21234452-21234552", 
+        "22:25543764-25543864", 
+        "16:58019446-58019546", 
+        "15:47201451-47201551", 
+        "6:9099096-9099196", 
+        "14:68580979-68581079", 
+        "14:4162112-4162212", 
+        "1:210260259-210260359", 
+        "8:132450032-132450132", 
+        "4:91398717-91398817", 
+        "20:41996089-41996189", 
+        "12:114867912-114868012", 
+        "10:67134442-67134542", 
+        "18:60062251-60062351", 
+        "11:24168233-24168333", 
+        "16:64416257-64416357", 
+        "13:68569871-68569971", 
+        "16:62097821-62097921", 
+        "18:74953960-74954060"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "CPCG0199", 
+    "submitter_sample_id": "CPCG0199-F1", 
+    "submitter_specimen_id": "CPCG0199-F1", 
+    "xml_file": {
+        "file_md5sum": "58b03d1b002db8fffb787eafbe96e8b3", 
+        "file_name": "1c0eca7f-dc91-4992-b3ef-64e9c6d7bdc3.xml", 
+        "file_size": 41040, 
+        "object_id": "2a64e56c-951c-52c1-88dd-53ce6c11ca2e"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "6c8f3dc9-21bf-4859-9599-231ac040eb7d", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "593f1f8b94e06edf9c87eecd0c89b4b4", 
+                "file_size": 31973
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "d11e2c93851f531838d0a52da853569c", 
+                "file_size": 31991
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "1a5cc7f87ed267bdc18dd9e32855ad36", 
+        "file_name": "c1733bf26267239c32c8b402fde0d7ea.bam.bai", 
+        "file_size": 24704760, 
+        "object_id": "21f71e53-0d45-5d5e-908e-d22103b3b26e"
+    }, 
+    "bam_file": {
+        "file_md5sum": "c1733bf26267239c32c8b402fde0d7ea", 
+        "file_name": "c1733bf26267239c32c8b402fde0d7ea.bam", 
+        "file_size": 177037192342, 
+        "object_id": "8e3a5956-23da-585c-99d3-b8f905d3cdf8"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "4619f0d4-de94-4f1b-803c-d214edef0d9f", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PAEN-AU", 
+    "slice_regions": [
+        "4:180020005-180020105", 
+        "3:61815898-61815998", 
+        "11:72611201-72611301", 
+        "20:49589335-49589435", 
+        "15:73581029-73581129", 
+        "8:97433384-97433484", 
+        "18:59207256-59207356", 
+        "10:127239662-127239762", 
+        "22:301843-301943", 
+        "18:69108651-69108751", 
+        "14:9729569-9729669", 
+        "8:123633393-123633493", 
+        "16:56595085-56595185", 
+        "17:67636094-67636194", 
+        "17:30843991-30844091", 
+        "19:9339389-9339489", 
+        "6:144385661-144385761", 
+        "7:118072310-118072410", 
+        "7:9655097-9655197", 
+        "1:180240759-180240859"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "ITNET-0026", 
+    "submitter_sample_id": "PET026T", 
+    "submitter_specimen_id": "PET026T", 
+    "xml_file": {
+        "file_md5sum": "593f1f8b94e06edf9c87eecd0c89b4b4", 
+        "file_name": "4619f0d4-de94-4f1b-803c-d214edef0d9f.xml", 
+        "file_size": 31973, 
+        "object_id": "3b850cb6-616a-5ca8-885f-3e636e236696"
+    }
+}
