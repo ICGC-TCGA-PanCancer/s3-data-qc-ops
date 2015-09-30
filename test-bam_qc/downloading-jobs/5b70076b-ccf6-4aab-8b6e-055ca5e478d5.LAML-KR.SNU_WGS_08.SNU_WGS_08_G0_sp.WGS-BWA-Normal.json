@@ -9,6 +9,17 @@
                 "stop": 1443483081, 
                 "time": 3541
             }
+        }, 
+        "run_1443575584_a44ad958-199b-4f90-bab3-dda7ab245227": {
+            "downloading": {
+                "bai_file-download_time": 1, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 1269, 
+                "bam_file-md5sum_time": 812, 
+                "start": 1443615757, 
+                "stop": 1443617839, 
+                "time": 2082
+            }
         }
     }, 
     "aliquot_id": "4b87d6be-6131-44d7-aed8-6943b25329a9", 
