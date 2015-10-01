@@ -1,4 +1,17 @@
 {
+    "_runs_": {
+        "run_1443723457_0cc2a33e-92a2-41fa-b5a3-8cfc0b5ba087": {
+            "downloading": {
+                "bai_file-download_time": 2, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 4239, 
+                "bam_file-md5sum_time": 1138, 
+                "start": 1443733961, 
+                "stop": 1443739341, 
+                "time": 5380
+            }
+        }
+    }, 
     "aliquot_id": "fc639186-82ff-798e-e040-11ac0c484cec", 
     "available_repos": [
         {
