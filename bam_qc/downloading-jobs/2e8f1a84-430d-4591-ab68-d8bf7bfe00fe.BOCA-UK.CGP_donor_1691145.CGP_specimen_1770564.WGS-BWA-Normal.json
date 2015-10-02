@@ -1,4 +1,17 @@
 {
+    "_runs_": {
+        "run_1443727397_c96ca0c2-05e1-41d5-984d-3651a6eb17f8": {
+            "downloading": {
+                "bai_file-download_time": 2, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 5886, 
+                "bam_file-md5sum_time": 1985, 
+                "start": 1443815220, 
+                "stop": 1443823093, 
+                "time": 7873
+            }
+        }
+    }, 
     "aliquot_id": "fc99832e-a4ab-8259-e040-11ac0c48131c", 
     "available_repos": [
         "https://gtrepo-ebi.annailabs.com/", 
