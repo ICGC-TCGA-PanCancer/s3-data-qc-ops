@@ -9,3 +9,24 @@
   include: roles/storage/common/tasks/play_deploy_lvm_storage.yml
 
 
+- hosts: ec2_worker
+  sudo: True
+  tasks:
+    - name: prepare_work_dir
+      shell: "{{ item }}"
+      with_items:
+        - mkdir -p /datastore/s3-data-qc/bam-qc
+        - chown -R ubuntu:ubuntu /datastore/s3-data-qc
+        - perl -nae 's/test-bam_qc/bam_qc/; print' /home/ubuntu/s3-data-qc/config.yaml > /datastore/s3-data-qc/bam-qc/config.yaml
+        - ssh-keyscan github.com >> /home/ubuntu/.ssh/known_hosts
+
+
+- hosts: ec2_worker
+  become: True
+  become_user: ubuntu
+  tasks:
+    - name: start_worker
+      shell: "screen -S worker -dm sh -c 'cd /datastore/s3-data-qc/bam-qc/; /home/ubuntu/.local/bin/s3objectqc config.yaml; echo $?; exec bash -i'"
+      args:
+        chdir: /datastore/s3-data-qc/bam-qc/
+
