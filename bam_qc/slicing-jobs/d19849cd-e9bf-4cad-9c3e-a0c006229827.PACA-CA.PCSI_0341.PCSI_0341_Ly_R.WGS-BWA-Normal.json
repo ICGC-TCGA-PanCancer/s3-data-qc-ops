@@ -1,0 +1,75 @@
+{
+    "_runs_": {
+        "run_1443835287_4c2978d6-e51a-4db9-ae5a-dc749b3f1da5": {
+            "downloading": {
+                "bai_file-download_time": 2, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 3954, 
+                "bam_file-md5sum_time": 1041, 
+                "start": 1443978621, 
+                "stop": 1443983618, 
+                "time": 4997
+            }
+        }
+    }, 
+    "aliquot_id": "861a1a6a-7c6e-4357-b1f1-af077562675a", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "e517b973ec8c6971797123d404df1288", 
+                "file_size": 34880
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "8431f82bc9a4acf956cf3ade0744ba16", 
+        "file_name": "93399d748ba622ea633d113a603aafaa.bam.bai", 
+        "file_size": 14785720, 
+        "object_id": "9b31d700-a6cf-5e08-9d9e-9273b378570f"
+    }, 
+    "bam_file": {
+        "file_md5sum": "93399d748ba622ea633d113a603aafaa", 
+        "file_name": "93399d748ba622ea633d113a603aafaa.bam", 
+        "file_size": 133353198656, 
+        "object_id": "cafc9c2f-22b7-58a9-b564-83b803df315a"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "d19849cd-e9bf-4cad-9c3e-a0c006229827", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PACA-CA", 
+    "slice_regions": [
+        "5:20536545-20536645", 
+        "16:6264410-6264510", 
+        "11:104779308-104779408", 
+        "5:19174088-19174188", 
+        "19:62837819-62837919", 
+        "4:69514702-69514802", 
+        "4:71414132-71414232", 
+        "17:50114712-50114812", 
+        "14:101898156-101898256", 
+        "6:6801854-6801954", 
+        "22:44541027-44541127", 
+        "9:134272-134372", 
+        "13:110048485-110048585", 
+        "10:124879893-124879993", 
+        "19:4569154-4569254", 
+        "5:30792392-30792492", 
+        "20:39332071-39332171", 
+        "18:38090957-38091057", 
+        "14:68687093-68687193", 
+        "13:6309440-6309540"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "PCSI_0341", 
+    "submitter_sample_id": "PCSI_0341_Ly_R", 
+    "submitter_specimen_id": "PCSI_0341_Ly_R", 
+    "xml_file": {
+        "file_md5sum": "e517b973ec8c6971797123d404df1288", 
+        "file_name": "d19849cd-e9bf-4cad-9c3e-a0c006229827.xml", 
+        "file_size": 34880, 
+        "object_id": "6c6124ac-20b3-5f6e-a6dd-a4a3f07a0e8a"
+    }
+}
