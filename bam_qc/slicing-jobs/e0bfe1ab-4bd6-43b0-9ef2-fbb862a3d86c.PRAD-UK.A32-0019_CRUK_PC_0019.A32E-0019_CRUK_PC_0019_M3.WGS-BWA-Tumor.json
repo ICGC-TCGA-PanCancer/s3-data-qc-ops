@@ -1,0 +1,75 @@
+{
+    "_runs_": {
+        "run_1443835287_4c2978d6-e51a-4db9-ae5a-dc749b3f1da5": {
+            "downloading": {
+                "bai_file-download_time": 1, 
+                "bai_file-md5sum_time": 1, 
+                "bam_file-download_time": 5999, 
+                "bam_file-md5sum_time": 1491, 
+                "start": 1443995102, 
+                "stop": 1444002594, 
+                "time": 7492
+            }
+        }
+    }, 
+    "aliquot_id": "0bfd1068-3fc3-a95b-e050-11ac0c4860c3", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "5cc5c53ed6f6555e10374a464f99caf2", 
+                "file_size": 34312
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "8ee368b6b42c1d619883414a81e88d21", 
+        "file_name": "4ed9dc9bec68c5a92c089988a3377104.bam.bai", 
+        "file_size": 16172112, 
+        "object_id": "696dfb38-aed9-5c66-b061-cf5a5c099d5b"
+    }, 
+    "bam_file": {
+        "file_md5sum": "4ed9dc9bec68c5a92c089988a3377104", 
+        "file_name": "4ed9dc9bec68c5a92c089988a3377104.bam", 
+        "file_size": 189934776428, 
+        "object_id": "aba5a504-6840-5238-b628-9b9ee4e96a14"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "e0bfe1ab-4bd6-43b0-9ef2-fbb862a3d86c", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-UK", 
+    "slice_regions": [
+        "19:9343600-9343700", 
+        "4:130338413-130338513", 
+        "20:37113297-37113397", 
+        "12:26668267-26668367", 
+        "20:1561296-1561396", 
+        "2:57578979-57579079", 
+        "12:2021597-2021697", 
+        "7:71568165-71568265", 
+        "7:158425099-158425199", 
+        "13:94158921-94159021", 
+        "8:128755526-128755626", 
+        "11:4248864-4248964", 
+        "16:67949100-67949200", 
+        "3:37353748-37353848", 
+        "19:38725529-38725629", 
+        "1:106901104-106901204", 
+        "18:69287805-69287905", 
+        "19:9979245-9979345", 
+        "18:65142530-65142630", 
+        "11:111285105-111285205"
+    ], 
+    "specimen_type": "Metastatic tumour - lymph node", 
+    "submitter_donor_id": "A32-0019_CRUK_PC_0019", 
+    "submitter_sample_id": "A32E-0019_CRUK_PC_0019_M3_DNA", 
+    "submitter_specimen_id": "A32E-0019_CRUK_PC_0019_M3", 
+    "xml_file": {
+        "file_md5sum": "5cc5c53ed6f6555e10374a464f99caf2", 
+        "file_name": "e0bfe1ab-4bd6-43b0-9ef2-fbb862a3d86c.xml", 
+        "file_size": 34312, 
+        "object_id": "e687b53e-359e-5268-8153-9d546eeb5ac9"
+    }
+}
