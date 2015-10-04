@@ -1,0 +1,75 @@
+{
+    "_runs_": {
+        "run_1443723481_6c9cbbe8-03e9-41b5-926d-b63a992e5bd4": {
+            "downloading": {
+                "bai_file-download_time": 2, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 4633, 
+                "bam_file-md5sum_time": 984, 
+                "start": 1443986150, 
+                "stop": 1443991770, 
+                "time": 5620
+            }
+        }
+    }, 
+    "aliquot_id": "6c89131d-87ee-4997-a182-ebe2864abf34", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "8a11d07182c488a7b4dfc0e2451b3437", 
+                "file_size": 38168
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "012d57918156d4f9d5be3594c0676adc", 
+        "file_name": "cf0ba2359739a2e6242c0b41f2c58562.bam.bai", 
+        "file_size": 22352432, 
+        "object_id": "e0c92480-3385-51ba-96d9-68de75606a08"
+    }, 
+    "bam_file": {
+        "file_md5sum": "cf0ba2359739a2e6242c0b41f2c58562", 
+        "file_name": "cf0ba2359739a2e6242c0b41f2c58562.bam", 
+        "file_size": 147080381130, 
+        "object_id": "9ad4fd14-dd23-5f7e-87b9-221703144d96"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "d82e5b12-a158-4cb2-8e15-1a075a14d889", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PACA-CA", 
+    "slice_regions": [
+        "15:76277206-76277306", 
+        "5:160065093-160065193", 
+        "3:66955838-66955938", 
+        "8:105897390-105897490", 
+        "8:143019595-143019695", 
+        "14:31430329-31430429", 
+        "10:28282492-28282592", 
+        "13:106892645-106892745", 
+        "11:17486363-17486463", 
+        "13:37565260-37565360", 
+        "16:42163838-42163938", 
+        "19:49884984-49885084", 
+        "1:214896318-214896418", 
+        "1:187151-187251", 
+        "12:111155158-111155258", 
+        "1:201501202-201501302", 
+        "11:6076782-6076882", 
+        "18:18474631-18474731", 
+        "19:7587998-7588098", 
+        "11:106088900-106089000"
+    ], 
+    "specimen_type": "Normal - solid tissue", 
+    "submitter_donor_id": "PCSI_0356", 
+    "submitter_sample_id": "PCSI_0356_St_R", 
+    "submitter_specimen_id": "PCSI_0356_St_R", 
+    "xml_file": {
+        "file_md5sum": "8a11d07182c488a7b4dfc0e2451b3437", 
+        "file_name": "d82e5b12-a158-4cb2-8e15-1a075a14d889.xml", 
+        "file_size": 38168, 
+        "object_id": "bbc062dc-9258-571e-976d-84c54a47eae5"
+    }
+}
