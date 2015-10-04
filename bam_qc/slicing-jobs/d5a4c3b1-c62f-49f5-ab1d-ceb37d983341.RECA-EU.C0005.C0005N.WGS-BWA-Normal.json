@@ -1,0 +1,81 @@
+{
+    "_runs_": {
+        "run_1443625989_24637603-4439-426d-b689-b061323a0e4a": {
+            "downloading": {
+                "bai_file-download_time": 2, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 6335, 
+                "bam_file-md5sum_time": 4882, 
+                "start": 1443984142, 
+                "stop": 1443995362, 
+                "time": 11220
+            }
+        }
+    }, 
+    "aliquot_id": "80e845c9-3b39-4f6d-8f20-8b933f4a324f", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "7e135d77beda91c08a0c1a103fbe7eee", 
+                "file_size": 44081
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "2a4392e5339d309113ec3be0255077ac", 
+                "file_size": 44082
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "7de2db2925dec002bc78318fd3e349c0", 
+        "file_name": "40ce5391ee080c871e6d2f3db688b39e.bam.bai", 
+        "file_size": 14737632, 
+        "object_id": "f8a6da0b-5f3e-5d50-822d-015744c84487"
+    }, 
+    "bam_file": {
+        "file_md5sum": "40ce5391ee080c871e6d2f3db688b39e", 
+        "file_name": "40ce5391ee080c871e6d2f3db688b39e.bam", 
+        "file_size": 217137336596, 
+        "object_id": "216e2859-04c9-59c5-9c17-b2229ced8190"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "d5a4c3b1-c62f-49f5-ab1d-ceb37d983341", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "RECA-EU", 
+    "slice_regions": [
+        "6:17816458-17816558", 
+        "14:77938908-77939008", 
+        "2:224773950-224774050", 
+        "3:113423418-113423518", 
+        "3:184479404-184479504", 
+        "1:134992792-134992892", 
+        "14:42509013-42509113", 
+        "13:112330064-112330164", 
+        "21:30327693-30327793", 
+        "8:65137128-65137228", 
+        "3:133019288-133019388", 
+        "17:42106258-42106358", 
+        "4:117187157-117187257", 
+        "21:20921357-20921457", 
+        "20:57087110-57087210", 
+        "22:39240679-39240779", 
+        "15:42800072-42800172", 
+        "11:130318485-130318585", 
+        "4:172149475-172149575", 
+        "18:11147000-11147100"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "C0005", 
+    "submitter_sample_id": "C0005N", 
+    "submitter_specimen_id": "C0005N", 
+    "xml_file": {
+        "file_md5sum": "2a4392e5339d309113ec3be0255077ac", 
+        "file_name": "d5a4c3b1-c62f-49f5-ab1d-ceb37d983341.xml", 
+        "file_size": 44082, 
+        "object_id": "a429b397-f4b2-5b2f-b5f9-f86a84a69516"
+    }
+}
