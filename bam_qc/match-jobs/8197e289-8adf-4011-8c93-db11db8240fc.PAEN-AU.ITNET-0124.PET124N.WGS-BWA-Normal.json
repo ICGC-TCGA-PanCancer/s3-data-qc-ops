@@ -2,121 +2,121 @@
     "_runs_": {
         "run_1443836433_ca72ef55-339a-485d-a6c4-de41b31d426d": {
             "downloading": {
-                "bai_file-download_time": 3, 
+                "bai_file-download_time": 0, 
                 "bai_file-md5sum_time": 0, 
-                "bam_file-download_time": 4297, 
-                "bam_file-md5sum_time": 1065, 
-                "start": 1443888316, 
-                "stop": 1443893681, 
-                "time": 5365
+                "bam_file-download_time": 0, 
+                "bam_file-md5sum_time": 1057, 
+                "start": 1443927605, 
+                "stop": 1443928663, 
+                "time": 1058
             }, 
             "slicing": {
                 "slice_stats": {
                     "10:129863901-129864001": {
                         "dcctool_md5sum": "5537edf8d43c807c0c384c04e7c639c1", 
-                        "dcctool_time": 50, 
+                        "dcctool_time": 36, 
                         "samtools_md5sum": "5537edf8d43c807c0c384c04e7c639c1", 
                         "samtools_time": 0
                     }, 
                     "11:1804909-1805009": {
                         "dcctool_md5sum": "da8b293716a4cd38701b7783a021bd3a", 
-                        "dcctool_time": 52, 
+                        "dcctool_time": 35, 
                         "samtools_md5sum": "da8b293716a4cd38701b7783a021bd3a", 
                         "samtools_time": 0
                     }, 
                     "12:126990109-126990209": {
                         "dcctool_md5sum": "db1d010d22da6a53effc0ed85e1fce9c", 
-                        "dcctool_time": 105, 
+                        "dcctool_time": 38, 
                         "samtools_md5sum": "db1d010d22da6a53effc0ed85e1fce9c", 
                         "samtools_time": 0
                     }, 
                     "13:16476525-16476625": {
                         "dcctool_md5sum": "d41d8cd98f00b204e9800998ecf8427e", 
-                        "dcctool_time": 57, 
+                        "dcctool_time": 37, 
                         "samtools_md5sum": "d41d8cd98f00b204e9800998ecf8427e", 
                         "samtools_time": 0
                     }, 
                     "13:60706683-60706783": {
-                        "dcctool_md5sum": "unable_to_slice", 
-                        "dcctool_time": 130, 
+                        "dcctool_md5sum": "a3cdf7d2cd58e0c9abf217683cc78369", 
+                        "dcctool_time": 41, 
                         "samtools_md5sum": "a3cdf7d2cd58e0c9abf217683cc78369", 
                         "samtools_time": 0
                     }, 
                     "14:4790403-4790503": {
                         "dcctool_md5sum": "d41d8cd98f00b204e9800998ecf8427e", 
-                        "dcctool_time": 110, 
+                        "dcctool_time": 41, 
                         "samtools_md5sum": "d41d8cd98f00b204e9800998ecf8427e", 
                         "samtools_time": 0
                     }, 
                     "16:6441160-6441260": {
                         "dcctool_md5sum": "763efa35cf07918b927833d4b1014878", 
-                        "dcctool_time": 55, 
+                        "dcctool_time": 41, 
                         "samtools_md5sum": "763efa35cf07918b927833d4b1014878", 
                         "samtools_time": 0
                     }, 
                     "17:73936552-73936652": {
                         "dcctool_md5sum": "6894bab99eb2c6a91b3f163cc30250b4", 
-                        "dcctool_time": 54, 
+                        "dcctool_time": 39, 
                         "samtools_md5sum": "6894bab99eb2c6a91b3f163cc30250b4", 
                         "samtools_time": 0
                     }, 
                     "1:1721672-1721772": {
                         "dcctool_md5sum": "f7c8cd87ceaef40a8ad6f5e3e39e02f8", 
-                        "dcctool_time": 46, 
+                        "dcctool_time": 17, 
                         "samtools_md5sum": "f7c8cd87ceaef40a8ad6f5e3e39e02f8", 
                         "samtools_time": 0
                     }, 
                     "1:202964224-202964324": {
-                        "dcctool_md5sum": "unable_to_slice", 
-                        "dcctool_time": 130, 
+                        "dcctool_md5sum": "08410a239bc5cca2ec2fe6f078944c2c", 
+                        "dcctool_time": 18, 
                         "samtools_md5sum": "08410a239bc5cca2ec2fe6f078944c2c", 
                         "samtools_time": 0
                     }, 
                     "20:11223269-11223369": {
                         "dcctool_md5sum": "012539c762dff0050477a7f33eb55b21", 
-                        "dcctool_time": 91, 
+                        "dcctool_time": 43, 
                         "samtools_md5sum": "012539c762dff0050477a7f33eb55b21", 
                         "samtools_time": 1
                     }, 
                     "20:18758544-18758644": {
                         "dcctool_md5sum": "0295dbb3152b11b18ea81c3dc261c63a", 
-                        "dcctool_time": 51, 
+                        "dcctool_time": 44, 
                         "samtools_md5sum": "0295dbb3152b11b18ea81c3dc261c63a", 
                         "samtools_time": 0
                     }, 
                     "20:38721940-38722040": {
-                        "dcctool_md5sum": "unable_to_slice", 
-                        "dcctool_time": 131, 
+                        "dcctool_md5sum": "0058f73dd923aae8ed622a75ef59cd13", 
+                        "dcctool_time": 43, 
                         "samtools_md5sum": "0058f73dd923aae8ed622a75ef59cd13", 
                         "samtools_time": 1
                     }, 
                     "21:15817283-15817383": {
                         "dcctool_md5sum": "304c2c71a6a512227dbf35bdcfdeaca1", 
-                        "dcctool_time": 60, 
+                        "dcctool_time": 46, 
                         "samtools_md5sum": "304c2c71a6a512227dbf35bdcfdeaca1", 
                         "samtools_time": 1
                     }, 
                     "22:47921412-47921512": {
-                        "dcctool_md5sum": "unable_to_slice", 
-                        "dcctool_time": 58, 
+                        "dcctool_md5sum": "7ba5f828e56735532f1012c84ee1c5b8", 
+                        "dcctool_time": 45, 
                         "samtools_md5sum": "7ba5f828e56735532f1012c84ee1c5b8", 
                         "samtools_time": 0
                     }, 
                     "6:106397846-106397946": {
-                        "dcctool_md5sum": "unable_to_slice", 
-                        "dcctool_time": 67, 
+                        "dcctool_md5sum": "a4cbe2c31a5ed96838da4fbc2e4b5d71", 
+                        "dcctool_time": 30, 
                         "samtools_md5sum": "a4cbe2c31a5ed96838da4fbc2e4b5d71", 
                         "samtools_time": 1
                     }, 
                     "7:127447134-127447234": {
-                        "dcctool_md5sum": "unable_to_slice", 
-                        "dcctool_time": 41, 
+                        "dcctool_md5sum": "943d44435665a66cd6f2be84fb0a6223", 
+                        "dcctool_time": 31, 
                         "samtools_md5sum": "943d44435665a66cd6f2be84fb0a6223", 
                         "samtools_time": 0
                     }, 
                     "7:28543089-28543189": {
-                        "dcctool_md5sum": "unable_to_slice", 
-                        "dcctool_time": 74, 
+                        "dcctool_md5sum": "a808ac9f5b012ab77c7db421e0d704a8", 
+                        "dcctool_time": 30, 
                         "samtools_md5sum": "a808ac9f5b012ab77c7db421e0d704a8", 
                         "samtools_time": 0
                     }, 
@@ -133,9 +133,9 @@
                         "samtools_time": 0
                     }
                 }, 
-                "start": 1443893693, 
-                "stop": 1443895122, 
-                "time": 1429
+                "start": 1443928669, 
+                "stop": 1443929391, 
+                "time": 722
             }
         }
     }, 
