@@ -1,0 +1,75 @@
+{
+    "_runs_": {
+        "run_1443836052_ef239d61-63d6-4574-9a2c-08d1f514146a": {
+            "downloading": {
+                "bai_file-download_time": 2, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 3089, 
+                "bam_file-md5sum_time": 864, 
+                "start": 1443995934, 
+                "stop": 1443999889, 
+                "time": 3955
+            }
+        }
+    }, 
+    "aliquot_id": "f9c07ba7-1527-f624-e040-11ac0c484cd5", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "ae9c50359a2daa79d4938e5182673727", 
+                "file_size": 27756
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "d0e9d06bf54ea898d38604299f0bc329", 
+        "file_name": "917229c21ec442cc07cdf591889845a0.bam.bai", 
+        "file_size": 13171176, 
+        "object_id": "b8a8b13c-dd90-53f0-ab21-a242d6557a64"
+    }, 
+    "bam_file": {
+        "file_md5sum": "917229c21ec442cc07cdf591889845a0", 
+        "file_name": "917229c21ec442cc07cdf591889845a0.bam", 
+        "file_size": 103310687272, 
+        "object_id": "c8b4f608-ae99-536f-a795-fc2a742892b5"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "e193c24a-6d8c-45e1-b328-7e6d8f525925", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-UK", 
+    "slice_regions": [
+        "11:109238179-109238279", 
+        "5:103141889-103141989", 
+        "10:71459947-71460047", 
+        "4:186854328-186854428", 
+        "22:45470742-45470842", 
+        "9:132762165-132762265", 
+        "4:150858300-150858400", 
+        "19:50459214-50459314", 
+        "22:28930784-28930884", 
+        "21:11692861-11692961", 
+        "20:45548157-45548257", 
+        "16:25559923-25560023", 
+        "1:107759050-107759150", 
+        "8:23305320-23305420", 
+        "22:44723697-44723797", 
+        "4:35123533-35123633", 
+        "12:8148079-8148179", 
+        "3:112657879-112657979", 
+        "14:75744210-75744310", 
+        "3:54079173-54079273"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "0056_CRUK_PC_0056", 
+    "submitter_sample_id": "0056_CRUK_PC_0056_Blood_DNA", 
+    "submitter_specimen_id": "0056_CRUK_PC_0056_Blood", 
+    "xml_file": {
+        "file_md5sum": "ae9c50359a2daa79d4938e5182673727", 
+        "file_name": "e193c24a-6d8c-45e1-b328-7e6d8f525925.xml", 
+        "file_size": 27756, 
+        "object_id": "219ca774-127c-5e1f-b80f-9785d676c7d4"
+    }
+}
