@@ -1,0 +1,87 @@
+{
+    "_runs_": {
+        "run_1443726839_6bbad8ef-173f-4b7d-bc70-6878bf33b24f": {
+            "downloading": {
+                "bai_file-download_time": 2, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 4371, 
+                "bam_file-md5sum_time": 995, 
+                "start": 1443990813, 
+                "stop": 1443996181, 
+                "time": 5368
+            }
+        }
+    }, 
+    "aliquot_id": "fa922ad9-b25e-4429-ae25-25f7e908a7f8", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "e8dc231863050ad47c1d13e6d31277ba", 
+                "file_size": 29602
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "7e5419163ebdf71c8cda27c37bd5668c", 
+                "file_size": 29596
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "b6a5fa4928d84aed1ee743364e5f47f7", 
+                "file_size": 29487
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "02fe1fc50743fa033cc481af4466d1a7", 
+        "file_name": "a0558c590b729c1c04f9aa6e75b09eae.bam.bai", 
+        "file_size": 15253584, 
+        "object_id": "cee63214-c63c-51e5-b893-60e0b4d1f7b1"
+    }, 
+    "bam_file": {
+        "file_md5sum": "a0558c590b729c1c04f9aa6e75b09eae", 
+        "file_name": "a0558c590b729c1c04f9aa6e75b09eae.bam", 
+        "file_size": 142055652158, 
+        "object_id": "b5052270-1903-56eb-8f10-1472e03442f3"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "dd034345-36f9-4660-b647-a8a25f2d485b", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "BTCA-SG", 
+    "slice_regions": [
+        "11:103269200-103269300", 
+        "7:149209934-149210034", 
+        "10:82812517-82812617", 
+        "18:25388197-25388297", 
+        "12:88589510-88589610", 
+        "16:87589492-87589592", 
+        "2:20429745-20429845", 
+        "4:60276665-60276765", 
+        "21:15404920-15405020", 
+        "8:11734838-11734938", 
+        "18:21947759-21947859", 
+        "19:19303400-19303500", 
+        "11:73482203-73482303", 
+        "21:39772342-39772442", 
+        "7:85094439-85094539", 
+        "6:143936660-143936760", 
+        "18:17552127-17552227", 
+        "7:123672725-123672825", 
+        "12:122332816-122332916", 
+        "18:7446651-7446751"
+    ], 
+    "specimen_type": "Normal - solid tissue", 
+    "submitter_donor_id": "BTCA_donor_Z2403", 
+    "submitter_sample_id": "NZ2403", 
+    "submitter_specimen_id": "BTCA_specimen_NZ2403", 
+    "xml_file": {
+        "file_md5sum": "b6a5fa4928d84aed1ee743364e5f47f7", 
+        "file_name": "dd034345-36f9-4660-b647-a8a25f2d485b.xml", 
+        "file_size": 29487, 
+        "object_id": "03a45ebd-e6f0-548e-964f-f70f1e075aa2"
+    }
+}
