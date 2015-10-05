@@ -1,0 +1,87 @@
+{
+    "_runs_": {
+        "run_1443727538_9e74f787-842e-4929-bfc1-3fb02450c822": {
+            "downloading": {
+                "bai_file-download_time": 2, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 4126, 
+                "bam_file-md5sum_time": 1394, 
+                "start": 1444071891, 
+                "stop": 1444077413, 
+                "time": 5522
+            }
+        }
+    }, 
+    "aliquot_id": "a1492b3d-1079-44c3-a4e0-3411885f033c", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "173991f64715df03fdbb84ae364d9298", 
+                "file_size": 29498
+            }
+        }, 
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "fa39b3a194bf965c0437a45e106f3055", 
+                "file_size": 29495
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "c37030521315b4891c8bba450e2225b7", 
+                "file_size": 29492
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "2f85a9df2add508097a857d31aa0e807", 
+        "file_name": "45ee17dec214135d0dcfd2aafc75534e.bam.bai", 
+        "file_size": 14885888, 
+        "object_id": "f9fb7784-2857-5c09-9bf6-7d6c5e062af7"
+    }, 
+    "bam_file": {
+        "file_md5sum": "45ee17dec214135d0dcfd2aafc75534e", 
+        "file_name": "45ee17dec214135d0dcfd2aafc75534e.bam", 
+        "file_size": 126416252964, 
+        "object_id": "60e92561-ae48-5efe-a6d8-01b0ef5d9fcf"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "77fc5205-606d-45c1-8ea2-9bf36b1596fd", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "BTCA-SG", 
+    "slice_regions": [
+        "3:188001073-188001173", 
+        "17:49978024-49978124", 
+        "17:56751382-56751482", 
+        "10:9000929-9001029", 
+        "11:67390178-67390278", 
+        "17:71474818-71474918", 
+        "17:58408892-58408992", 
+        "19:9349266-9349366", 
+        "9:97841545-97841645", 
+        "7:53988487-53988587", 
+        "2:220961655-220961755", 
+        "11:86157155-86157255", 
+        "8:31506735-31506835", 
+        "14:7258486-7258586", 
+        "16:57806347-57806447", 
+        "6:109808235-109808335", 
+        "12:32589849-32589949", 
+        "11:58158049-58158149", 
+        "13:7457599-7457699", 
+        "11:43953101-43953201"
+    ], 
+    "specimen_type": "Normal - solid tissue", 
+    "submitter_donor_id": "BTCA_donor_Y140", 
+    "submitter_sample_id": "NY140", 
+    "submitter_specimen_id": "BTCA_specimen_NY140", 
+    "xml_file": {
+        "file_md5sum": "fa39b3a194bf965c0437a45e106f3055", 
+        "file_name": "77fc5205-606d-45c1-8ea2-9bf36b1596fd.xml", 
+        "file_size": 29495, 
+        "object_id": "f63e0b63-194c-5c62-b662-72335683a3e6"
+    }
+}
