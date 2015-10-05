@@ -1,0 +1,81 @@
+{
+    "_runs_": {
+        "run_1443727171_66ebc19d-015d-43e6-9303-b03221bdd22d": {
+            "downloading": {
+                "bai_file-download_time": 2, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 7418, 
+                "bam_file-md5sum_time": 2000, 
+                "start": 1444000962, 
+                "stop": 1444010382, 
+                "time": 9420
+            }
+        }
+    }, 
+    "aliquot_id": "2128b101-03ce-4867-a080-66aa7d373c75", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "13cce284829ea3db7a67b29b9b62f8dd", 
+                "file_size": 41535
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "1c5d293322de5b833cb2b5732961a20a", 
+                "file_size": 41536
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "b78cb57796f234747436b0ca16db1fd2", 
+        "file_name": "7e2148e6662fcf8afa5692b150bdba78.bam.bai", 
+        "file_size": 16264904, 
+        "object_id": "227b6b39-6bd4-59b8-a7e9-fa7639c23cbb"
+    }, 
+    "bam_file": {
+        "file_md5sum": "7e2148e6662fcf8afa5692b150bdba78", 
+        "file_name": "7e2148e6662fcf8afa5692b150bdba78.bam", 
+        "file_size": 228290407481, 
+        "object_id": "5c434b8a-f1b2-5594-b719-8959178a283d"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "e5775de9-70fd-4ac7-96cb-4a645ad2bad7", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PACA-CA", 
+    "slice_regions": [
+        "21:4402082-4402182", 
+        "1:91284932-91285032", 
+        "18:54976186-54976286", 
+        "18:26980034-26980134", 
+        "9:116483229-116483329", 
+        "7:48759067-48759167", 
+        "3:186690326-186690426", 
+        "12:46271155-46271255", 
+        "16:3552349-3552449", 
+        "15:44369841-44369941", 
+        "14:82403080-82403180", 
+        "17:28037295-28037395", 
+        "10:90764352-90764452", 
+        "20:34345316-34345416", 
+        "22:35406069-35406169", 
+        "9:85239078-85239178", 
+        "3:165213408-165213508", 
+        "12:124070142-124070242", 
+        "12:25318211-25318311", 
+        "21:23458160-23458260"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "PCSI_0283", 
+    "submitter_sample_id": "PCSI_0283_Ly_R", 
+    "submitter_specimen_id": "PCSI_0283_Ly_R", 
+    "xml_file": {
+        "file_md5sum": "13cce284829ea3db7a67b29b9b62f8dd", 
+        "file_name": "e5775de9-70fd-4ac7-96cb-4a645ad2bad7.xml", 
+        "file_size": 41535, 
+        "object_id": "a5f15ef0-5765-580a-87d4-ad2c3b8da74a"
+    }
+}
