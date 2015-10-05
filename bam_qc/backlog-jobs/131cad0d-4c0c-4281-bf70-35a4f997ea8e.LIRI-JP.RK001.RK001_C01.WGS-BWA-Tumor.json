@@ -1,0 +1,68 @@
+{
+    "aliquot_id": "10cb8ac6-c622-11e3-bf01-24c6515278c0", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "745cb747473823d6c3e2b23e4162fa2a", 
+                "file_size": 40484
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "d41d8a6ffe8cdab4a42a64db5f207ae7", 
+                "file_size": 40571
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "907beeb846f268eebd71f28ef056475b", 
+        "file_name": "5d2ebb6616cad80affcbf330347c1be2.bam.bai", 
+        "file_size": 9019576, 
+        "object_id": "a4d269ad-e0e4-5e6e-b556-9dee3d37af4e"
+    }, 
+    "bam_file": {
+        "file_md5sum": "7d96a076ca3b4060300d7fd490792488", 
+        "file_name": "5d2ebb6616cad80affcbf330347c1be2.bam", 
+        "file_size": 128301264157, 
+        "object_id": "2d4b22ab-0f61-50f6-89f0-1a3cce53081c"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "131cad0d-4c0c-4281-bf70-35a4f997ea8e", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "LIRI-JP", 
+    "slice_regions": [
+        "3:142938802-142938902", 
+        "7:48676133-48676233", 
+        "1:213263316-213263416", 
+        "14:23126212-23126312", 
+        "9:117106711-117106811", 
+        "2:10216259-10216359", 
+        "17:19204812-19204912", 
+        "16:74995722-74995822", 
+        "19:37237559-37237659", 
+        "20:5244648-5244748", 
+        "9:134404475-134404575", 
+        "13:79075431-79075531", 
+        "5:35250948-35251048", 
+        "19:24829611-24829711", 
+        "21:22917633-22917733", 
+        "22:22177777-22177877", 
+        "5:102160278-102160378", 
+        "12:23393733-23393833", 
+        "20:9965611-9965711", 
+        "1:199256800-199256900"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "RK001", 
+    "submitter_sample_id": "RK001_C01", 
+    "submitter_specimen_id": "RK001_C01", 
+    "xml_file": {
+        "file_md5sum": "d41d8a6ffe8cdab4a42a64db5f207ae7", 
+        "file_name": "131cad0d-4c0c-4281-bf70-35a4f997ea8e.xml", 
+        "file_size": 40571, 
+        "object_id": "f06593a3-24db-5ffd-b8b7-fa80b0ca8090"
+    }
+}
