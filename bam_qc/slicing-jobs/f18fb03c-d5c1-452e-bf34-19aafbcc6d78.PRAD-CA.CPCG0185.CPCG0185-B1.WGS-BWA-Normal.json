@@ -1,0 +1,81 @@
+{
+    "_runs_": {
+        "run_1443835287_4c2978d6-e51a-4db9-ae5a-dc749b3f1da5": {
+            "downloading": {
+                "bai_file-download_time": 1, 
+                "bai_file-md5sum_time": 1, 
+                "bam_file-download_time": 4354, 
+                "bam_file-md5sum_time": 1139, 
+                "start": 1444011492, 
+                "stop": 1444016987, 
+                "time": 5495
+            }
+        }
+    }, 
+    "aliquot_id": "7023dbc7-2431-4098-be35-5ab439bb3cc5", 
+    "available_repos": [
+        {
+            "https://gtrepo-etri.annailabs.com/": {
+                "file_md5sum": "d20f9101c092962ddfb50e1f1845172b", 
+                "file_size": 34517
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "af22ddca9e8e7e023c92dc4da68af2d1", 
+                "file_size": 34400
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "468856c3ad027aa824d22ca1cc751dee", 
+        "file_name": "52b975e12fe652b0b9c36f1202b26e11.bam.bai", 
+        "file_size": 17380392, 
+        "object_id": "bb0e9d18-d1cb-5b39-a1f2-bd28ef527834"
+    }, 
+    "bam_file": {
+        "file_md5sum": "52b975e12fe652b0b9c36f1202b26e11", 
+        "file_name": "52b975e12fe652b0b9c36f1202b26e11.bam", 
+        "file_size": 142982124225, 
+        "object_id": "826a1a2d-d04d-5ee3-b119-deb4fa23532c"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "f18fb03c-d5c1-452e-bf34-19aafbcc6d78", 
+    "gnos_repo": [
+        "https://gtrepo-etri.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-CA", 
+    "slice_regions": [
+        "11:104582005-104582105", 
+        "1:53348406-53348506", 
+        "21:26083347-26083447", 
+        "22:27947568-27947668", 
+        "8:5039669-5039769", 
+        "21:21253808-21253908", 
+        "18:34250769-34250869", 
+        "21:41861254-41861354", 
+        "11:42704837-42704937", 
+        "21:39320146-39320246", 
+        "19:52732965-52733065", 
+        "12:18084736-18084836", 
+        "5:47467649-47467749", 
+        "17:60448481-60448581", 
+        "10:93137560-93137660", 
+        "8:143350668-143350768", 
+        "18:53976614-53976714", 
+        "11:7290276-7290376", 
+        "17:5060260-5060360", 
+        "19:42603543-42603643"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "CPCG0185", 
+    "submitter_sample_id": "CPCG0185-B1", 
+    "submitter_specimen_id": "CPCG0185-B1", 
+    "xml_file": {
+        "file_md5sum": "d20f9101c092962ddfb50e1f1845172b", 
+        "file_name": "f18fb03c-d5c1-452e-bf34-19aafbcc6d78.xml", 
+        "file_size": 34517, 
+        "object_id": "3af7c9c1-3f4b-51c1-bcc2-4eecc8d1da6a"
+    }
+}
