@@ -1,0 +1,75 @@
+{
+    "_runs_": {
+        "run_1443718246_235234c0-f1c5-4904-b3ed-f50ec4a0afe3": {
+            "downloading": {
+                "bai_file-download_time": 2, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 6172, 
+                "bam_file-md5sum_time": 1868, 
+                "start": 1443999651, 
+                "stop": 1444007694, 
+                "time": 8043
+            }
+        }
+    }, 
+    "aliquot_id": "2790b964-63e3-49aa-bf8c-9a00d3448c25", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "9704154379f8cf14153b78ccc48d9985", 
+                "file_size": 41283
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "cf5c9a6e5315e543c25fa5bdfbe8eee5", 
+        "file_name": "155efc2d4860486605938aaaf5a03107.bam.bai", 
+        "file_size": 13021376, 
+        "object_id": "1f3bc17c-bd8e-574e-9588-90e392492a95"
+    }, 
+    "bam_file": {
+        "file_md5sum": "155efc2d4860486605938aaaf5a03107", 
+        "file_name": "155efc2d4860486605938aaaf5a03107.bam", 
+        "file_size": 190241970084, 
+        "object_id": "a1bce944-76c5-5784-97e8-2af744512a06"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "e4a5f3e7-a238-47e7-806b-78e550f122d3", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "MELA-AU", 
+    "slice_regions": [
+        "22:27688520-27688620", 
+        "16:52042946-52043046", 
+        "16:43778725-43778825", 
+        "11:109722263-109722363", 
+        "18:33364014-33364114", 
+        "2:116847218-116847318", 
+        "10:64263791-64263891", 
+        "15:59636975-59637075", 
+        "5:153175068-153175168", 
+        "2:83378088-83378188", 
+        "14:90472454-90472554", 
+        "6:114278359-114278459", 
+        "9:78020999-78021099", 
+        "14:15567519-15567619", 
+        "9:66411939-66412039", 
+        "2:139695945-139696045", 
+        "8:3022567-3022667", 
+        "14:75511407-75511507", 
+        "15:65748778-65748878", 
+        "3:53721656-53721756"
+    ], 
+    "specimen_type": "Recurrent tumour - solid tissue", 
+    "submitter_donor_id": "MELA-0022", 
+    "submitter_sample_id": "EXTERN-MELA-20140505-038", 
+    "submitter_specimen_id": "30680_SCC09-0113_Tissue", 
+    "xml_file": {
+        "file_md5sum": "9704154379f8cf14153b78ccc48d9985", 
+        "file_name": "e4a5f3e7-a238-47e7-806b-78e550f122d3.xml", 
+        "file_size": 41283, 
+        "object_id": "b9f5a9e0-18be-55b7-9609-239c91dfbd71"
+    }
+}
