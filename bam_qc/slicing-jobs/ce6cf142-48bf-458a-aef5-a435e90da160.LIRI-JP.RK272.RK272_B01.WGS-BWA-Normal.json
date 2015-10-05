@@ -1,0 +1,87 @@
+{
+    "_runs_": {
+        "run_1443833409_03ab2cd4-08b3-4009-a6c0-edfa069bd439": {
+            "downloading": {
+                "bai_file-download_time": 2, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 3252, 
+                "bam_file-md5sum_time": 802, 
+                "start": 1444050243, 
+                "stop": 1444054300, 
+                "time": 4057
+            }
+        }
+    }, 
+    "aliquot_id": "5c430ce4-c623-11e3-bf01-24c6515278c0", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "8f1481faf055f8915456bed9c6abd073", 
+                "file_size": 28975
+            }
+        }, 
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "cdb52c21aeb414dc72ce473969a646de", 
+                "file_size": 28642
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "c213434174b7d670c1844d13793c4baa", 
+                "file_size": 29081
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "77c42eeab083c7b0ef92e803cc18fa9c", 
+        "file_name": "6a2e14909080236225454ef58ca0cb1a.bam.bai", 
+        "file_size": 8970256, 
+        "object_id": "34ba25a4-7eb9-55bc-ba57-418321dfe53f"
+    }, 
+    "bam_file": {
+        "file_md5sum": "5d191cd9b68afd644b77a83d6d46422b", 
+        "file_name": "6a2e14909080236225454ef58ca0cb1a.bam", 
+        "file_size": 108323062748, 
+        "object_id": "bd896e75-5549-5d9b-9e66-8a90f48cbcbe"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "ce6cf142-48bf-458a-aef5-a435e90da160", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "LIRI-JP", 
+    "slice_regions": [
+        "19:7801617-7801717", 
+        "15:78172784-78172884", 
+        "12:10572657-10572757", 
+        "18:40029376-40029476", 
+        "6:56423035-56423135", 
+        "1:30282679-30282779", 
+        "4:6566128-6566228", 
+        "12:10357344-10357444", 
+        "4:122766752-122766852", 
+        "19:36637256-36637356", 
+        "19:59710769-59710869", 
+        "22:3667904-3668004", 
+        "18:75049745-75049845", 
+        "15:47195585-47195685", 
+        "21:32380880-32380980", 
+        "10:99912226-99912326", 
+        "11:55306174-55306274", 
+        "7:80879188-80879288", 
+        "17:2394829-2394929", 
+        "4:142931565-142931665"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "RK272", 
+    "submitter_sample_id": "RK272_B01", 
+    "submitter_specimen_id": "RK272_B01", 
+    "xml_file": {
+        "file_md5sum": "c213434174b7d670c1844d13793c4baa", 
+        "file_name": "ce6cf142-48bf-458a-aef5-a435e90da160.xml", 
+        "file_size": 29081, 
+        "object_id": "d2f69f92-2751-5ed0-9282-28f923d5970e"
+    }
+}
