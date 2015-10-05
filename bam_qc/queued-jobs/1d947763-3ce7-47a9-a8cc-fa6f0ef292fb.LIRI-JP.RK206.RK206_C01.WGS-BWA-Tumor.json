@@ -1,0 +1,74 @@
+{
+    "aliquot_id": "2316ee90-c623-11e3-bf01-24c6515278c0", 
+    "available_repos": [
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "1d02eb07a9de5fe038e155565bf7afcc", 
+                "file_size": 31021
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "75d0abc9b38ff045d4da8dabe385704b", 
+                "file_size": 31019
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "8658818b46e46a636fbd7053f78cc34f", 
+                "file_size": 31046
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "6f13c8e1020841910fa843bec9e961e6", 
+        "file_name": "75b6eb87614f1dd3a6e5cd651f5d109c.bam.bai", 
+        "file_size": 9045248, 
+        "object_id": "cc36021b-799e-5f9e-a17b-c1a2ed16c678"
+    }, 
+    "bam_file": {
+        "file_md5sum": "b3b98657a3a23226d386abc7fcf33dde", 
+        "file_name": "75b6eb87614f1dd3a6e5cd651f5d109c.bam", 
+        "file_size": 119248951936, 
+        "object_id": "e3a95a6f-86d5-555a-b54d-ecc7df497481"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "1d947763-3ce7-47a9-a8cc-fa6f0ef292fb", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "LIRI-JP", 
+    "slice_regions": [
+        "2:111715470-111715570", 
+        "21:35572840-35572940", 
+        "17:14489324-14489424", 
+        "9:112119826-112119926", 
+        "17:73867324-73867424", 
+        "22:14270423-14270523", 
+        "12:76576997-76577097", 
+        "18:26676673-26676773", 
+        "8:7573290-7573390", 
+        "13:40083898-40083998", 
+        "1:32856243-32856343", 
+        "21:33336280-33336380", 
+        "5:131388538-131388638", 
+        "13:30376630-30376730", 
+        "4:172277576-172277676", 
+        "14:15720578-15720678", 
+        "5:67239373-67239473", 
+        "17:28820862-28820962", 
+        "8:12109324-12109424", 
+        "12:99665486-99665586"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "RK206", 
+    "submitter_sample_id": "RK206_C01", 
+    "submitter_specimen_id": "RK206_C01", 
+    "xml_file": {
+        "file_md5sum": "8658818b46e46a636fbd7053f78cc34f", 
+        "file_name": "1d947763-3ce7-47a9-a8cc-fa6f0ef292fb.xml", 
+        "file_size": 31046, 
+        "object_id": "cdbfe6e9-8aa5-5eea-90a2-e74422b20da7"
+    }
+}
