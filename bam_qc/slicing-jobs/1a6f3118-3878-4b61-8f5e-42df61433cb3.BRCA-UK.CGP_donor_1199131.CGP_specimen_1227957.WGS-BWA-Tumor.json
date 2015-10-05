@@ -1,5 +1,16 @@
 {
     "_runs_": {
+        "run_1443629318_a050b976-a0b2-4859-b6d7-49c76db4fb91": {
+            "downloading": {
+                "bai_file-download_time": 3, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 3865, 
+                "bam_file-md5sum_time": 1720, 
+                "start": 1444061040, 
+                "stop": 1444066630, 
+                "time": 5590
+            }
+        }, 
         "run_1443760259_465705e0-d922-4a3b-a4c0-4a1ce20a6407": {
             "downloading": {
                 "bai_file-download_time": 2, 
