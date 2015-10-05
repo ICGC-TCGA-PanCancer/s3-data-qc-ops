@@ -1,0 +1,75 @@
+{
+    "_runs_": {
+        "run_1443835392_7cecc759-59a3-4f35-8b52-4c94def11244": {
+            "downloading": {
+                "bai_file-download_time": 0, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 0, 
+                "bam_file-md5sum_time": 1187, 
+                "start": 1444003724, 
+                "stop": 1444004912, 
+                "time": 1188
+            }
+        }
+    }, 
+    "aliquot_id": "0bfe2ac9-0afa-c248-e050-11ac0d487e1c", 
+    "available_repos": [
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "5f2edc62fa3c9845a4305a580621770a", 
+                "file_size": 32538
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "3c8279c37ec10f098e69d067907429d4", 
+        "file_name": "e7059c0005dbe02813a6e136169bf338.bam.bai", 
+        "file_size": 15930816, 
+        "object_id": "34d5b0d5-be0c-5c06-a535-15a8140c89d3"
+    }, 
+    "bam_file": {
+        "file_md5sum": "e7059c0005dbe02813a6e136169bf338", 
+        "file_name": "e7059c0005dbe02813a6e136169bf338.bam", 
+        "file_size": 152725217571, 
+        "object_id": "3e8dd31f-8e71-5cda-91d5-ed25c85b81c8"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "6c32961d-5e6b-4974-ac46-3a139aee023f", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-UK", 
+    "slice_regions": [
+        "11:80496738-80496838", 
+        "13:78881625-78881725", 
+        "17:18301535-18301635", 
+        "11:76931181-76931281", 
+        "15:4513590-4513690", 
+        "10:81142874-81142974", 
+        "17:48118801-48118901", 
+        "13:80838962-80839062", 
+        "10:3563902-3564002", 
+        "15:69808399-69808499", 
+        "11:97832877-97832977", 
+        "14:44604054-44604154", 
+        "21:42743430-42743530", 
+        "16:80729015-80729115", 
+        "22:42615484-42615584", 
+        "18:14220168-14220268", 
+        "1:172407347-172407447", 
+        "6:12992871-12992971", 
+        "9:66656852-66656952", 
+        "3:52686190-52686290"
+    ], 
+    "specimen_type": "Metastatic tumour - metastasis to distant location", 
+    "submitter_donor_id": "A22-0016_CRUK_PC_0016", 
+    "submitter_sample_id": "A22D-0016_CRUK_PC_0016_M2_DNA", 
+    "submitter_specimen_id": "A22D-0016_CRUK_PC_0016_M2", 
+    "xml_file": {
+        "file_md5sum": "5f2edc62fa3c9845a4305a580621770a", 
+        "file_name": "6c32961d-5e6b-4974-ac46-3a139aee023f.xml", 
+        "file_size": 32538, 
+        "object_id": "42fada7c-ff04-5368-9e87-9b627aa5290c"
+    }
+}
