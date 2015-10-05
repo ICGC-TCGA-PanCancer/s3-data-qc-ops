@@ -1,0 +1,81 @@
+{
+    "_runs_": {
+        "run_1443833349_1eef6a8c-bbb7-4907-a97a-0bf0a40a7fc9": {
+            "downloading": {
+                "bai_file-download_time": 2, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 6612, 
+                "bam_file-md5sum_time": 1725, 
+                "start": 1444011958, 
+                "stop": 1444020299, 
+                "time": 8341
+            }
+        }
+    }, 
+    "aliquot_id": "a08ec059-7592-4698-bb45-25a9c3680c23", 
+    "available_repos": [
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "53a9d3b9c393fd1864d6610e336dfaa4", 
+                "file_size": 41353
+            }
+        }, 
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "941059c09354161e5fe12b485ba6f4d9", 
+                "file_size": 41354
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "4a72dd95661891d29ef26d036c890481", 
+        "file_name": "05a574543e9350f4e1632ac33bcfb8ea.bam.bai", 
+        "file_size": 19141808, 
+        "object_id": "7f7debf5-052f-52b2-bab3-f562a479ce67"
+    }, 
+    "bam_file": {
+        "file_md5sum": "05a574543e9350f4e1632ac33bcfb8ea", 
+        "file_name": "05a574543e9350f4e1632ac33bcfb8ea.bam", 
+        "file_size": 208448667709, 
+        "object_id": "314cecfe-92fe-596c-aabd-2216b3692b6e"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "f23302d3-68ac-4188-8049-a8aec14a15cf", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": false, 
+    "project_code": "PRAD-CA", 
+    "slice_regions": [
+        "6:27322831-27322931", 
+        "13:89945749-89945849", 
+        "2:43225738-43225838", 
+        "9:136557102-136557202", 
+        "12:3115485-3115585", 
+        "4:15015317-15015417", 
+        "19:26318710-26318810", 
+        "5:127203363-127203463", 
+        "15:28912839-28912939", 
+        "10:43486665-43486765", 
+        "16:60240381-60240481", 
+        "15:29345705-29345805", 
+        "22:24024414-24024514", 
+        "4:22898749-22898849", 
+        "12:76006723-76006823", 
+        "12:41530708-41530808", 
+        "13:84265580-84265680", 
+        "18:20438627-20438727", 
+        "16:1402447-1402547", 
+        "12:105764755-105764855"
+    ], 
+    "specimen_type": "Primary tumour - solid tissue", 
+    "submitter_donor_id": "CPCG0388", 
+    "submitter_sample_id": "CPCG0388-F1", 
+    "submitter_specimen_id": "CPCG0388-F1", 
+    "xml_file": {
+        "file_md5sum": "53a9d3b9c393fd1864d6610e336dfaa4", 
+        "file_name": "f23302d3-68ac-4188-8049-a8aec14a15cf.xml", 
+        "file_size": 41353, 
+        "object_id": "7da72a23-6e1d-524b-825e-958aa7613c37"
+    }
+}
