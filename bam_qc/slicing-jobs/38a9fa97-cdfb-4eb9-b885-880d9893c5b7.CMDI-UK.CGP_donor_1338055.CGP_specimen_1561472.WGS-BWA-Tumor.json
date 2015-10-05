@@ -1,0 +1,75 @@
+{
+    "_runs_": {
+        "run_1443835287_4c2978d6-e51a-4db9-ae5a-dc749b3f1da5": {
+            "downloading": {
+                "bai_file-download_time": 2, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 4775, 
+                "bam_file-md5sum_time": 1215, 
+                "start": 1444068775, 
+                "stop": 1444074767, 
+                "time": 5992
+            }
+        }
+    }, 
+    "aliquot_id": "f90c3f1d-5788-234d-e040-11ac0c483423", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "833b33270e964584f42e614bf9a4b2d2", 
+                "file_size": 34319
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "59eec90431c55ecd57a16cf08dc63beb", 
+        "file_name": "99ab9ac4f1d1477792078c2ca5cc01e3.bam.bai", 
+        "file_size": 15671696, 
+        "object_id": "54f2a7e2-daee-5ac1-a956-e7fe48eafaa6"
+    }, 
+    "bam_file": {
+        "file_md5sum": "99ab9ac4f1d1477792078c2ca5cc01e3", 
+        "file_name": "99ab9ac4f1d1477792078c2ca5cc01e3.bam", 
+        "file_size": 155683325978, 
+        "object_id": "d5fd8839-9da3-5b97-92f5-10581c4bad6a"
+    }, 
+    "data_type": "WGS-BWA-Tumor", 
+    "gnos_id": "38a9fa97-cdfb-4eb9-b885-880d9893c5b7", 
+    "gnos_repo": [
+        "https://gtrepo-bsc.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "CMDI-UK", 
+    "slice_regions": [
+        "22:45758071-45758171", 
+        "11:43172932-43173032", 
+        "2:207750072-207750172", 
+        "16:14950534-14950634", 
+        "19:44084144-44084244", 
+        "13:51450597-51450697", 
+        "18:75207798-75207898", 
+        "5:26992870-26992970", 
+        "7:104111741-104111841", 
+        "7:39504945-39505045", 
+        "20:38662834-38662934", 
+        "15:70354542-70354642", 
+        "17:66920819-66920919", 
+        "17:68359029-68359129", 
+        "9:77394083-77394183", 
+        "17:57731940-57732040", 
+        "3:153050054-153050154", 
+        "17:3468047-3468147", 
+        "4:88864075-88864175", 
+        "19:13000584-13000684"
+    ], 
+    "specimen_type": "Primary tumour - blood derived (peripheral blood)", 
+    "submitter_donor_id": "CGP_donor_1338055", 
+    "submitter_sample_id": "PD5117d", 
+    "submitter_specimen_id": "CGP_specimen_1561472", 
+    "xml_file": {
+        "file_md5sum": "833b33270e964584f42e614bf9a4b2d2", 
+        "file_name": "38a9fa97-cdfb-4eb9-b885-880d9893c5b7.xml", 
+        "file_size": 34319, 
+        "object_id": "aa0dd037-672d-5815-a940-b5fa84220003"
+    }
+}
