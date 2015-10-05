@@ -1,0 +1,93 @@
+{
+    "_runs_": {
+        "run_1443833186_e0068828-b599-443c-b9f4-751d970b20da": {
+            "downloading": {
+                "bai_file-download_time": 2, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 4791, 
+                "bam_file-md5sum_time": 1682, 
+                "start": 1444067413, 
+                "stop": 1444073890, 
+                "time": 6477
+            }
+        }
+    }, 
+    "aliquot_id": "352d3c96-7e58-4828-8467-726f36c3df6c", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "d83fcc258eca644f2cdb95eff861567e", 
+                "file_size": 38197
+            }
+        }, 
+        {
+            "https://gtrepo-dkfz.annailabs.com/": {
+                "file_md5sum": "c63111ecba4f7849015a2be28c92bd03", 
+                "file_size": 38199
+            }
+        }, 
+        {
+            "https://gtrepo-riken.annailabs.com/": {
+                "file_md5sum": "ede36cfd734a3157903063d1b1978322", 
+                "file_size": 38195
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "79f3d76a1ba706d08b2574d9ebbe8147", 
+                "file_size": 38198
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "877bf337de7c9d32c889c99aac1df2cc", 
+        "file_name": "e3a83109443e3739f3b9fb45ae3339fe.bam.bai", 
+        "file_size": 20843336, 
+        "object_id": "5be5d657-6065-5634-8151-4663940b1647"
+    }, 
+    "bam_file": {
+        "file_md5sum": "e3a83109443e3739f3b9fb45ae3339fe", 
+        "file_name": "e3a83109443e3739f3b9fb45ae3339fe.bam", 
+        "file_size": 159110866508, 
+        "object_id": "4809aab8-fc52-5d38-978a-84ee5958ac3f"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "35d1ce23-5942-4c88-b15f-1b19c74e26cd", 
+    "gnos_repo": [
+        "https://gtrepo-dkfz.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "PACA-CA", 
+    "slice_regions": [
+        "6:127387993-127388093", 
+        "8:87546321-87546421", 
+        "22:35450615-35450715", 
+        "9:55066709-55066809", 
+        "13:85672578-85672678", 
+        "17:8809672-8809772", 
+        "5:26187835-26187935", 
+        "10:35995231-35995331", 
+        "22:16151330-16151430", 
+        "21:2518925-2519025", 
+        "15:44637093-44637193", 
+        "11:83028169-83028269", 
+        "11:96546861-96546961", 
+        "4:82069605-82069705", 
+        "6:39620966-39621066", 
+        "18:64808016-64808116", 
+        "1:240128963-240129063", 
+        "21:36436227-36436327", 
+        "17:54752422-54752522", 
+        "15:22111760-22111860"
+    ], 
+    "specimen_type": "Normal - solid tissue", 
+    "submitter_donor_id": "PCSI_0072", 
+    "submitter_sample_id": "PCSI_0072_Si_R", 
+    "submitter_specimen_id": "PCSI_0072_Si_R", 
+    "xml_file": {
+        "file_md5sum": "c63111ecba4f7849015a2be28c92bd03", 
+        "file_name": "35d1ce23-5942-4c88-b15f-1b19c74e26cd.xml", 
+        "file_size": 38199, 
+        "object_id": "2879b664-e89d-5b07-b756-65179d1bcb3c"
+    }
+}
