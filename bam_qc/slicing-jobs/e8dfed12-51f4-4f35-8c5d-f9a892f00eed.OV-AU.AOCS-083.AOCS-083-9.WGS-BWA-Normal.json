@@ -1,0 +1,87 @@
+{
+    "_runs_": {
+        "run_1443625989_24637603-4439-426d-b689-b061323a0e4a": {
+            "downloading": {
+                "bai_file-download_time": 1, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 3972, 
+                "bam_file-md5sum_time": 1139, 
+                "start": 1444003270, 
+                "stop": 1444008383, 
+                "time": 5113
+            }
+        }
+    }, 
+    "aliquot_id": "9ff3313f-c050-459f-8dd6-aa5cc17e5edf", 
+    "available_repos": [
+        {
+            "https://gtrepo-bsc.annailabs.com/": {
+                "file_md5sum": "f1f00718a0eeb0df241058a669a08bff", 
+                "file_size": 28910
+            }
+        }, 
+        {
+            "https://gtrepo-ebi.annailabs.com/": {
+                "file_md5sum": "3552e06f96ddbe4a488177d4f2165117", 
+                "file_size": 28804
+            }
+        }, 
+        {
+            "https://gtrepo-osdc-icgc.annailabs.com/": {
+                "file_md5sum": "b5d0d128335581b903160b6192348563", 
+                "file_size": 28926
+            }
+        }
+    ], 
+    "bai_file": {
+        "file_md5sum": "be5e374a5ec742632ed4c7dd333274cc", 
+        "file_name": "1bd895ec115e9c736c71f3da0c779e1a.bam.bai", 
+        "file_size": 13851432, 
+        "object_id": "2ba5764e-e746-508b-81b9-34a69fe25de3"
+    }, 
+    "bam_file": {
+        "file_md5sum": "1bd895ec115e9c736c71f3da0c779e1a", 
+        "file_name": "1bd895ec115e9c736c71f3da0c779e1a.bam", 
+        "file_size": 125197939100, 
+        "object_id": "8f372ab3-8811-55bd-b647-d756e57a4583"
+    }, 
+    "data_type": "WGS-BWA-Normal", 
+    "gnos_id": "e8dfed12-51f4-4f35-8c5d-f9a892f00eed", 
+    "gnos_repo": [
+        "https://gtrepo-ebi.annailabs.com/"
+    ], 
+    "is_santa_cruz": true, 
+    "project_code": "OV-AU", 
+    "slice_regions": [
+        "21:3465327-3465427", 
+        "21:1383454-1383554", 
+        "21:36694505-36694605", 
+        "21:18524042-18524142", 
+        "9:57839713-57839813", 
+        "14:58969760-58969860", 
+        "2:215016825-215016925", 
+        "18:40120389-40120489", 
+        "14:65686763-65686863", 
+        "1:169502861-169502961", 
+        "11:87023934-87024034", 
+        "8:125591465-125591565", 
+        "22:1184243-1184343", 
+        "13:53648040-53648140", 
+        "4:7528977-7529077", 
+        "5:61097723-61097823", 
+        "7:92075956-92076056", 
+        "7:65874774-65874874", 
+        "20:52760870-52760970", 
+        "21:25253426-25253526"
+    ], 
+    "specimen_type": "Normal - blood derived", 
+    "submitter_donor_id": "AOCS-083", 
+    "submitter_sample_id": "AOCS-083-5-1", 
+    "submitter_specimen_id": "AOCS-083-9", 
+    "xml_file": {
+        "file_md5sum": "3552e06f96ddbe4a488177d4f2165117", 
+        "file_name": "e8dfed12-51f4-4f35-8c5d-f9a892f00eed.xml", 
+        "file_size": 28804, 
+        "object_id": "f9d3401f-b226-5040-a6eb-be66d0616627"
+    }
+}
