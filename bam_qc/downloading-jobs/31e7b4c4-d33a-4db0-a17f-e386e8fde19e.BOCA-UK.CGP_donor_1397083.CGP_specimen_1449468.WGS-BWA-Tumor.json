@@ -1,4 +1,17 @@
 {
+    "_runs_": {
+        "run_1444002062_1f22ef12-0501-4bfb-80a9-b081aa59b07b": {
+            "downloading": {
+                "bai_file-download_time": 2, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-download_time": 5878, 
+                "bam_file-md5sum_time": 1415, 
+                "start": 1444065615, 
+                "stop": 1444072910, 
+                "time": 7295
+            }
+        }
+    }, 
     "aliquot_id": "f221c897-6ad0-0df9-e040-11ac0c4813ef", 
     "available_repos": [
         "https://gtrepo-bsc.annailabs.com/"
