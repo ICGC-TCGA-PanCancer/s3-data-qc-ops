@@ -2,12 +2,14 @@
     "_runs_": {
         "run_1443389236_2a20ff5e-f862-44e5-9383-b39f51e77c9c": {
             "downloading": {
-                "start": 1443390142, 
-                "stop": 1443390142
-            }, 
-            "slicing": {
-                "start": 1443390145, 
-                "stop": 1443390145
+                "bai_file-download_time": 0, 
+                "bai_file-md5sum_time": 0, 
+                "bam_file-EOF-missing": true, 
+                "bam_file-download_time": 0, 
+                "bam_file-size-mismatch": 385875968, 
+                "start": 1444228818, 
+                "stop": 1444228818, 
+                "time": 0
             }
         }, 
         "run_1443391151_9449bbf9-f44a-47d5-8833-5645cd7db09b": {
